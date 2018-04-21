@@ -10,7 +10,7 @@ Welcome to Grammatica Latina's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   declinatio_nominis
 
 Indices and tables
 ==================
