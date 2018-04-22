@@ -55,7 +55,7 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: sans-serif;
+    font-family: Noto Sans, Source Han Sans, sans-serif;
     font-size: 15px;
     background-color: #fff;
     color: #000;
@@ -203,7 +203,7 @@ div.sphinxsidebar ul li.toctree-l2 > a {
 
 div.sphinxsidebar input {
     border: 1px solid #CCC;
-    font-family: sans-serif;
+    font-family: Noto Sans, Source Han Sans, sans-serif;
     font-size: 1em;
 }
 
