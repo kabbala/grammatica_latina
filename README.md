@@ -2,7 +2,7 @@ Grammatica Latina
 =================
 라틴어 문법책입니다. 고전 라틴어를 기준으로 작성 하였습니다.
 
-웹에서는 [http://kabbala.github.io/grammatica_latina]에서 보실 수 있습니다.
+웹에서는 http://kabbala.github.io/grammatica_latina 에서 보실 수 있습니다.
 
 사용 기술
 =========
