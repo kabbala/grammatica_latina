@@ -82,7 +82,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'font_family': 'sans-serif',
+    'font_family': 'Noto Sans, Source Han Sans, sans-serif',
     'font_size': '15px',
     'head_font_family': 'sans-serif'
 }
