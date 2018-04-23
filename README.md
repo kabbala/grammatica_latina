@@ -6,7 +6,7 @@ Grammatica Latina
 
 사용 기술
 =========
-* [Sphinx](http://www.sphinx-doc.org/)([GitHub](https://github.com/sphinx-doc/sphinx)) - Python 기반의 문서 생성기입니다. Sphinx는 문서 편집에 [reStructuredText](http://docutils.sourceforge.net/rst.html)(약칭 reST)를 사용합니다.
+* [Sphinx](http://www.sphinx-doc.org/)([GitHub](https://github.com/sphinx-doc/sphinx)) - Python 기반의 문서 생성기입니다. Sphinx는 문서 편집에 [reStructuredText](http://docutils.sourceforge.net/rst.html)(약칭 reST)를 사용합니다. Sphinx를 선택한 이유는 reST가 표(table)와 각주(footnote)를 지원하기 때문입니다.
 
 관련 프로젝트
 =============
