@@ -1244,14 +1244,6 @@ leo(m. 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우.
    * citharicen, citharicinis, m.
    * cornicen, cornicinis, m.
    * lyricen, lyricinis, m.
-   
-carō, carnis, f.
-^^^^^^^^^^^^^^^^
-
-sanguis, inis, m.
-^^^^^^^^^^^^^^^^^
-
-sanguis, -inis, m.      
 
 -en, -inis, n.
 ^^^^^^^^^^^^^^
@@ -1286,11 +1278,6 @@ flumen(n. 강)의 경우처럼 주격에서는 -en이었던 어미가 -in으로 
    * flūmen, flūminis, n. 강
    * nomen, nominis, n. 이름
    * ōmen, ōminis, n. 징조
-
-Venus, Veneris, f.
-^^^^^^^^^^^^^^^^^^
-
-(사고 판다는 뜻의 vēnus(m.)는 제4변화 명사)
 
 -us, -oris, n.
 ^^^^^^^^^^^^^^
@@ -1364,26 +1351,11 @@ pater(m. 아버지)처럼 어간의 -er이 -r로 바뀌 변화하는 경우.
 
    * accipiter, accipitris, m. 매
    * frāter, frātris, m. 형제
-   * linter, lintris, f.
+   * linter, lintris, f. (i 변화로도 사용)
    * māter, mātris, f. 어머니
    * pater, patris, m. 아버지
 
 어간의 -e-가 사라져 음절 수가 줄기 때문에, 이 변화는 주격 단수와 소유격 단수의 음절 수가 같으면 소유격 복수가 -ium으로 변화한다는 일반 원칙의 명확한 예외이다. 그러나 -ium으로 변화하는 linter(f.) 같은 단어와 동일한 형태여서 모양만으로 구분하기는 힘들다.
-
-iter, itineris, n.
-^^^^^^^^^^^^^^^^^^
-
-\*iter-os-is>*iten-os-is>iteiner-is
-
-iecur, iecinoris, n.
-^^^^^^^^^^^^^^^^^^^^
-
-iecur, iecinoris, iecoris
-
-senex, senis, m.f.
-^^^^^^^^^^^^^^^^^^
-
-동음절은 i 변화라는 원칙의 예외이다.
 
 어간 끝의 s가 탈락하는 경우
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1567,7 +1539,7 @@ rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경�
 .. hlist::
    :columns: 3
    
-   * cor, cordis, n.
+   * cor, cordis, n. (i 변화로도 사용)
    * lac, lactis, n.
 
 -s가 탈락하고 사라졌던 t, d가 나타나는 경우
@@ -1833,7 +1805,7 @@ virtus(f. 용기)처럼 보이지 않던 t가 어간에 추가되어 변화하�
 -or, -ōris
 ^^^^^^^^^^
 
-amor(m. 사랑)처럼 어간을 그대로 두고 -is를 붙여 변화를 하는 경우.
+어간이 바뀌지 않고 변화를 하는 경우.
 
 +------+----------------+-----------------+
 |      | 단수           | 복수            |
@@ -1854,17 +1826,22 @@ amor(m. 사랑)처럼 어간을 그대로 두고 -is를 붙여 변화를 하는 
 .. hlist::
    :columns: 3
    
-   * amor, amōris, m.
+   * clamor(m.)
+   * color(m.)
+   * dolor(m.)
+   * honor(m.)
+   * labor(m. 노동, 노역, 고생)
+   * odor(m.)
+   * soror, f.
+   * uxōr, uxōris, f. 아내
 
-이런 변화를 하는 단어는 amor(m. 사랑), auditor(m. 학생), clamor(m.),
-color(m.), dolor(m.), honor(m.), imperator, labor(m. 노동, 노역, 고생),
-mercator(m.), odor(m.), orator(m. 웅변가), professor(m. 교사),
-scriptor(m. 작가, 시인, 역사가), senator, soror(f.), timor(m. 두려움),
-uxor(f.) 등이 있다.
+추상명사화 접미사 -or(m.)가 붙은 단어
 
-amor 등 추상명사화 접미사인 -or(m.)와 actor, cantor, gladiator,
-imperator, senator, tutor, victor 등 행위자를 나타내는 접미사 -tor(m.)
-또는 -sor(m.)가 붙은 단어는 이렇게 변화한다.
+.. hlist::
+   :columns: 3
+   
+   * amor, amōris, m. 사랑
+   * timor, timoris, m. 두려움
 
 행위자를 나타내는 접미사 -tor(m.) 또는 -sor(m.)가 붙은 단어
 
@@ -1872,18 +1849,20 @@ imperator, senator, tutor, victor 등 행위자를 나타내는 접미사 -tor(m
    :columns: 3
 
    * āctor, āctōris, m.
+   * auditor(m. 학생)
    * cantor, cantōris, m.
    * gladiātor, gladiātōris, m.
    * imperātor, imperātōris, m.
+   * mercātor, mercātōris, m. 상인
+   * orator(m. 웅변가)
+   * professor(m. 교사)
+   * scriptor(m. 작가, 시인, 역사가)
    * senātor, senātōris, m.
    * tūtor, tūtōris, m. 보호자, 후견인
    * victor, victōris, m.
 
-aequor, aequoris, n.
-^^^^^^^^^^^^^^^^^^^^
-
-arbor, arboris, f.
-^^^^^^^^^^^^^^^^^^
+예외: arbor, arboris, f.
+''''''''''''''''''''''''
 
 arbor(f. 나무)는 변화할 때 o가 장음이 되지 않는다.
 
@@ -1902,15 +1881,19 @@ arbor(f. 나무)는 변화할 때 o가 장음이 되지 않는다.
 +------+---------+-----------+
 | 호격 | arbor   | arborēs   |
 +------+---------+-----------+
-          
+
+-or, -oris, n.
+^^^^^^^^^^^^^^
+
+aequor, aequoris, n.
+
 vas, vasis, n.
 ^^^^^^^^^^^^^^
 
-caput, capitis, n.
-^^^^^^^^^^^^^^^^^^
-
 -ar, -aris
 ^^^^^^^^^^
+
+인명
 
 .. hlist::
    :columns: 3
@@ -1941,22 +1924,6 @@ sūs, suis, m.f.
 
 sūs, suis, m.f. 돼지
 
-bōs, bovis, m.f.
-^^^^^^^^^^^^^^^^
-
-bōs, bovis, m.f. 소
-
-poēma, poēmatis, n.
-^^^^^^^^^^^^^^^^^^^
-
-poēma, poēmatis, n. 시
-
-iecur, iecoris, n.
-^^^^^^^^^^^^^^^^^^
-
-iecur, iecoris/iecinoris, n. 간
-
-
 -e, -is, n.
 ^^^^^^^^^^^
 
@@ -1971,14 +1938,57 @@ iecur, iecoris/iecinoris, n. 간
    :columns: 3
    
    * Bibracte, Bibractis, n. sg. 비브락테
-   * Praeneste, Praenestis, n. sg. 프라이네스테(현재의 팔레스트리나(Palestrina))
+   * Praeneste, Praenestis, n. sg. 프라이네스테(현재 팔레스트리나(Palestrina))
+
+예외
+~~~~
 
 그리스어
-~~~~~~~~
+^^^^^^^^
 
 aer, aether, heros, haeresis
 
+iter, itineris, n.
+^^^^^^^^^^^^^^^^^^
 
+\*iter-os-is>*iten-os-is>iteiner-is
+
+iecur, iecoris, n.
+^^^^^^^^^^^^^^^^^^
+
+iecur, iecoris/iecinoris, n. 간
+
+senex, senis, m.f.
+^^^^^^^^^^^^^^^^^^
+
+동음절은 i 변화라는 원칙의 예외이다.
+
+
+caput, capitis, n.
+^^^^^^^^^^^^^^^^^^
+   
+carō, carnis, f.
+^^^^^^^^^^^^^^^^
+
+Venus, Veneris, f.
+^^^^^^^^^^^^^^^^^^
+
+(사고 판다는 뜻의 vēnus(m.)는 제4변화 명사)
+
+sanguis, inis, m.
+^^^^^^^^^^^^^^^^^
+
+sanguis, -inis, m.      
+
+bōs, bovis, m.f.
+^^^^^^^^^^^^^^^^
+
+bōs, bovis, m.f. 소
+
+poēma, poēmatis, n.
+^^^^^^^^^^^^^^^^^^^
+
+poēma, poēmatis, n. 시
 
 
 제3변화(3) 단음 i 변화
@@ -2026,7 +2036,7 @@ aedes(f. 사원)처럼 어간의 -ē가 -i로 바뀌어 변화하는 경우. 주
    * fames, famis, f. 배고픔
    * nūbēs, nūbis, f. 구름
    * prōles, prōlis, f. 자식
-   * sedes, sedis, f. 걸상
+   * sēdēs, sēdis, f. 걸상 (-im도 사용)
    * valles, vallis, f. 골짜기 (= vallis, vallis)
    * vulpes, vulpis, f. 여우 (= vulpis, vulpis)
 
@@ -2034,10 +2044,27 @@ aedes(f. 사원)처럼 어간의 -ē가 -i로 바뀌어 변화하는 경우. 주
 
 예외: -im
 ^^^^^^^^^
-febris, sitis, turris, puppis, securis, tussis, restis, Tiberis
-navis
 
-venter(자음변화, i 변화로도 사용)
+.. hlist::
+   :columns: 3
+   
+   * febris, febris, f.
+   * nāvis, nāvis, f. 배
+   * sitis, sitis, f. sg.
+   * turris, turris, f.
+   * puppis, puppis, f.
+   * secūris, secūris, f.
+   * sēdēs, sēdis, f. 걸상
+   * tussis, tussis, f.
+   * restis, restis, f.
+   * venter, ventris, m.(자음변화로도 사용)
+   
+지명
+
+.. hlist::
+   :columns: 3
+
+   * Tiberis, Tiberis, m. sg.
 
 
 변화할 때 s가 탈락하고 사라졌던 t, d가 나타나는 경우
@@ -2147,11 +2174,9 @@ mūs, mūris, m.
    :columns: 3
 
    * imber, imbris, m. 비
+   * linter, lintris (자음변화로도 사용)
    * ūter, ūtris, m.
    * venter, ventris, m. (자음변화, -im으로도 사용)
-
-.. todo: imber, linter, uter, venter, glis, mas, mus, vires
-
 
 예외
 ~~~~
