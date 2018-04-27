@@ -101,51 +101,48 @@
     Delphī, ōrum
     Delphī, -ōrum
 
+.. note:: 제3변화 형용사도 이와 동일한 형태로 표기하는 경우가 있다.
+
 소유격을 표제어로 사용하는 것은 어미로 어떤 변화를 하는 명사인지 유추할 수 있기 때문이다. 단, 제3변화는 다양한 양상으로 변화하므로 여기에 음절수를 비교하는 등의 추가적인 방법을 사용한다.
 
-+-----------------+------------------+---------+
-|      예시       | 소유격 단수 어미 |  분류   |
-+-----------------+------------------+---------+
-| puella, puellae | -ae              | 제1변화 |
-+-----------------+------------------+---------+
-| amicus, amicī   | -ī               | 제2변화 |
-+-----------------+------------------+---------+
-| homō, hominis   | -is              | 제3변화 |
-+-----------------+------------------+---------+
-| manus, manūs    | -ūs              | 제4변화 |
-+-----------------+------------------+---------+
-| diēs, diēī      | -ēī              | 제5변화 |
-+-----------------+------------------+---------+
-
-.. note:: 제3변화 형용사도 이와 동일한 형태로 표기하는 경우가 있다.
+.. csv-table::
+   :align: center
+   :header-rows: 1
+   
+   "사전 표제어", "소유격 단수 어미", "분류"
+   "puella, puellae", "-ae", "제1변화"
+   "amicus, amicī", "-ī", "제2변화"
+   "homō, hominis", "-is", "제3변화"
+   "manus, manūs", "-ūs", "제4변화"
+   "diēs, diēī", "-ēī", "제5변화"
 
 제1변화
 -------
 
 제1변화를 하는 명사는 대부분 -a로 끝나는 여성명사이다. 어간이 -a로 끝나므로 a 변화 또는 a 어간 변화라고도 한다. 어미는 아래 표와 같다.
 
-+------+-------------+-------------+
-|      | 단수        | 복수        |
-+------+-------------+-------------+
-| 주격 | -a          | -ae         |
-+------+-------------+-------------+
-| 속격 | -ae         | -ārum       |
-+------+-------------+-------------+
-| 여격 | -ae         | -īs         |
-+------+-------------+-------------+
-| 대격 | -am         | -ās         |
-+------+-------------+-------------+
-| 탈격 | -ā          | -īs         |
-+------+-------------+-------------+
-| 호격 | 주격과 같음 | 주격과 같음 |
-+------+-------------+-------------+
-| 처격 | -ae         | -īs         |
-+------+-------------+-------------+
+.. csv-table::
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   
+   "", "단수", "복수"
+   "주격", "-a", "-ae"
+   "속격", "-ae", "-ārum"
+   "여격", "-ae", "-īs"
+   "대격", "-am", "-ās"
+   "탈격", "-ā", "-īs"
+   "호격", "주격과 같음", "주격과 같음"
+   "처걱", "-ae", "-īs"
 
 사전 표제어로는 소유격 단수 소유격 단수가 -ae로 끝나기 때문에 사전에 ae 로 표기한다.
 
 소유격 복수 어미는 2음절이고, 끝에서 두번째 음절이 장음이므로, 소유격
-복수형은 강세가 언제나 어미 -ā-에 온다. 예) puellā́rum, puéllīs
+복수형은 강세가 언제나 어미 -ā-에 온다.
+
+::
+
+   puellā́rum
 
 .. note:: 명사 제1변화는 형용사 제1·2변화의 여성형에 그대로 사용된다.
 
@@ -155,7 +152,6 @@
 명사 제1변화의 기본변화로 대부분의 제1변화 명사가 이 형태로 변화한다.
 
 puella(f. 소녀)를 예로 들면 변화는 아래 표와 같다. 복수 여격과 탈격에서는 어간의 -a가 탈락된다.
-
 
 .. csv-table:: puella, ae, f.
    :align: center
@@ -170,50 +166,25 @@ puella(f. 소녀)를 예로 들면 변화는 아래 표와 같다. 복수 여격
    "탈격", "puell+ā", "puell+\ **īs**"
    "호격", "puella", "puell+ae"
 
-bestia(f. 짐승)의 경우처럼 어간이 -ia로 끝나는 경우 어미의 -i-가 겹치면
--iī-로 로 겹쳐 쓰며, 발음도 각각 한다.
-
-.. csv-table:: bestia, ae, f.
-   :align: center
-   :header-rows: 1
-   :stub-columns: 1
-   
-   "", "단수", "복수"
-   "주격", "bestia", "besti+ae"
-   "속격", "besti+ae", "besti+ārum"
-   "여격", "besti+ae", "bbesti+īs = best\ **iī**\ s"
-   "대격", "besti+am", "besti+ās"
-   "탈격", "besti+ā", "besti+īs = best\ **iī**\ s"
-   "호격", "bestia", "puell+ae"
-
 .. hlist::
    :columns: 2
 
-   * aquilia(독수리)
-   * amica(친구, 여성형)
-   * anima(영혼, 여성형)
-   * aqua(물)
-   * ara(제단)
-   * bestia(짐승)
-   * casa(집)
-   * colonia(식민지)
-   * fabula(이야기)
-   * femina(여성)
-   * filia(딸)
-   * fortuna(운명)
+   * aquila, aquilae, f. 독수리 (Aquila, Aquilae, m.라는 이름도 있음)
+   * amīca, amīcae, f. 친구 (남성형은 amīcus, amīcī)
+   * anima, animae, f. 영혼 (남성형은 animus, animī)
+   * aqua, aquae, f. 물
+   * āra, ārae, f. 제단
+   * casa, case, f. 집 (※ cāsus, cāsa, cāsum)
+   * fābula, fābulae, f. 이야기
+   * fēmina, fēminae, f. 여성
+   * fortūna, fortūnae, f. 운명
    * fuga(도망)
    * insula(섬)
-   * Kalendae(초하루)
    * luna(달)
    * mensa(탁자)
-   * patria(조국)
-   * pecunia(돈)
-   * porta(문),
-   * provincia(속주)
+   * porta(문)
    * puella(소녀)
    * rosa(장미)
-   * scientia(지식)
-   * sentensia(뜻)
    * stella(별)
    * terra(대지)
    * unda(파도)
@@ -225,12 +196,13 @@ bestia(f. 짐승)의 경우처럼 어간이 -ia로 끝나는 경우 어미의 -i
 .. hlist::
    :columns: 2
 
-   * cunae(pl. 요람)
+   * cūnae, cūnārum, f. pl. 요람 (단수형 cūna, cūnae도 존재하나 거의 사용되지 않음)
    * deliciae(pl. 즐거움)
    * divitiae(pl. 부유함)
    * excubiae(pl. 불침번)
    * exsequiae(pl. 장례식)
    * insidiae(pl. 음모)
+   * Kalendae, Kalendārum, f. pl. 초하루 (소문자로도 씀)
    * tibiae(pl. 피리).
 
 고유명사의 경우도 -a로 끝나는 여성형의 경우 제1변화를 한다.
@@ -253,8 +225,9 @@ bestia(f. 짐승)의 경우처럼 어간이 -ia로 끝나는 경우 어미의 -i
 
 .. hlist::
    :columns: 2
-   
-   * Rōma, Rōmae, f., sg.
+
+   * Āfrica, Āfricae, f. sg.   
+   * Rōma, Rōmae, f. sg.
    
 복수형 지명
 
@@ -283,6 +256,49 @@ bestia(f. 짐승)의 경우처럼 어간이 -ia로 끝나는 경우 어미의 -i
 .. note:: 복수형으로만 쓰이는 지명은 주로 그리스어에서 유래한 도시의 이름으로, 복수로 쓰이나 단수로 취급된다.
 
 .. note:: 한국어에는 복수형 지명이 없기 때문에, 그리스어와 라틴어 복수형 지명을 한국어로 어떻게 옮겨야 하는지에 대한 논란이 있다. ‘아데나이’처럼 복수형을 그대로 사용하는 경우도 있고, ‘아데나’처럼 단수형을 유추하여 사용하기도 한다.
+
+-(i)a, -(i)ae, f.
+~~~~~~~~~~~~~~~~~
+
+어간이 -ia로 끝나는 경우 어미의 -i-가 겹치면 -iī-로 로 겹쳐 쓰며, 발음도 각각 한다.
+
+.. csv-table:: bēstia, ae, f.
+   :align: center
+   :header-rows: 1
+   :stub-columns: 1
+   
+   "", "단수", "복수"
+   "주격", "bēstia", "bēsti+ae"
+   "속격", "bēsti+ae", "bēsti+ārum"
+   "여격", "bēsti+ae", "bēsti+īs = best\ **iī**\ s"
+   "대격", "bēsti+am", "bēsti+ās"
+   "탈격", "bēsti+ā", "bēsti+īs = best\ **iī**\ s"
+   "호격", "bēstia", "bēsti+ae"
+
+.. hlist::
+   :columns: 2
+
+   * bēstia, bēstiae, f. 짐승
+   * colōnia, colōniae, f. 식민지
+   * fīlia, fīliae, f. 딸 (복수 여격과 탈격에 fīliābus를 사용하기도 함)
+   * patria, patriae, f. 조국
+   * pecūnia, pecūniae, f. 돈
+   * prōvincia, prōvinciae, f. 속주
+   
+그리스어에서 유래한 추상명사화 접미사 -ia(f.)가 붙은 경우
+
+.. hlist::
+   :columns: 2
+
+   * scientia, scientiae, f. 지식
+   * stententia, sententiae, f. 뜻
+   
+지명
+
+.. hlist::
+   :columns: 2
+
+   * Hadria, Hadriae, f. sg.
 
 -a, -ae, m.
 ~~~~~~~~~~~
@@ -322,15 +338,6 @@ athleta, nauta, pirata, poeta 등은 고대 그리스어에서 유래한 것으�
    * Dolābella, Dolābellae, m. sg.
    * Mūrēna, Mūrēnae, m. sg.
    * Scaevola, Scaevolae, m.
-
-지명으로는 Africa, Hadria등이
-있다.
-
-.. hlist::
-   :columns: 2
-
-   * Āfrica, Āfricae, f. sg.
-   * Hadria, Hadriae, f. sg.
 
 예외
 ~~~~
