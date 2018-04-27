@@ -11,6 +11,7 @@ Welcome to Grammatica Latina's documentation!
    :caption: Contents:
 
    declinatio_nominis
+   declinatio_adiectivi
 
 Indices and tables
 ==================
