@@ -40,6 +40,7 @@ release = u''
 # ones.
 extensions = [
     'sphinx.ext.githubpages',
+    'sphinx.ext.todo',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -182,3 +183,5 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
+todo_include_todos = True
+todo_emit_warnings = False
