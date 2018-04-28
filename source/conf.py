@@ -83,11 +83,9 @@ html_theme_path = ["_themes", ]
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {
-#    'font_family': 'Noto Sans, Source Han Sans, sans-serif',
-#    'font_size': '15px',
-#    'head_font_family': 'sans-serif'
-# }
+html_theme_options = {
+     'display_version': False
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
