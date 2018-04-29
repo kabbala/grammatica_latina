@@ -6,23 +6,43 @@
 
 라틴어 명사는 격에 따라 변화한다.
 
+
 어간
 ~~~~
 
 어간은 명사가 격변화할 때 변화하지 않는 부분이다.
 
-제1, 4, 5변화에서는 비교적 쉽게 파악할 수 있으나, `제2변화`_\에는 몇가지 양상이 있어서 어느 양상인지 파악해야 하며, `제3변화`_\처럼 어간을 짐작할 수 없는 경우도 있다.
+제1, 4, 5변화 명사에서는 어간을 비교적 쉽게 파악할 수 있으나, `제2변화`_\에는 몇가지 양상이 있어서 어느 양상인지 파악해야 하며, `제3변화`_\처럼 어간을 짐작할 수 없는 경우도 있다.
+
+.. note::
+
+   한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 어간모음에 의해 어간도 변한다고 본다. [#]_ 그래서 라틴어에서는 복수의 어간 형태를 가진 단어를 쉽게 볼 수 있다.
+   
+   .. [#] 재일교포 趙義成 교수 홈페이지의 `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고. 
+
 
 어간모음
 ~~~~~~~~
 
-어간 끝에 오는 모음을 어간모음이라고 한다.
+라틴어는 어간 끝에 오는 모음에 따라서 명사의 변화 양상이 바뀌는데, 어간 끝에 오는 모음을 어간모음이라고 한다.
 
-라틴어에서는 어간모음에 따라서 명사의 변화 양상이 바뀌는데, 이러한 역할을 하는 모음을 thematic vowel 또는 theme vowel이라고 한다. ‘어간 형성 모음’으로 번역되기도 하며, stem vowel이란 말도 사용된다. 과거에는 모음과 자음의 구분 없이 stem character라는 말을 사용했다.
+.. note::
+
+   이렇게 인도유럽어에서 어간의 변화 양상을 정하는 어간 끝의 모음을 Themavokal(독일어)/thematic vowel(영어)라고 한다.
+
+   정확히는 \*e와 \*o를 의미하는 것이었으나, 개념이 넓어져서 다른 모음에도 사용하게 되었으며, 더 일반적인 의미인 Stammvokal/stem vowel이 이러한 뜻으로 쓰이기도 한다. 어간모음은 이 단어의 번역어이다. ‘어간 형성 모음’으로 번역되기도 했다. 간모음(幹母音)이라는 말도 사용된다.
+   
+   제3변화는 어간모음의 영향을 받지 않는 athematic stem으로 볼 수 있다.
+   
+   과거에는 이러한 개념없이 stem character라는 말을 사용하기도 했으며, strong and weak noun이라는 개념을 사용하기도 한다.
+
+
+분류
+~~~~
 
 라틴어 모음 5개에 따라 명사의 변화를 5가지로 분류한다.
 
-어간의 끝이 자음인 경우는 모음 i인 경우와 비슷하게 변화하므로 같은 제3변화로 분류하는데, 제3변화는 어간모음의 영향을 받지 않는 athematic으로 볼 수 있다.
+어간의 끝이 자음인 경우는 모음 i인 경우와 비슷하게 변화하므로 같은 제3변화로 분류한다.
 
 소유격 복수형에는 어간모음이 언제나 드러난다. 어간의 끝이 자음인 경우는 모음이 없다.
 
@@ -91,19 +111,15 @@
 
 명사는 사전에서 주격 단수와 소유격 단수를 표제어로 사용한다.
 
-::
-
-    puella, puellae
-    puella, ae
-    puella, -ae
+   | puella, puellae
+   | puella, ae
+   | puella, -ae
  
 복수형만 있는 명사는 주격 복수와 소유격 복수로 표기한다.
 
-::
-
-    Delphī, Delphōrum
-    Delphī, ōrum
-    Delphī, -ōrum
+   | Delphī, Delphōrum
+   | Delphī, ōrum
+   | Delphī, -ōrum
 
 소유격을 표제어로 사용하는 것은 어미로 어떤 변화를 하는 명사인지 유추할 수 있기 때문이다. 단, 제3변화는 다양한 양상으로 변화하므로 여기에 음절수를 비교하는 등의 추가적인 방법을 사용한다.
 
@@ -116,17 +132,12 @@
    "homō, hominis", "-is", "제3변화"
    "manus, manūs", "-ūs", "제4변화"
    "diēs, diēī", "-ēī", "제5변화"
-   
-.. note:: 제3변화 형용사도 이와 동일한 형태로 표기하는 경우가 있다.
-
 
 
 제1변화
 -------
 
 제1변화를 하는 명사는 대부분 -a로 끝나는 여성명사이다.
-
-어간모음이 a이므로 a 변화(또는 곡용) 또는 a 어간 변화라고도 한다. 독일어로는 a-Deklination, 영어로는 a-stem declension이라고도 부른다.
 
 .. csv-table::
    :header-rows: 1
@@ -141,27 +152,23 @@
    "호격", "주격과 같음", "주격과 같음"
    "처걱", "-ae", "-īs"
 
+어간모음이 a이므로 a 변화(또는 곡용) 또는 a 어간 변화라고도 한다. a-Deklination(독일어), a-stem declension(영어)이라고도 부른다.
+
 소유격 단수 어미 -ae를 사전 표제어로 사용한다.
 
-::
-
-   puella, puellae
-   puella, ae
-   puella, -ae
+   | puella, puellae
+   | puella, ae
+   | puella, -ae
 
 복수형만 있는 명사는 소유격 복수 어미 -ārum을 사전 표제어로 사용한다.
 
-::
-
-   dīvitiae, dīvitiārum
-   dīvitiae, ārum
-   dīvitiae, -ārum
+   | dīvitiae, dīvitiārum
+   | dīvitiae, ārum
+   | dīvitiae, -ārum
 
 소유격 복수 어미는 2음절이고, 끝에서 두번째 음절이 장음이므로, 소유격 복수형은 강세가 언제나 어미 -ā-에 온다.
 
-::
-
-   puellā́rum
+   | puellā́rum
 
 .. note:: 명사 제1변화는 형용사 제1·2변화의 여성형에 그대로 사용된다.
 
@@ -169,8 +176,6 @@
 ~~~~~~~~~~~
 
 명사 제1변화의 기본변화로 대부분의 제1변화 명사가 이 형태로 변화한다.
-
-복수 여격과 탈격에서는 어간모음 a가 사용되지 않는다.
 
 .. csv-table:: puella, ae, f.
    :header-rows: 1
@@ -184,6 +189,8 @@
    "탈격", "puell+ā", "puell+\ **īs**"
    "호격", "puella", "puell+ae"
 
+복수 여격과 탈격에서는 어간모음 a가 사용되지 않는다.
+
 .. hlist::
    :columns: 2
 
@@ -192,7 +199,7 @@
    * anima, animae, f. 영혼 (남성형은 animus, animī)
    * aqua, aquae, f. 물
    * āra, ārae, f. 제단
-   * casa, case, f. 집 (※ cāsus, cāsa, cāsum)
+   * casa, case, f. 집 (cf. cāsus, cāsa, cāsum)
    * fābula, fābulae, f. 이야기
    * fēmina, fēminae, f. 여성
    * fortūna, fortūnae, f. 운명
@@ -271,7 +278,7 @@
 
 .. note:: 복수형으로만 쓰이는 지명은 주로 그리스어에서 유래한 도시의 이름으로, 복수로 쓰이나 단수로 취급된다.
 
-.. note:: 한국어에는 복수형 지명이 없기 때문에, 그리스어와 라틴어 복수형 지명을 한국어로 어떻게 옮겨야 하는지에 대한 논란이 있다. ‘아데나이’처럼 복수형을 그대로 사용하는 경우도 있고, ‘아데나’처럼 단수형을 유추하여 사용하기도 한다.
+   한국어에는 복수형 지명이 없기 때문에, 그리스어와 라틴어 복수형 지명을 한국어로 어떻게 옮겨야 하는지에 대한 논란이 있다. ‘아데나이’처럼 복수형을 그대로 사용하는 경우도 있고, ‘아데나’처럼 단수형을 유추하여 사용하기도 한다.
 
 -(i)a, -(i)ae, f.
 ~~~~~~~~~~~~~~~~~
@@ -329,7 +336,7 @@
    * scrība, scrībae, m. 서기, 필경사
    * incola, incolae, m.f. 주민 (incolō+a)
  
-경작자를 나타내는 접미사 -cola(colō+a)가 붙은 경우
+경작자를 나타내는 접미사 -cola가 붙은 경우. -cola는 colō+a이므로 -a가 붙은 경우에 포함할 수도 있다.
 
 .. hlist::
    :columns: 2
@@ -342,10 +349,10 @@
 .. hlist::
    :columns: 2
     
-   * āthlēta, āthlētae, m. 운동선수
-   * nauta, nautae, m. 선원
-   * pīrāta, pīrātae, m. 해적
-   * poēta, poētae, m. 시인
+   * āthlēta, āthlētae, m. 운동선수 < 그리스어 athlētḗs
+   * nauta, nautae, m. 선원 < 그리스어 naútēs
+   * pīrāta, pīrātae, m. 해적 < 그리스어 peirātḗs
+   * poēta, poētae, m. 시인 < 그리스어 poiētḗs
 
 인명
 
@@ -425,16 +432,14 @@
 .. hlist::
    :columns: 2
    
-   * epitomē, epitomēs, f. (※ epitoma, epitomae)
-   * nymphē, nyymphēs, f. 소녀, 님프 (※ nympha, nymphae)
+   * epitomē, epitomēs, f. (cf. epitoma, epitomae)
+   * nymphē, nyymphēs, f. 소녀, 님프 (cf. nympha, nymphae)
    * Pēnelopē, Pēnelopēs, f. sg. 그리스어 Pēnelópē
    
 .. note:: 규칙 변화하는 라틴어형 형태를 가지고 있는 경우도 있다.
 
-   ::
-    
-      epitomē, ēs = epitoma, ae
-      nymphē, ēs = nympha, ae
+   | epitomē, ēs = epitoma, ae
+   | nymphē, ēs = nympha, ae
 
 
 소유격 familiās
@@ -444,14 +449,10 @@
 
 보통 pater, mater, filius, filia를 뒤에서 수식한다. paterfamilias(가장), materfamilias 처럼 붙여 쓰기도 한다. 복수형 역시 patres familias로 쓴다.
 
-::
-
-   pater familias
-   mater familias
-   filius familias
-   filia familias
-
-.. todo:: 형용사 1,2변화에 ambōbus와 duōbus 넣기.
+   | pater familias
+   | mater familias
+   | filius familias
+   | filia familias
 
 
 여격과 탈격 deābus
@@ -491,15 +492,15 @@ filia(f. 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 �
    "탈격", "fīli+ā", "fīli+īs, fīli+\ **ābus**"
    "호격", "fīlia", "fīli+ae"
 
-이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filliis et fillis라는 중복되는 표현을 피해 filiis et filiabus 사용하기 위해서인 것으로 추정한다.filiis와 구별하기 위해서인 것으로 추정한다. 다음과 같은 표현에서 잘 드러난다. 물론 filiis가 남여 모두를 총칭하는 경우로 사용되지 않는 것은 아니다.
+이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filliis et fillis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
+
+물론 filiis가 남여 모두를 총칭하는 경우로 사용되지 않는 것은 아니다.
 
 .. note:: 중세 라틴어에서 같은 이유로 여성 명사 복수 여격과 탈격의 어미를 -abus로 바꿔 표현하는 경우가 있다.
 
-   ::
-
-      animis et animabus
-      famulis et famulabus
-      libertis et libertabus
+   | animis et animabus
+   | famulis et famulabus
+   | libertis et libertabus
 
 
 제2변화
@@ -513,12 +514,10 @@ filia(f. 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 �
 
 명사 제2변화는 o(오) 변화(또는 곡용)라고도 한다. o 변화라고 부르는 것은 어간 끝의 -us가 원래 -os여서 어간모음이 o인 것으로 보기 때문이다. -er 또한 -os가 변화한 것으로 본다. 독일어는 o-Deklination, 영어로는 o-stem declension이라고도 한다.
 
-::
-
-   filios → filius
-   donom → donum
-   pueros → *puers → *puerr → puer
-   agros → *agrs → *agers → ager
+   | filios → filius
+   | donom → donum
+   | pueros → \*puers → \*puerr → puer
+   | agros → \*agrs → \*agers → ager
 
 어미의 변화는 아래와 같다. 주격 단수가 -us인 경우 호격 단수 어미는 -e이고, -ius인 경우 -ī로, 호격이 주격과 같다는 일반 원칙의 예외이다.
 
@@ -544,11 +543,9 @@ filia(f. 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 �
 
 소유격 단수가 -ī로 끝나므로 사전에 ī로 표기한다. 
 
-::
-
-   amīcus, amīcī
-   amīcus, ī
-   amīcus, -ī
+   | amīcus, amīcī
+   | amīcus, ī
+   | amīcus, -ī
 
 .. note:: 주로 남성형, 중성형인 명사 제2변화는 형용사 제1·2변화의 남성형과 중성형에, 주로 여성형인 명사 제1변화는 형용사 제1·2변화의 여성형에 그대로 사용된다.
 
@@ -654,8 +651,6 @@ filia(f. 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 �
 
 filius(아들), fluvius(강) 처럼 주격 단수 어간이 -i로 끝나는 경우 i를 두번 겹쳐서 쓰고 발음도 각각 한다. 호격 단수는 -e가 아닌 -ī로 끝나며, -iī 형태가 아님에 유의.
 
--us의 변화와 -ius의 변화가 다른 것은 상고 라틴어에서 -ius와 -ium이 다른 변화를 하는 형태였기 때문으로 본다.
-
 fīlius, fīliī, m.
 
 +------+--------------+----------+
@@ -675,6 +670,8 @@ fīlius, fīliī, m.
 +------+--------------+----------+
 | 호격 | fīlī         | fīliī    |
 +------+--------------+----------+
+
+-us의 변화와 -ius의 변화가 다른 것은 상고 라틴어에서 -ius와 -ium이 다른 변화를 하는 형태였기 때문으로 본다.
 
 아우구스투스 시대 이전의 남성형 인명 역시 소유격 단수에서 -ī를 쓰나, 후대에 -iī도 사용된다.
 
@@ -729,6 +726,7 @@ fīlius, fīliī, m.
    
    * Pompēiī, Pompēiōrum, m. pl.
 
+
 -us, -ī, f.
 ~~~~~~~~~~~
 
@@ -757,12 +755,12 @@ fīlius, fīliī, m.
 .. hlist::
    :columns: 2
    
-   * alvus
-   * carbasus
-   * fagus
-   * ficus
-   * humus
-   * populus
+   * alvus, alvī, f.
+   * carbasus, carbasī, f.
+   * fāgus, fagī, f.
+   * fīcus, fīcī, m.f. (fīcus, fīcūs 제4변화도 한다)
+   * humus, humī, f. 대지
+   * populus, populī, f.
 
 지명
 
@@ -771,7 +769,7 @@ fīlius, fīliī, m.
    
    * Aegyptus, Aegyptī, f. sg.
    * Corinthus, Corinthī, f. sg.
-   * Rhodus, Rhodī, f. sg.(또는 Rhodos, Rhodī, f. sg.)
+   * Rhodus, Rhodī, f. sg. 또는 Rhodos, Rhodī, f. sg.
 
 -us, -ī, n.
 ~~~~~~~~~~~
@@ -924,6 +922,7 @@ puer, puerī, m.
    
 .. todo:: 형용사 변화에도 추가
 
+
 -um, -ī, n.
 ~~~~~~~~~~~
 
@@ -989,45 +988,43 @@ convivium(n. 연회) 등과 같이 어간이 -ium으로 끝나는 경우는 어�
    * verbum(말)
    * vitium(과오, 악행)
 
-예외
-~~~~
 
-그리스어
-^^^^^^^^
+-os, -ī, m.f.
+~~~~~~~~~~~~~
 
 그리스어의 영향으로 다르게 변화하는 경우. 목적격 단수가 -on으로 끝난다.
 
-+------+-------+
-|      | 단수  |
-+======+=======+
-| 주격 | Dēlos |
-+------+-------+
-| 속격 | Dēlī  |
-+------+-------+
-| 여격 | Dēlō  |
-+------+-------+
-| 대격 | Dēlon |
-+------+-------+
-| 탈격 | Dēlō  |
-+------+-------+
-| 호격 | Dēlē  |
-+------+-------+
+남성형, 여성형 명사는 주격 단수의 어미와 소유격 단수의 어미가 같다.
 
 .. hlist::
    :columns: 2
    
+   * lōtos, lōtī, m.f. 로터스 (규칙변화 하는 lōtus, lōtī도 있다)
    * mȳthos, mȳthī, m. 신화
    * phaenomenon, phaenomenī, n.  
 
-지명
+지명은 대부분 여성형이다.
+
+.. csv-table:: Dēlos, ī, f. sg.
+   :header-rows: 1
+   :stub-columns: 1
+
+   "", "단수"
+   "주격", "Dēlos"
+   "속격", "Dēl+ī"
+   "여격", "Dēl+ō"
+   "대격", "Dēl+on"
+   "탈격", "Dēl+ō"
+   "호격", "Dēl+e"
 
 .. hlist::
    :columns: 2
    
-   * Dēlos, Dēlī, m. sg. 델로스 섬
+   * Dēlos, Dēlī, f. sg. 델로스 섬
+   * Samos, Samī, f. sg.
 
 deus
-^^^^
+~~~~
 
 deus(m. 신)는 다양한 변화형을 가지고 있다.
 
@@ -1066,7 +1063,7 @@ deus(m. 신)는 다양한 변화형을 가지고 있다.
 +------+------+--------+
 
 vir
-^^^
+~~~
 
 vir(m. 남자, 영웅, 남편)는 어간을 그대로 유지하면서 다음과 같이
 변화한다. 어미만 -ir일뿐 e가 생략되지 않는 -er의 경우와 동일하게
@@ -1092,8 +1089,9 @@ vir, virī, m.
 |      | (vire) |         |
 +------+--------+---------+
 
-소유격 복수에 um이 사용되는 경우
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+소유격 복수 um
+~~~~~~~~~~~~~~
 
 
 
@@ -1108,11 +1106,9 @@ vir, virī, m.
 
 그래서 제3변화 명사는 변화된 어간이 붙어 있는 소유격 단수와 함께 기억하는 것이 좋다. 이것은 사전 표제어와 일치하기도 한다.
 
-::
-
-   homo, hominis
-   cīvis, cīvis
-   amor, amōris
+   | homo, hominis
+   | cīvis, cīvis
+   | amor, amōris
 
 예를 들어 homo(m. 인간)의 경우 homo, hominis로 기억을 하면, 주격은 homo이고, 변화는 homin-이라는 어간으로 함을 파악할 수 있다. civis(m.f. 시민)는 변화형이 주격과 동일한 형태임을 알 수 있으며, amor(m. 사랑)은 주격 뒤에 어미가 붙어 변화하는 형태라는 것을 짐작할 수 있다.
 
@@ -1180,9 +1176,6 @@ vir, virī, m.
 
 사전에는 다른 명사 변화와 마찬가지로 소유격 어미인 is로 표기한다. 그런데 제3변화는 자음변화와 i 변화의 차이가 있기 때문에, 표제어를 보고 중 어떤 변화인지 유추해야 할 필요가 있다. 이 방법은 다음 절에서 설명한다.
 
-명사의 제3변화 중 i 변화는 형용사의 제3변화에 그대로 사용된다.
-
-제3변화 명사는 변화가 많기 때문에 책마다 다양한 분류 방법을 사용한다.
 
 .. [#] 성염, 고전 라틴어, 1판, 1994.
 
@@ -1197,28 +1190,27 @@ vir, virī, m.
 
 변화의 종류가 매우 다양해서 책마다 여러가지 방법으로 분류한다.
 
-여기서는 다음 방법으로 분류하도록 하겠다.
+여기서는 변화 형태에 따라 아래의 방법으로 분류하기로 한다.
 
-1. 변화할 때 숨어있던 어간이 나타나는 경우
-   1. 숨어있던 어간이 나타나는 경우
-   2. 자음이 겹쳐서 사라졌던 어간이 나타나는 경우
-2. 변화할 때 어간 끝의 s가 변화하는 경우.
-   1. 어간 끝의 s가 탈락하는 경우
-   2. 어간 끝의 s가 탈락할 때, s 때문에 사라졌던 어간 끝의 d, t가 다시 나타나는 경우
-   3. 어간 끝의 s가 r 등으로 유음화 하는 경우
-3. 변화할 때 주격 어간을 변화없이 사용하는 경우
+1. n이 나타나는 경우(leōn, lēonis, m.)
+#. -ter가 -tris로 바뀌는 경우(pater, patris, m.)
+#. s 또는 변형인 x가 탈락하는 경우(dux, ducis, m.f.)
+#. s가 탈락하고 사라졌던 t, d가 나타나는 경우(virtūs, virtūtis, f.)
+#. s 이외의 자음 때문에 사라졌던 t, d가 나타나는 경우(cor, cordis, n.)
+#. s가 r로 유음화 하는 경우(flōs, flōris, m.)
+#. 주격과 어간이 같은 경우(canis, canis, m.f.)
+#. 주격이 그대로 어간이 되는 경우(amor, amōris, m.)
+#. 기타
 
 .. todo:: 장음이 단음으로 바뀌는 경우 설명
 
-다른 어간이 나타나는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~
+n이 나타나는 경우
+~~~~~~~~~~~~~~~~~
 
 -ō, -ōnis, m.f.
 ^^^^^^^^^^^^^^^
 
 leo(m. 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우. 원래 어간이 leōn이었던다가 n이 탈락한 것으로 생각할 수 있다.
-
-.. todo:: 어간이 n을 제외한 유성음(? 비음?) m, g, d, l 등으로 끝나는가?
 
 .. csv-table:: leō, ōnis, m.
    :header-rows: 1
@@ -1253,7 +1245,7 @@ leo(m. 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우.
    :columns: 2
 
    * capiō, capiōnis, f.
-   * contāgiō, contāgiōnis, f. (※ contāgium. contāgī, n.)
+   * contāgiō, contāgiōnis, f. (cf. contāgium. contāgī, n.)
    * īnflectiō, īnflectiōins, f.
    * legiō, legiōnis, f.
    * regiō, regiōnis, f. 방향, 직선
@@ -1282,8 +1274,6 @@ leo(m. 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우.
 ^^^^^^^^^^^^^^^
 
 homo(m. 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 다른 어간이 homin이었던 것으로 생각할 수 있다.
-
-.. todo:: 어간이 n을 제외한 유성음(? 비음?) m, g, d, l 등으로 끝나는가?
 
 +------+----------------+-----------------+
 |      | 단수           | 복수            |
@@ -1324,7 +1314,10 @@ homo(m. 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 다른 
    * altitūdō, altitūdinis, f.
    * multitūdō, multitūdinis, f. 많음, 대중
    * pulchritūdō, pulchritūdinis, f. 아름다움
-
+   
+   
+carō, carnis, f.
+^^^^^^^^^^^^^^^^
    
 -en, -inis, m.
 ^^^^^^^^^^^^^^
@@ -1337,6 +1330,7 @@ homo(m. 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 다른 
    * citharicen, citharicinis, m.
    * cornicen, cornicinis, m.
    * lyricen, lyricinis, m.
+
 
 -en, -inis, n.
 ^^^^^^^^^^^^^^
@@ -1372,10 +1366,14 @@ homo(m. 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 다른 
    * nomen, nominis, n. 이름
    * ōmen, ōminis, n. 징조
 
--er, -ris, m.f.
-^^^^^^^^^^^^^^^
 
-pater(m. 아버지)처럼 어간 끝의 -er에서 -e가 빠지면서 변화하는 경우.
+다른 어간이 나타나는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-(t)er, -(t)ris, m.f.
+^^^^^^^^^^^^^^^^^^^^^
+
+어간 끝의 -er에서 -e가 빠지면서 변화하는 경우.
 
 .. csv-table:: pater, ris, m.
    :header-rows: 1
@@ -1401,49 +1399,12 @@ pater(m. 아버지)처럼 어간 끝의 -er에서 -e가 빠지면서 변화하�
 어간의 -e-가 사라져 음절 수가 줄기 때문에, 이 변화는 주격 단수와 소유격 단수의 음절 수가 같으면 소유격 복수가 -ium으로 변화한다는 일반 원칙의 명확한 예외이다. 그러나 -ium으로 변화하는 linter(f.) 같은 단어와 동일한 형태여서 모양만으로 구분하기는 힘들다.
 
 
--us, -eris, n.
-^^^^^^^^^^^^^^
-
-어간이 -er로 바뀌어 변화하는 경우.
-
-.. hlist::
-   :columns: 2
-   
-   * genus, generis, n. 성(性)
-   * mūnus, mūneris, n. 직무, 예물
-   * opus, operis, n. 일, 업적
-   * scelus, sceleris, n. 범죄
-   * sīdus, sīderis, n. 별자리, 별
-   * vulnus, vulneris, n. 상처
-
-
--is, -eris, m.f.
-^^^^^^^^^^^^^^^^
-
-.. hlist::
-   :columns: 2
-
-   * Cerēs, Cereris, f. 케레스(풍작의 여신)
-   * cinis, cineris, m.f. 재(灰)
-   * pulvis, pulveris, m. 먼지
-
-
-어간 끝의 s가 탈락하는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+s 또는 변형인 x가 탈락하는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 변화할 때 주격 끝의 s가 빠지고 변화하는 경우. 어간 끝이 주로 b, p와 같은 입술소리이다.
-
-::
-
-   trabs, trabis, f.
-   stips, stipis, m.
    
 -x로 끝나는 명사도 같은 변화로 분류하는데, 이것은 x가 c 또는 g와 s가 합쳐진 것이기 때문이다.
-
-::
-
-   dux(=ducs), ducis, m.f.
-   rēx(=rēgs), rēgis, m.
 
 -x, -cis, m.f.
 ^^^^^^^^^^^^^^
@@ -1489,7 +1450,7 @@ dux(m.f. 지도자)처럼 보이지 않던 c가 어간에 추가되어 변화하
 -ex, -icis, m.
 ^^^^^^^^^^^^^^
 
--ex로 끝나는 경우 e가 i로 바뀌어 변화한다.
+-ex로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
 
 +------+---------+-----------+
 |      | 단수    | 복수      |
@@ -1528,9 +1489,7 @@ dux(m.f. 지도자)처럼 보이지 않던 c가 어간에 추가되어 변화하
 
 rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경우. 이 경우 x가 g+s로 결합한 형태였다가 s가 탈락하자 g가 보이는 것으로 생각할 수 있다.
 
-::
-
-   rēx(=regs), rēgis
+   | rēx(=regs), rēgis
 
 +------+--------+----------+
 |      | 단수   | 복수     |
@@ -1561,7 +1520,7 @@ rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경�
 -ex, -igis, m.
 ^^^^^^^^^^^^^^
 
--ex로 끝나는 경우 e가 i로 바뀌어 변화한다.
+-ex로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
 
 .. hlist::
    :columns: 2
@@ -1583,7 +1542,6 @@ rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경�
 .. hlist::
    :columns: 2
 
-   * auceps, aucupis, m.
    * daps, dapis, f.
    * stips, stipis, m.
 
@@ -1594,10 +1552,18 @@ rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경�
    :columns: 2
    
    * princeps, principis, m.
+   
+-eps, -upis, m.
+^^^^^^^^^^^^^^^
 
--(m)s, -(m)is, f.
+.. hlist::
+   :columns: 2
+   
+   * auceps, aucupis, m.
+
+
+hiems, hiemis, f.
 ^^^^^^^^^^^^^^^^^
-
 어간이 -m으로 끝나고 -is를 붙이는 경우로, hiems(f. 겨울)만 이렇게 변화한다.
 
 +------+----------------+-----------------+
@@ -1616,25 +1582,13 @@ rex(m. 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하는 경�
 | 호격 | hiems          | hiemēs          |
 +------+----------------+-----------------+
 
-자음이 겹쳐서 사라졌던 t, d가 나타나는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. hlist::
-   :columns: 2
-   
-   * cor, cordis, n. (i 변화로도 사용)
-   * lac, lactis, n.
-
--s가 탈락하고 사라졌던 t, d가 나타나는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+s가 탈락하고 사라졌던 t, d가 나타나는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -s, -tis, m.f.
 ^^^^^^^^^^^^^^
 s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 다시 나타나는 경우.
-
-::
-
-   virtut+s > virtus
 
 +------+----------------+-----------------+
 |      | 단수           | 복수            |
@@ -1655,9 +1609,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 .. hlist::
    :columns: 2
 
-   * ariēs, arietis, m. 양(羊)
-   * parēns, parentis, m.f. 부모
-   * quiēs, quiētis, f.
+   * quiēs, quiētis, f. 쉼
 
 명사화 접미사 -tās(f.) 또는 -itās(f.)가 붙은 경우
 
@@ -1696,25 +1648,15 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 .. hlist::
    :columns: 2
    
-   * iuventus(f. 젊음)
-   * senectus(f. 노년)
-   * servitus(f. 굴종)
+   * iuventūs, iuventūtis, f. 젊음
+   * senectūs, senectūtis, f. 노년
+   * servitūs, servitūtis, f. 굴종
    * virtūs, virtūtis, f. 용기
    
-현재 분사에서 파생한 명사. -āns/-ēns/-iēns로 끝난다.
-
-.. hlist::
-   :columns: 2
-   
-   * oriēns, orientis, m. 동쪽, 일출
-   * occidēns, occidentis, m. 서쪽, 일몰
-
-.. note:: 현재 분사도 이 형태로 변화한다.
-
 -es, -itis, m.
 ^^^^^^^^^^^^^^
 
-s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 다시 나타나는 경우에 es로 끝나는 경우는 -itis로 변화한다. 장음 -ēs로 끝나는 경우는 포함되지 않는다.
+-es로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
 
 .. hlist::
    :columns: 2
@@ -1725,13 +1667,37 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
    * mīles, mīlitis, m.
    * pedes, peditis, m. 보행자, 보병(참고: pēs의 복수형 pēdes)
 
+-ēs, -etis
+^^^^^^^^^^
+
+.. hlist::
+   :columns: 2
+
+   * ariēs, arietis, m. 양(羊)
+
+-ēns, -entis
+^^^^^^^^^^^^
+
+.. hlist::
+   :columns: 2
+
+   * parēns, parentis, m.f. 부모
+
+현재 분사에서 파생한 명사
+
+.. hlist::
+   :columns: 2
+   
+   * oriēns, orientis, m. 동쪽, 일출
+   * occidēns, occidentis, m. 서쪽, 일몰
+
+.. note:: 현재분사도 이 형태의 어간을 갖는다. 그러나 변화는 탈격 단수가 -ī이고 중성 주격 복수가 -ia인 형용사 제3변화로 한다.
+
 -s, -dis, m.f.
 ^^^^^^^^^^^^^^
 s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 다시 나타나는 경우.
 
-::
-
-   pēd+s > pēs
+   | pēd+s > pēs
 
 +------+----------------+-----------------+
 |      | 단수           | 복수            |
@@ -1756,20 +1722,39 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
    * lapis, lapidis, m. 돌
    * laus, laudis, f.
    * pēs, pedis, m. 발
+   * vas, vadis, m. 담보물, 보석금 (cf. `vās, vāsis, n.`_\ )
+   
+-es, -idis, m.
+^^^^^^^^^^^^^^
+-es로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
 
-변화할 때 어간 끝의 s가 유음화되는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. hlist::
+   :columns: 2
 
-모음 사이에 끼인 s가 r로 변화하는 것을 유음화(rhotacismus)라고 한다.
+   * obses, obsidis, m.f.
+   
+
+자음이 겹쳐서 사라졌던 t, d가 나타나는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cor, cordis, n.
+^^^^^^^^^^^^^^^
+* cor, cordis, n. (i 변화로도 사용)
+
+lac, lactis, n.
+^^^^^^^^^^^^^^^
+* lac, lactis, n.
+
+
+어간 끝의 s가 유음화되는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+모음 사이에 끼인 s가 r로 변화하는 것을 유음화(영어 rhotacism)라고 한다.
 
 -ōs, -ōris, m.f.
 ^^^^^^^^^^^^^^^^
 
 변화할 때 어간 끝의 ōs가 유음화하여 ōr이 되는 경우.
-
-::
-
-   flos+is > floris
 
 +------+--------+----------+
 |      | 단수   | 복수     |
@@ -1795,17 +1780,21 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
    * honōs, honōris, m. 명예(상고어. 고전어는 honor, honōris)
    * mōs, mōris, m. 관습
    
-.. todo:: labos(m.)?
+
+-is, -eris, m.f.
+^^^^^^^^^^^^^^^^
+
+.. hlist::
+   :columns: 2
+
+   * cinis, cineris, m.f. 재(灰)
+   * pulvis, pulveris, m. 먼지
 
 
 -ūs, -ūris, n.
 ^^^^^^^^^^^^^^
 
 변화할 때 어간 끝의 ūs가 유음화하여 ūr이 되는 경우.
-
-::
-
-   crūs+is > crūris
 
 +------+----------------+-----------------+
 |      | 단수           | 복수            |
@@ -1862,8 +1851,35 @@ corpus(n. 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경우.
    * tempus, temporis, n. 시간
 
 
-어간 변화가 없이 변화하는 경우
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-us, -eris, n.
+^^^^^^^^^^^^^^
+
+어간이 -er로 바뀌어 변화하는 경우.
+
+.. hlist::
+   :columns: 2
+   
+   * genus, generis, n. 성(性)
+   * mūnus, mūneris, n. 직무, 예물
+   * opus, operis, n. 일, 업적
+   * scelus, sceleris, n. 범죄
+   * sīdus, sīderis, n. 별자리, 별
+   * vulnus, vulneris, n. 상처
+
+
+-es, -eris, n.
+^^^^^^^^^^^^^^
+
+* aes, aeris, n.
+
+Cerēs, Cereris, f.
+^^^^^^^^^^^^^^^^^^
+
+* Cerēs, Cereris, f. 케레스(풍작의 여신)
+
+
+주격과 어간이 같은 경우
+~~~~~~~~~~~~~~~~~~~~~~~
 
 -is, -is, m.f.
 ^^^^^^^^^^^^^^
@@ -1871,10 +1887,15 @@ corpus(n. 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경우.
 .. hlist::
    :columns: 2
    
-   * canis, casnis, m.f. 개
+   * canis, canis, m.f. 개
    * iuvenis, iuvenis, m.f. 젊은이
+   * pānis, pānis, m. 빵
 
 .. attention:: 동음절은 i 변화라는 원칙의 예외이다.(faux parisyllabiques)
+
+
+주격이 어간으로 사용되는 경우
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -l, -lis, m.
 ^^^^^^^^^^^^
@@ -1941,45 +1962,45 @@ corpus(n. 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경우.
    
    * Caesar, Caesaris, m.
 
--or, -ōris
-^^^^^^^^^^
+-or, -ōris, m.f.
+^^^^^^^^^^^^^^^^
 
-어간이 바뀌지 않고 변화를 하는 경우.
+-or로 끝나는 주격이 바뀌지 않고 그대로 어간으로 사용되는 경우.
 
-+------+----------------+-----------------+
-|      | 단수           | 복수            |
-+------+----------------+-----------------+
-| 주격 | amor           | amōrēs          |
-+------+----------------+-----------------+
-| 속격 | amōr\ **is**   | amor\ **um**    |
-+------+----------------+-----------------+
-| 여격 | amōrī          | amōribus        |
-+------+----------------+-----------------+
-| 대격 | amōrem         | amōrēs          |
-+------+----------------+-----------------+
-| 탈격 | amōre          | amōribus        |
-+------+----------------+-----------------+
-| 호격 | amor           | amōrēs          |
-+------+----------------+-----------------+
+.. csv-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   "", "단수", "복수"
+   "주격", "amor", "amōr+ēs"
+   "속격", "amōr+is", "amōr+um"
+   "여격", "amōr+ī", "amōr+ibus"
+   "대격", "amōr+em", "amōr+ēs"
+   "탈격", "amōr+e", "amōr+ibus"
+   "호격", "amor", "amōr+ēs"
+
+어간의 마지막 모음 단음 o가 장음 ō로 바뀌는 것이 특징이다.
+
+o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있다.
 
 .. hlist::
    :columns: 2
    
-   * clamor(m.)
-   * color(m.)
-   * dolor(m.)
-   * honor(m.)
-   * labor(m. 노동, 노역, 고생)
-   * odor(m.)
-   * soror, f.
+   * color, colōris, m. (cf. colōs, colōris)
+   * dolor, dolōris, m.
+   * honor, honōris, m. 명예 (cf. honōs, honōris)
+   * labor, labōris, m. 노동, 노역, 고생 (cf. labōs, labōris)
+   * odor, odōris, m. (cf. odōs, odōris)
+   * soror, sorōris, f. 자매
    * uxōr, uxōris, f. 아내
 
-추상명사화 접미사 -or(m.)가 붙은 단어
+동사에 추상명사화 접미사 -or(m.)가 붙은 경우
 
 .. hlist::
    :columns: 2
    
    * amor, amōris, m. 사랑
+   * clamor, clamōris, m. 외침
    * timor, timoris, m. 두려움
 
 행위자를 나타내는 접미사 -tor(m.) 또는 -sor(m.)가 붙은 단어
@@ -1988,38 +2009,49 @@ corpus(n. 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경우.
    :columns: 2
 
    * āctor, āctōris, m.
-   * auditor(m. 학생)
+   * audītor, audītōris, m. 학생
    * cantor, cantōris, m.
    * gladiātor, gladiātōris, m.
    * imperātor, imperātōris, m.
    * mercātor, mercātōris, m. 상인
-   * orator(m. 웅변가)
-   * professor(m. 교사)
-   * scriptor(m. 작가, 시인, 역사가)
+   * ōrātor, ōrātōris, m. 웅변가
+   * professor, professōris, m. 교사
+   * scrīptor, scrīptōris, m. 작가, 시인, 역사가
    * senātor, senātōris, m.
    * tūtor, tūtōris, m. 보호자, 후견인
    * victor, victōris, m.
+   
+.. note::
+
+   형태상 주격을 어간으로 그대로 사용하는 경우로 분류하였지만, 아래 단어들은 -ōs로 끝나는 고형을 가지고 있으므로 원래의 어간에서 s가 r로 바뀌는 유음화가 일어난 것으로 봐야 할 것이다.
+
+   | color < colōs(상고 라틴어), colōris
+   | dolor < \*dolos(인도유럽조어), dolōris
+   | honor < honōs(상고 라틴어), honōris
+   | labor < labōs(상고 라틴어), labōris
+   | odor < odōs(상고 라틴어), odōris
+   
+   명사화 접미사 -or 역시 고형이 -ōs이다.
+
 
 arbor, arboris, f.
 ^^^^^^^^^^^^^^^^^^
 
-arbor(f. 나무)는 변화할 때 o가 장음이 되지 않는 예외이다.
+-or로 끝나는 주격이 그대로 어간으로 사용될 때, o가 장음이 되지 않는 유일한 예외이다.
 
-+------+---------+-----------+
-|      | 단수    | 복수      |
-+------+---------+-----------+
-| 주격 | arbor   | arborēs   |
-+------+---------+-----------+
-| 속격 | arboris | arborum   |
-+------+---------+-----------+
-| 여격 | arborī  | arboribus |
-+------+---------+-----------+
-| 대격 | arborem | arborēs   |
-+------+---------+-----------+
-| 탈격 | arbore  | arboribus |
-+------+---------+-----------+
-| 호격 | arbor   | arborēs   |
-+------+---------+-----------+
+.. csv-table::
+   :header-rows: 1
+   :stub-columns: 1
+
+   "", "단수", "복수"
+   "주격", "arbor", "arbor+ēs"
+   "속격", "arbor+is", "arbor+um"
+   "여격", "arbor+ī", "arbor+ibus"
+   "대격", "arbor+em", "arbor+ēs"
+   "탈격", "arbor+e", "arbor+ibus"
+   "호격", "arbor", "arbor+ēs"
+
+cf. arbōs, arbōris, f.
 
 -r, -ris, n.
 ^^^^^^^^^^^^
@@ -2030,14 +2062,6 @@ arbor(f. 나무)는 변화할 때 o가 장음이 되지 않는 예외이다.
    * aequor, aequoris, n.
    * cadāver, cadāveris, n.
    * guttur, guttris, n.
-
-vas, vasis, n.
-^^^^^^^^^^^^^^
-
-sūs, suis, m.f.
-^^^^^^^^^^^^^^^
-
-sūs, suis, m.f. 돼지
 
 -a, -atis, n.
 ^^^^^^^^^^^^^
@@ -2093,9 +2117,6 @@ senex, senis, m.f.
 
 caput, capitis, n.
 ^^^^^^^^^^^^^^^^^^
-   
-carō, carnis, f.
-^^^^^^^^^^^^^^^^
 
 Venus, Veneris, f.
 ^^^^^^^^^^^^^^^^^^
@@ -2112,11 +2133,58 @@ bōs, bovis, m.f.
 
 bōs, bovis, m.f. 소
 
+Iuppiter, Iovis, m.
+^^^^^^^^^^^^^^^^^^^
+
+
+sūs, suis, m.f.
+^^^^^^^^^^^^^^^
+
+sūs, suis, m.f. 돼지
+
+grūs, gruis, m.f.
+^^^^^^^^^^^^^^^^^
+
+vās, vāsis, n.
+^^^^^^^^^^^^^^
+
+vās(n. 그릇)은 -s로 끝나는 주격이 어간으로 그대로 쓰이며, 복수형은 제2변화를 하는 예외이다.
+
+.. csv-table:: vās, vāsis, n.
+   :header-rows: 1
+   :stub-columns: 1
+
+   "", "단수", "복수"
+   "주격", "vās", "vās+a"
+   "속격", "vās+is", "vās+ōrum"
+   "여격", "vās+ī", "vās+is"
+   "대격", "vās", "vās+a"
+   "탈격", "vās+e", "vās+is"
+   "호격", "vās", "vās+a"
+   
+복수형은 상고 라틴어 vāsum, vāsī, n.에서 유래했기 때문으로 본다.
+
+cf. vas, vadis, m. 담보물, 보석금
+
 
 제3변화(2) 단음 i 변화
 ----------------------
 
-제3변화의 주요 유형으로, 앞에서 설명한 자음변화와 동일한 변화를 하나, 소유격 복수형이 -um이 아닌 -ium인 점만 다르다. 대부분 남성·여성 명사이며, 예외적으로 약간의 중성 명사가 있다. 중성 명사 역시 앞에서 설명한 자음변화와 동일하나 소유격 복수형이 -ium인 점만 다르다.
+단음 i 변화는 탈격 단수 어미가 -e이고, 소유격 복수 어미가 -ium이다.
+
+대부분 남성·여성 명사이며, 예외적으로 약간의 중성 명사가 있다.
+
+변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다.
+
+1. 주격과 어간이 같은 경우(cīvis, cīvis, m.f.)
+#. s 또는 변형인 x가 탈락하고 t, d가 나타나는 경우(ars, artis, f. 기술)
+#. s 이외의 자음이 겹쳐서 사라졌던 t, d가 나타나는 경우(cord, cordis, n.)
+#. s가 유음화 하는 경우(ōs, ōris, n. 입, 얼굴)
+#. s가 탈락하는 경우(plēbs, plēbis, f. 평민)
+#. -er가 -ris로 바뀌는 경우(imber, imbris, m. 비)
+#. 기타
+
+이 순서는 자음변화의 역순과 가까운데, 서로 상보적인 관계로 생각할 수도 있다.
 
 어간이 바뀌지 않고 변화하는 경우
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2137,7 +2205,7 @@ civis, civis(m. 시민)의 경우처럼 주격 단수와 소유격이 같은 경
    * classis, classis, f. 함대
    * collis, collis, m. 언덕, 야산
    * finis, finis, m. 끝
-   * hostis, hostis, m. 적 (※ hospes, hospitis, m. 주인)
+   * hostis, hostis, m. 적 (cf. hospes, hospitis, m. 주인)
    * ignis, ignis, m. 불
    * nāvis, nāvis, f. 배
    * orbis, orbis, m. 원형(圓形)
@@ -2164,30 +2232,6 @@ aedes(f. 사원)처럼 어간의 -ē가 -i로 바뀌어 변화하는 경우. 주
    * vulpes, vulpis, f. 여우 (= vulpis, vulpis)
 
 -ēs와 -is 두 가지 형태를 가지고 있는 경우가 많다. aedes/aedis, caedes/caedis, valles/vallis, vulpes/vulpis 등. -is 형태로 사용하면 앞의 -is, -is 형태와 동일하게 된다.
-
-예외: -im
-^^^^^^^^^
-
-.. hlist::
-   :columns: 2
-   
-   * febris, febris, f.
-   * nāvis, nāvis, f. 배
-   * sitis, sitis, f. sg.
-   * turris, turris, f.
-   * puppis, puppis, f.
-   * secūris, secūris, f.
-   * sēdēs, sēdis, f. 걸상
-   * tussis, tussis, f.
-   * restis, restis, f.
-   * venter, ventris, m.(자음변화로도 사용)
-   
-지명
-
-.. hlist::
-   :columns: 2
-
-   * Tiberis, Tiberis, m. sg.
 
 
 변화할 때 s가 탈락하고 사라졌던 t, d가 나타나는 경우
@@ -2216,7 +2260,7 @@ dens, dentis(m. 이빨)처럼 주격 단수의 끝이 자음+s 형태였다가 �
    * cliēns, clientis, m.f. 손님
    * dēns, dentis, m. 이빨
    * fōns, fontis, m. 샘
-   * frōns, frontis, f. 이마 (※ frōns, frondis, f. 잎)
+   * frōns, frontis, f. 이마 (cf. frōns, frondis, f. 잎)
    * gēns, gentis, f. 부족
    * īnfāns, īnfantis, m.f. 아기
    * mēns, mentis, f. 정신
@@ -2229,7 +2273,7 @@ dens, dentis(m. 이빨)처럼 주격 단수의 끝이 자음+s 형태였다가 �
 .. hlist::
    :columns: 2
 
-   * frōns, frondis, f. 잎 (※ frōns, frontis, f. 이마)
+   * frōns, frondis, f. 잎 (cf. frōns, frontis, f. 이마)
 
 -(r)s, -(r)tis
 ^^^^^^^^^^^^^^
@@ -2290,7 +2334,7 @@ mūs, mūris, m.
 어간이 변화하는 경우
 ~~~~~~~~~~~~~~~~~~~~
 
--er, -(r)is
+-er, -ris
 ^^^^^^^^^^^
 
 .. hlist::
@@ -2301,9 +2345,37 @@ mūs, mūris, m.
    * ūter, ūtris, m.
    * venter, ventris, m. (자음변화, -im으로도 사용)
 
+
+목적격 -im, 탈격 -ī
+~~~~~~~~~~~~~~~~~~~
+
+.. hlist::
+   :columns: 2
+   
+   * clāvis, clāvis, f. 열쇠
+   * febris, febris, f.
+   * nāvis, nāvis, f. 배
+   * puppis, puppis, f. 선미(船尾)
+   * restis, restis, f.
+   * secūris, secūris, f.
+   * sēdēs, sēdis, f. 걸상
+   * sitis, sitis, f. sg.
+   * turris, turris, f.
+   * tussis, tussis, f.
+   * venter, ventris, m. (자음변화로도 사용)
+   
+지명
+
+.. hlist::
+   :columns: 2
+   
+   * Neāpolis, Neāpolis, f. sg. 
+   * Tiberis, Tiberis, m. sg.
+
+
+
 예외
 ~~~~
-
 
 nix, nivis, f.
 ^^^^^^^^^^^^^^
@@ -2318,7 +2390,7 @@ mel, fel, n.
 ^^^^^^^^^^^^
 
 
-제3변화(4) 장음 i 변화
+제3변화(3) 장음 i 변화
 ----------------------
 
 제3변화의 가장 예외적인 형태로 보통 i 변화로 분류하지만 여기서는 개념을 명확하게 하기 위해 장음 i 변화로 분류한다.
@@ -2327,14 +2399,14 @@ mel, fel, n.
 
 이렇게 변화하는 단어는 모두 -e, -al, -ar로 끝나는 중성명사로, 숨겨져있던 i가 모두 드러나서 주격 복수는 -ia, 소유격 복수는 -ium, 탈격 단수는 -ī(다른 제3변화 명사들은 -e)가 되는 것이 특징이다. 즉 어간에 원래 i가 있었던 것으로 본다.
 
-mari → mare
-animāli → animal
-exemplāri → exemplar
+   | mari → mare
+   | animāli → animal
+   | exemplāri → exemplar
 
 어미는 아래와 같다.
 
 +------+-------------+-------------+-------------+-------------+
-|      | 단수                      | 복수                      |
+|      | 단수        |               복수                      |
 +------+-------------+-------------+-------------+-------------+
 | 주격 | -e          | -al         | -ar         | -**ia**     |
 +------+-------------+-------------+-------------+-------------+
@@ -2344,12 +2416,14 @@ exemplāri → exemplar
 +------+-------------+-------------+-------------+-------------+
 | 대격 | 주격과 같음 | 주격과 같음 | 주격과 같음 | 주격과 같음 |
 +------+-------------+-------------+-------------+-------------+
-| 탈격 | -**ī**      | -(āl)**ī**  | -(ār)**ī**  | -ibus       |
+| 탈격 | -**ī**      | -(āl)ī      | -(ār)ī      | -ibus       |
 +------+-------------+-------------+-------------+-------------+
 | 호격 | 주격과 같음 | 주격과 같음 | 주격과 같음 | 주격과 같음 |
 +------+-------------+-------------+-------------+-------------+
 
--e는 -is로 바뀌는 것이므로 동음절이고, -al과 -ar는 -is가 추가되어 각각 -ālis, -āris가 되므로 한 음절이 늘어나 비동음절이다. 주격과 소유격이 동음절이면 i 변화라는 원칙의 예외이다. 프랑스어로 faux imparisyllabiques로 분류한다.
+.. note:: -e는 -is로 바뀌는 것이므로 동음절이고, -al과 -ar는 -is가 추가되어 각각 -ālis, -āris가 되므로 한 음절이 늘어나 비동음절이다. 주격과 소유격이 동음절이면 i 변화라는 원칙의 예외이다. 프랑스어로 faux imparisyllabiques로 분류한다.
+
+.. note:: 명사의 제3변화 중 장음 i 변화는 형용사의 제3변화에 그대로 사용된다.
 
 -e, -is, n.
 ~~~~~~~~~~~
@@ -2551,13 +2625,17 @@ iubar, iubaris, n.
 
 그래서 사전의 표제어 형태를 보고 3가지 중 어느 변화를 할 지 예측하는 방법을 알아야 한다. 일반적으로 알려진 규칙은 다음과 같다.
 
+
+구별법
+~~~~~~
+
 ① 표제어인 주격 단수와 소유격 단수의 음절 수가 같으면 소유격 복수 어미는 -ium이다. 이를 **동음절**\ (parisyllabica)이라고도 한다.
 
 이렇게 변화하는 명사 중 -e로 끝나는 중성 명사는 탈격 단수가 -ī이고, 주격 복수가 -ia인 pure i declension이다.
 
 예) mare, maris
 
-② 표제어인 주격 단수와 소유격 단수의 음절 수가 다르면 소유격 복수 어미는 -um이다. 보통 어미 is가 추가 되므로 소유격 단수가 주격 단수보다 한 음절 많다. 이를 **비동음절**\ (imparisyllabica)라고도 한다.
+② 표제어인 주격 단수와 소유격 단수의 음절 수가 다르면 소유격 복수 어미는 -um이다. 보통 어미 is가 추가 되므로 소유격 단수가 주격 단수보다 한 음절 많다. 이를 **비동음절** (imparisyllabica) 또는 음절이 하나 늘어났으므로 **증음절** 변화라고 한다.
 
 ③ 비동음절이더라도 주격 단수의 끝이 -자음+s 형태고, 소유격 단수가 주격에서 s가 탈락한 -자음+is 형태라면 소유격 복수 어미가 -ium이다. 주격 단수 끝에 자음이 2개 이상 겹쳐 있으므로 이를 **중자음형**\ 이라고 부르기도 한다.
 
@@ -2628,8 +2706,6 @@ iuvenis, iuvenis, m.f. 젊은이
 
 pānis, pānis, m. 빵
 
-sēdēs, sēdis, f. 걸상
-
 senex, senis, m.f. 늙은이
 
 그리스어
@@ -2643,6 +2719,18 @@ faux imparisyllabiques로 분류한다. 어간에 원래 -āli, -āri 형태로 
 pure i declension의 또 하나의 유형인 -e로 끝나는 중성 명사의 경우는 -e가 모음이므로 음절수에 변화가 없는 동음절이다.
 
 이외에도 예외적인 경우들이 있다.
+
+
+비교
+~~~~
+
+-is, -is
+^^^^^^^^
+canis, canis는 자음변화이고, cīvis, cīvis는 i 변화이다.
+
+-er, ris
+^^^^^^^^
+pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 
 제4변화
@@ -2751,7 +2839,7 @@ pure i declension의 또 하나의 유형인 -e로 끝나는 중성 명사의 �
 .. hlist::
    :columns: 2
 
-   * cornū, ūs. n. 뿔 (※ cornus, cornī, f. 산딸나무의 일종)
+   * cornū, ūs. n. 뿔 (cf. cornus, cornī, f. 산딸나무의 일종)
    * genū, genūs, n.
    * verū, verūs, n.
 
@@ -2824,12 +2912,6 @@ pure i declension의 또 하나의 유형인 -e로 끝나는 중성 명사의 �
 
 -ēs, -eī인 경우와 동일하게 변화하나 소유격 단수와 여격 단수가 장음 -ēī인 경우이다. 장음 둘이 만나서 변화하지 않는 라틴어에서 예외적인 경우이다.
 
-장음 -ēī로 변화하는 명사는 대부분 앞에 i가 포함되어 -iēs, -iēī인 형태가 많다. 그러나 일반적으로 앞의 i를 잘 언급하지 않으므로 여기서는 i를 괄호에 넣어 표시하였다.
-
-제5변화 명사 중에는 단음 -eī인 경우보다 장음 -ēī로 변화하는 경우가 훨씬 많지만, 일반적인 문법책에서는 장음 -ēī를
-예외적인 상황으로 간주해서 뒤에 언급한다.
-
-   
 .. csv-table:: diēs, ēī, m.
    :header-rows: 1
    :stub-columns: 1
@@ -2841,6 +2923,11 @@ pure i declension의 또 하나의 유형인 -e로 끝나는 중성 명사의 �
    "대격", "di+em", "diēs"
    "탈격", "di+ē", "di+ēbus"
    "호격", "diēs", "diēs"
+   
+장음 -ēī로 변화하는 명사는 대부분 앞에 i가 포함되어 -iēs, -iēī인 형태가 많다. 그러나 일반적으로 앞의 i를 잘 언급하지 않으므로 여기서는 i를 괄호에 넣어 표시하였다.
+
+제5변화 명사 중에는 단음 -eī인 경우보다 장음 -ēī로 변화하는 경우가 훨씬 많지만, 일반적인 문법책에서는 장음 -ēī를
+예외적인 상황으로 간주해서 뒤에 언급한다.
 
 .. hlist::
    :columns: 2
