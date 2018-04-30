@@ -84,7 +84,7 @@ html_theme_path = ["_themes", ]
 # documentation.
 #
 html_theme_options = {
-     'display_version': False
+    'sticky_navigation': True
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -184,3 +184,9 @@ epub_exclude_files = ['search.html']
 # -- Extension configuration -------------------------------------------------
 todo_include_todos = True
 todo_emit_warnings = False
+
+rst_prolog = """
+.. role:: sig
+   :class: sig
+"""
+html_context={ 'css_files': ['_static/css/custom.css']}
