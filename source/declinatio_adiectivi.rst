@@ -121,57 +121,44 @@
 
 남성형이 -us로 끝나는 형용사는 명사의 제2변화와 같이 변화한다. 호격이 -e로 끝나는 것에 유의.
 
-bonus, bona, bonum
+.. csv-table:: bonus, bona, bonum
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "bon+us", "bon+ī", "bon+a", "bon+ae", "bon+um", "bon+a"
+   :tsig:`gen.`, "bon+ī", "bon+ōrum", "bon+ae", "bon+ārum", "bon+ī", "bon+ōrum"
+   :tsig:`dat.`, "bon+ō", "bon+īs", "bon+ae", "bon+īs", "bon+ō", "bon+īs"
+   :tsig:`acc.`, "bon+um", "bon+ōs", "bon+am", "bon+ās", "bon+um", "bon+ōs"
+   :tsig:`abl.`, "bon+ō", "bon+īs", "bon+ā", "bon+īs", "bon+ō", "bon+īs"
+   :tsig:`voc.`, "bon+\ **e**", "bon+ī", "bon+a", "bon+ae", "bon+um", "bon+a"
 
-+------+--------+----------+--------+----------+--------+----------+
-|      | 남성              | 여성              | 중성              |
-|      |                   |                   |                   |
-|      | (명사 제2변화)    | (명사 제1변화)    | (명사 제2변화)    |
-+------+--------+----------+--------+----------+--------+----------+
-|      | 단수   | 복수     | 단수   | 복수     | 단수   | 복수     |
-+------+--------+----------+--------+----------+--------+----------+
-| 주격 | bon+us | bon+ī    | bon+a  | bon+ae   | bon+um | bon+a    |
-+------+--------+----------+--------+----------+--------+----------+
-| 속격 | bon+ī  | bon+ōrum | bon+ae | bon+ārum | bon+ī  | bon+ōrum |
-+------+--------+----------+--------+----------+--------+----------+
-| 여격 | bon+ō  | bon+īs   | bon+ae | bon+īs   | bon+ō  | bon+īs   |
-+------+--------+----------+--------+----------+--------+----------+
-| 대격 | bon+um | bon+ōs   | bon+am | bon+ās   | bon+um | bon+a    |
-+------+--------+----------+--------+----------+--------+----------+
-| 탈격 | bon+ō  | bon+īs   | bon+ā  | bon+īs   | bon+ō  | bon+īs   |
-+------+--------+----------+--------+----------+--------+----------+
-| 호격 | bon+\  | bon+ī    | bon+a  | bon+ae   | bon+um | bon+a    |
-|      | **e**  |          |        |          |        |          |
-+------+--------+----------+--------+----------+--------+----------+
+명사 제2변화에서와 달리 -ius의 변화는 따로 일어나지 않는다. 즉 명사 제2변화에서는 주격이 -ius인 경우 호격이 -ī로 끝나지만, 형용사 제1·2변화에서는 -ius로 끝나는 주격도 호격은 -e로 끝난다. i가 겹치면 명사의 경우와 마찬가지로 iī로 변화한다.
 
-명사 제2변화에서와 달리 -ius의 변화는 따로 일어나지 않는다. 즉 명사
-제2변화에서는 주격이 -ius인 경우 호격이 -ī로 끝나지만, 형용사
-제1·2변화에서는 -ius로 끝나는 주격도 호격은 -e로 끝난다. i가 겹치면
-명사의 경우와 마찬가지로 iī로 변화한다.
-
-medius, media, medium
-
-+------+--------+----------+--------+----------+--------+----------+
-|      | 남성              | 여성              | 중성              |
-+------+--------+----------+--------+----------+--------+----------+
-|      | 단수   | 복수     | 단수   | 복수     | 단수   |   복수   |
-+------+--------+----------+--------+----------+--------+----------+
-| 주격 | medius | mediī    | media  | mediae   | medium | media    |
-+------+--------+----------+--------+----------+--------+----------+
-| 속격 | mediī  | mediōrum | mediae | mediārum | mediī  | mediōrum |
-+------+--------+----------+--------+----------+--------+----------+
-| 여격 | mediō  | mediīs   | mediae | mediīs   | mediō  | mediīs   |
-+------+--------+----------+--------+----------+--------+----------+
-| 대격 | medium | mediōs   | mediam | mediās   | medium | media    |
-+------+--------+----------+--------+----------+--------+----------+
-| 탈격 | mediō  | mediīs   | mediā  | mediīs   | mediō  | mediīs   |
-+------+--------+----------+--------+----------+--------+----------+
-| 호격 | medie  | mediī    | media  | mediae   | medium | media    |
-+------+--------+----------+--------+----------+--------+----------+
+.. csv-table:: medius, media, medium
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "medi+us", "medi+ī", "medi+a", "medi+ae", "medi+um", "medi+a"
+   :tsig:`gen.`, "medi+ī", "medi+ōrum", "medi+ae", "medi+ārum", "medi+ī", "medi+ōrum"
+   :tsig:`dat.`, "medi+ō", "medi+īs=med\ **iīs**", "medi+ae", "medi+īs=med\ **iīs**", "medi+ō", "medi+īs=med\ **iīs**"
+   :tsig:`acc.`, "medi+um", "medi+ōs", "medi+am", "medi+ās", "medi+um", "medi+ōs"
+   :tsig:`abl.`, "medi+ō", "medi+īs=med\ **iīs**", "medi+ā", "medi+īs=med\ **iīs**", "medi+ō", "medi+īs=med\ **iīs**"
+   :tsig:`voc.`, "medi+\ **e**", "medi+ī", "medi+a", "medi+ae", "medi+um", "medi+a"
 
 .. attention:: 명사 제2변화에서는 주격이 -ius인 경우 호격이 -ī로 끝나지만, 형용사 제1·2변화에서는 -ius로 끝나는 주격도 호격은 -e로 끝난다.
 
 mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에는 u를 겹쳐쓴다.
+
+.. csv-table:: mortus, mortua, mortum
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "mortu+us=mort\ **uus**", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ **uum**", "mortu+a"
+   :tsig:`gen.`, "mortu+ī", "mortu+ōrum", "mortu+ae", "mortu+ārum", "mortu+ī", "mortu+ōrum"
+   :tsig:`dat.`, "mortu+ō", "mortu+īs", "mortu+ae", "mortu+īs", "mortu+ō", "mortu+īs"
+   :tsig:`acc.`, "mortu+um=mort\ **uum**", "mortu+ōs", "mortu+am", "mortu+ās", "mortu+um=mort\ **uum**", "mortu+ōs"
+   :tsig:`abl.`, "mortu+ō", "mortu+īs", "mortu+ā", "mortu+īs", "mortu+ō", "mortu+īs"
+   :tsig:`voc.`, "mortu+\ **e**", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ **uum**", "mortu+a"
 
 사전 표제어는 다음과 같은 형태로 표기한다. -us로 끝나는 형용사는 규칙변화하는 제1·2변화 형용사이므로 남성 주격만 제시하는 경우도 있다.
 
@@ -255,25 +242,16 @@ mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에�
 
 남성형이 er로 끝나고 변화에서 e가 탈락하는 경우
 
-pulcher, pulchra, pulchrum
-
-+------+----------+------------+----------+------------+----------+------------+
-|      |              남성     | 여성                  | 중성                  |
-+------+----------+------------+----------+------------+----------+------------+
-|      | 단수     | 복수       | 단수     | 복수       | 단수     |   복수     |
-+------+----------+------------+----------+------------+----------+------------+
-| 주격 | pulcher  | pulchrī    | pulchra  | pulchrae   | pulchrum | pulchra    |
-+------+----------+------------+----------+------------+----------+------------+
-| 속격 | pulchrī  | pulchrōrum | pulchrae | pulchrārum | pulchrī  | pulchrōrum |
-+------+----------+------------+----------+------------+----------+------------+
-| 여격 | pulchrō  | pulchrīs   | pulchrae | pulchrīs   | pulchrō  | pulchrīs   |
-+------+----------+------------+----------+------------+----------+------------+
-| 대격 | pulchram | pulchrōs   | pulchram | pulchrās   | pulchrum | pulchra    |
-+------+----------+------------+----------+------------+----------+------------+
-| 탈격 | pulchrō  | pulchrīs   | pulchrā  | pulchrīs   | pulchrō  | pulchrīs   |
-+------+----------+------------+----------+------------+----------+------------+
-| 호격 | pulcher  | pulchrī    | pulchra  | pulchrae   | pulchrum | pulchra    |
-+------+----------+------------+----------+------------+----------+------------+
+.. csv-table:: pulcher, pulchra, pulchrum
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "dexter", "pulchr+ī", "pulchr+a", "pulchr+ae", "pulchr+um", "pulchr+a"
+   :tsig:`gen.`, "pulchr+ī", "pulchr+ōrum", "pulchr+ae", "pulchr+ārum", "pulchr+ī", "pulchr+ōrum"
+   :tsig:`dat.`, "pulchr+ō", "pulchr+īs", "pulchr+ae", "pulchr+īs", "pulchr+ō", "pulchr+īs"
+   :tsig:`acc.`, "pulchr+um", "pulchr+ōs", "pulchr+am", "pulchr+ās", "pulchr+um", "pulchr+ōs"
+   :tsig:`abl.`, "pulchr+ō", "pulchr+īs", "pulchr+ā", "pulchr+īs", "pulchr+ō", "pulchr+īs"
+   :tsig:`voc.`, "dexter", "pulchr+ī", "pulchr+a", "pulchr+ae", "pulchr+um", "pulchr+a"
 
 pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 탈락하고 변화한다. 남성형 호격 단수는 주격과 같다.
 
@@ -324,25 +302,16 @@ pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 
 
 liber(자유로운) 등의 형용사는 남성형이 명사의 제2변화와 같이 e가 탈락하지 않고 변화한다. 남성형 호격 단수는 주격과 같다.
 
-līber, lībera, līberum
-
-+------+---------+-----------+---------+-----------+---------+-----------+
-|      | 남성                | 여성                |             중성    |
-+------+---------+-----------+---------+-----------+---------+-----------+
-|      | 단수    | 복수      | 단수    | 복수      | 단수    |   복수    |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 주격 | līber   | līberī    | lībera  | līberae   | līberum | lībera    |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 속격 | līberī  | līberōrum | līberae | līberārum | līberī  | līberōrum |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 여격 | līberō  | līberīs   | līberae | līberīs   | līberō  | līberīs   |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 대격 | līberum | līberōs   | līberam | līberās   | līberum | lībera    |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 탈격 | liberō  | liberīs   | līberā  | līberīs   | līberō  | līberīs   |
-+------+---------+-----------+---------+-----------+---------+-----------+
-| 호격 | liber   | līberī    | lībera  | līberae   | līberum | lībera    |
-+------+---------+-----------+---------+-----------+---------+-----------+
+.. csv-table:: līber, lībera, līberum
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "līber", "līber+ī", "līber+a", "līber+ae", "līber+um", "līber+a"
+   :tsig:`gen.`, "līber+ī", "līber+ōrum", "līber+ae", "līber+ārum", "līber+ī", "līber+ōrum"
+   :tsig:`dat.`, "līber+ō", "līber+īs", "līber+ae", "līber+īs", "līber+ō", "līber+īs"
+   :tsig:`acc.`, "līber+um", "līber+ōs", "līber+am", "līber+ās", "līber+um", "līber+ōs"
+   :tsig:`abl.`, "līber+ō", "līber+īs", "līber+ā", "līber+īs", "līber+ō", "līber+īs"
+   :tsig:`voc.`, "līber", "līber+ī", "līber+a", "līber+ae", "līber+um", "līber+a"
 
 사전 표제어는 다음과 같은 형태로 표기한다.
 
@@ -352,7 +321,7 @@ līber, lībera, līberum
    | līber, ĕra, ĕrum, adj. [#]_
    | līber, a, um [#]_
    | līber, -a, -um
-   | līber, -ī [#]_
+   | līber, -ī adj [#]_
 
 .. hlist::
    :columns: 2
@@ -392,6 +361,28 @@ dexter, dexter, dexter
 ~~~~~~~~~~~~~~~~~~~~~~
 dexter(오른손의, 길한)는 e가 탈락하지 않고 변할 수도 있고, 탈락하고 변할
 수도 있다.
+
+.. csv-table:: dexter, dextrī
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "dexter", "dextr+ī", "dextr+a", "dextr+ae", "dextr+um", "dextr+a"
+   :tsig:`gen.`, "dextr+ī", "dextr+ōrum", "dextr+ae", "dextr+ārum", "dextr+ī", "dextr+ōrum"
+   :tsig:`dat.`, "dextr+ō", "dextr+īs", "dextr+ae", "dextr+īs", "dextr+ō", "dextr+īs"
+   :tsig:`acc.`, "dextr+um", "dextr+ōs", "dextr+am", "dextr+ās", "dextr+um", "dextr+ōs"
+   :tsig:`abl.`, "dextr+ō", "dextr+īs", "dextr+ā", "dextr+īs", "dextr+ō", "dextr+īs"
+   :tsig:`voc.`, "dexter", "dextr+ī", "dextr+a", "dextr+ae", "dextr+um", "dextr+a"
+
+.. csv-table:: dexter, dexterī
+   :header-rows: 1
+   
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "dexter", "dexter+ī", "dexter+a", "dexter+ae", "dexter+um", "dexter+a"
+   :tsig:`gen.`, "dexter+ī", "dexter+ōrum", "dexter+ae", "dexter+ārum", "dexter+ī", "dexter+ōrum"
+   :tsig:`dat.`, "dexter+ō", "dexter+īs", "dexter+ae", "dexter+īs", "dexter+ō", "dexter+īs"
+   :tsig:`acc.`, "dexter+um", "dexter+ōs", "dexter+am", "dexter+ās", "dexter+um", "dexter+ōs"
+   :tsig:`abl.`, "dexter+ō", "dexter+īs", "dexter+ā", "dexter+īs", "dexter+ō", "dexter+īs"
+   :tsig:`voc.`, "dexter", "dexter+ī", "dexter+a", "dexter+ae", "dexter+um", "dexter+a"
 
 satur, satura, saturum
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -639,33 +630,27 @@ s, s, s/x, x, x
 
 vetus(오래된, 낡은) 같은 경우는 탈격 단수가 -i가 아닌 -e로, 목적격 복수 -ium이 아닌 -um으로, 중성형 복수 주격이 -ia가 아닌 -a로 자음변화이다.
 
-vetus, veteris
+.. csv-table:: vetus, eris
+   :header-rows: 1
+   
+   "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "vetus", "veter+ēs", "vetus", "veter+a"
+   :tsig:`gen.`, "veter+is", "veter+\ **um**", "veter+is", "veter+\ **um**"
+   :tsig:`dat.`, "veter+ī", "veter+ibus", "veter+ī", "veter+ibus"
+   :tsig:`acc.`, "veter+em", "veter+ēs", "vetus", "veter+a"
+   :tsig:`abl.`, "veter+\ **e**", "veter+ibus", "veter+\ **e**", "veter+ibus" 
+   :tsig:`voc.`, "vetus", "veter+ēs", "vetus", "veter+a"
+   
+남성형과 여성형이 동일하므로 중복되는 열을 하나로 합쳐서 표를 만든다.
 
-+------+---------------+----------------+---------------+----------------+
-|      | 남성·여성                      | 중성                           |
-+------+---------------+----------------+---------------+----------------+
-|      | 단수          | 복수           | 단수          |  복수          |
-+------+---------------+----------------+---------------+----------------+
-| 주격 | vetus         | veter+ēs       | vetus         | veter+\ **a**  |
-+------+---------------+----------------+---------------+----------------+
-| 속격 | veter+is      | veter+\ **um** | veter+is      | veter+\ **um** |
-+------+---------------+----------------+---------------+----------------+
-| 여격 | veter+ī       | veter+ibus     | veter+ī       | veter+ibus     |
-+------+---------------+----------------+---------------+----------------+
-| 대격 | veter+em      | veter+ēs       | vetus         | veter+\ **a**  |
-+------+---------------+----------------+---------------+----------------+
-| 탈격 | veter+\ **e** | veter+ibus     | veter+\ **e** | veter+ibus     |
-+------+---------------+----------------+---------------+----------------+
-| 호격 | vetus         | veter+ēs       | vetus         | veter+\ **a**  |
-+------+---------------+----------------+---------------+----------------+
+사전 표제어는 다음과 같은 형태를 쓴다. 3개의 표제어를 쓰기도 하지만 중복되는 단어를 생략하고 변화형인 소유격을 쓰는 경우가 많다.
 
-사전 표제어는 다음과 같은 형태로 표기한다.
-
-   | vetus, vetus, veteris
+   | vetus, vetus, vetus
    | vetus, veteris
    | vetus, teris
    | vĕtus, ĕris, adj. [#]_
    | vĕtus, -ĕris, adj. [#]_
+   | vetus, -eris, adj [#]_
    | uetus, ~eris, a. [#]_
 
 .. hlist::
@@ -676,6 +661,8 @@ vetus, veteris
 .. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
 .. [#] :title-reference:`Cassell's Latin Dictionary`, 1904.
+
+.. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
    
 .. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
 

@@ -272,7 +272,8 @@
 
 .. note:: 복수형으로만 쓰이는 지명은 주로 그리스어에서 유래한 도시의 이름으로, 복수로 쓰이나 단수로 취급된다.
 
-   한국어에는 복수형 지명이 없기 때문에, 그리스어와 라틴어 복수형 지명을 한국어로 어떻게 옮겨야 하는지에 대한 논란이 있다. ‘아데나이’처럼 복수형을 그대로 사용하는 경우도 있고, ‘아데나’처럼 단수형을 유추하여 사용하기도 한다.
+   한국어에는 복수형 지명이 없기 때문에, ‘아데나이’처럼 복수형을 그대로 사용하는 경우도 있고, ‘아데나’처럼 단수형을 유추하여 사용하기도 한다.
+
 
 -(i)a, -(i)ae, :tsig:`f.`
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -329,7 +330,7 @@
    * scrība, ae, :sig:`m.` 서기, 필경사
    * incola, ae, :sig:`m. f.` 주민 (incolō+a)
  
-경작자를 나타내는 접미사 -cola가 붙은 경우. [#]_
+경작자(耕作者)를 나타내는 접미사 -cola가 붙은 경우. [#]_
 
 .. hlist::
    :columns: 2
@@ -357,7 +358,7 @@
    * Mūrēna, Mūrēnae, :sig:`m. sg.`
    * Scaevola, Scaevolae, :sig:`m.`
    
-.. [#] -cola는 colō+a이므로 -a가 붙은 경우에 포함할 수도 있다.
+.. [#] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수도 있다.
 
 
 -ās, -ae, :tsig:`m.`
@@ -429,9 +430,12 @@
    * Pēnelopē, Pēnelopēs, :sig:`f. sg.` 그리스어 Pēnelópē
    
 .. note:: 규칙 변화하는 라틴어형 형태를 가지고 있는 경우도 있다.
-
-   | epitomē, ēs = epitoma, ae
-   | nymphē, ēs = nympha, ae
+   
+   .. hlist::
+      :columns: 2
+   
+      * epitomē, ēs = epitoma, ae
+      * nymphē, ēs = nympha, ae
 
 
 소유격 familiās
@@ -484,7 +488,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 
 이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filliis et fillis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
 
-물론 filiis가 남여 모두를 총칭하는 경우로 사용되지 않는 것은 아니다.
+물론 filiis를 남여 모두를 총칭하는 경우로도 사용한다.
 
 .. note:: 중세 라틴어에서 같은 이유로 여성 명사 복수 여격과 탈격의 어미를 -abus로 바꿔 표현하는 경우가 있다.
 
@@ -584,23 +588,17 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 
 지명
 
-+------+--------+
-|      | 단수   |
-+------+--------+
-| 주격 | Rhēnus |
-+------+--------+
-| 속격 | Rhēnī  |
-+------+--------+
-| 여격 | Rhēnō  |
-+------+--------+
-| 대격 | Rhēnum |
-+------+--------+
-| 탈격 | Rhēnō  |
-+------+--------+
-| 호격 | Rhēne  |
-+------+--------+
-| 처격 | Rhēnī  |
-+------+--------+
+.. csv-table:: Rhēnus, ī, :tsig:`m. sg.`
+   :header-rows: 1
+   
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Rhēn+us"
+   :tsig:`gen.`, "Rhēn+ī"
+   :tsig:`dat.`, "Rhēn+ō"
+   :tsig:`acc.`, "Rhēn+um"
+   :tsig:`abl.`, "Rhēn+ō"
+   :tsig:`voc.`, "Rhēn+/ **e**"
+   :tsig:`loc.`, "Rhēn+/ **ī**"
 
 .. hlist::
    :columns: 2
@@ -610,23 +608,17 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 복수형으로만 쓰이는 Delphī(pl.) 같은 지명도 제2변화를 한다. 그리스어에서
 유래한 이러한 지명은 복수로 쓰면서 단수 취급을 한다.
 
-+------+-----------+
-|      | 복수      |
-+------+-----------+
-| 주격 | Delphī    |
-+------+-----------+
-| 속격 | Delphōrum |
-+------+-----------+
-| 여격 | Delphīs   |
-+------+-----------+
-| 대격 | Delphōs   |
-+------+-----------+
-| 탈격 | Delphīs   |
-+------+-----------+
-| 호격 | Delphī    |
-+------+-----------+
-| 처격 | Delphīs   |
-+------+-----------+
+.. csv-table:: Delphī, ōrum, :tsig:`m. pl.`
+   :header-rows: 1
+   
+   "", :tsig:`pl.`
+   :tsig:`nom.`, "Delph+ī"
+   :tsig:`gen.`, "Delph+ōrum"
+   :tsig:`dat.`, "Delph+īs"
+   :tsig:`acc.`, "Delph+ōs"
+   :tsig:`abl.`, "Delph+īs"
+   :tsig:`voc.`, "Delph+ī"
+   :tsig:`loc.`, "Delph+/ **īs**"
 
 .. hlist::
    :columns: 2
@@ -897,7 +889,7 @@ puer, puerī, :sig:`m.`
    
    * adulter
    * gener(사위)
-   * liberi(pl. 아이들)
+   * līberī, ōrum, :sig:`m. pl.` 아이들
    * puer(소년)
    * socer(장인)
    * Līber(sg. 리베르, 신의 이름)
@@ -929,9 +921,8 @@ puer, puerī, :sig:`m.`
 .. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
 
--um, -ī, :sig:`n.`
-~~~~~~~~~~~~~~~~~~
-
+-um, -ī, :tsig:`n.`
+~~~~~~~~~~~~~~~~~~~
 제2변화하는 중성명사는 -um으로 끝난다.
 
 -us로 끝나는 남성명사의 제2변화와 달리 호격 단수는 주격 단수와 같다는 일반 원칙이 적용된다. 또, 단수 주격, 대격, 호격이 같고 복수 주격, 대격, 호격이 같다는 중성명사 변화의 일반 원칙도 지켜진다.
@@ -1182,7 +1173,7 @@ vir, virī, :sig:`m.`
 사전에는 다른 명사 변화와 마찬가지로 소유격 어미인 is로 표기한다. 그런데 제3변화는 자음변화와 i 변화의 차이가 있기 때문에, 표제어를 보고 중 어떤 변화인지 유추해야 할 필요가 있다. 이 방법은 다음 절에서 설명한다.
 
 
-.. [#] 성염, 고전 라틴어, 1판, 1994.
+.. [#] 성염, 고전 라틴어, 1994.
 
 .. [#] Ethan Andrews et al., A Grammar of the Latin Language, 18th ed., 1849.
 
@@ -1197,15 +1188,15 @@ vir, virī, :sig:`m.`
 
 여기서는 변화 형태에 따라 아래의 방법으로 분류하기로 한다.
 
-1. n이 나타나는 경우 (leōn, lēonis, :sig:`m.`)
-#. e가 탈락하는 경우 (pater, patris, :sig:`m.`)
-#. s 또는 x가 탈락하는 경우 (dux, ducis, :sig:`m. f.`)
-#. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
-#. 자음 뒤에 t, d가 나타나는 경우 (cor, cordis, :sig:`n.`)
-#. s가 r로 변하는 경우 (flōs, flōris, :sig:`m.`)
-#. 어간이 한 가지인 경우 (canis, canis, :sig:`m. f.`)
-#. 주격이 어간인 경우 (amor, amōris, :sig:`m.`)
-#. 기타
+   1. n이 나타나는 경우 (leōn, lēonis, :sig:`m.`)
+   #. e가 탈락하는 경우 (pater, patris, :sig:`m.`)
+   #. s 또는 x가 탈락하는 경우 (dux, ducis, :sig:`m. f.`)
+   #. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
+   #. t, d가 나타나는 경우 (cor, cordis, :sig:`n.`)
+   #. s가 r로 변하는 경우 (flōs, flōris, :sig:`m.`)
+   #. 어간이 한 가지인 경우 (canis, canis, :sig:`m. f.`)
+   #. 주격이 어간인 경우 (amor, amōris, :sig:`m.`)
+   #. 예외
 
 .. todo:: 장음이 단음으로 바뀌는 경우 설명
 
@@ -2194,15 +2185,15 @@ cf. vas, vadis, :sig:`m.` 담보물, 보석금
 
 변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다.
 
-1. 어간이 한 가지인 경우 (cīvis, cīvis, :sig:`m. f.`)
-#. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
-#. 자음 뒤에 t, d가 나타나는 경우 (cord, cordis, :sig:`n.`)
-#. s가 r이 되는 경우 (ōs, ōris, :sig:`n.` 입, 얼굴)
-#. s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
-#. e가 탈락하는 경우 (imber, imbris, :sig:`m.` 비)
-#. 기타
+   1. 어간이 한 가지인 경우 (cīvis, cīvis, :sig:`m. f.`)
+   #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
+   #. 자음 뒤에 t, d가 나타나는 경우 (cord, cordis, :sig:`n.`)
+   #. s가 r로 변하는 경우 (ōs, ōris, :sig:`n.` 입, 얼굴)
+   #. s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
+   #. e가 탈락하는 경우 (imber, imbris, :sig:`m.` 비)
+   #. 예외
 
-이 순서는 자음변화의 역순과 가까운데, 서로 상보적인 관계로 생각할 수도 있다.
+.. note:: 이 순서는 자음변화의 분류와 비슷하지만 순서는 역순인데, 서로 상보적인 관계로 생각할 수도 있다.
 
 
 어간이 한 가지인 경우
@@ -2313,8 +2304,8 @@ cor, cordis, :sig:`n.`
 * cor, cordis, :sig:`n.` (목적격 복수에 -um도 사용.)
 
 
-s가 r이 되는 경우
-~~~~~~~~~~~~~~~~~
+s가 r로 변하는 경우
+~~~~~~~~~~~~~~~~~~~
 
 ōs, ōris, :sig:`n.`
 ^^^^^^^^^^^^^^^^^^^
