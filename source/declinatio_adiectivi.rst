@@ -292,7 +292,7 @@ pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 
    * sacer, a, um 성스러운
    * satur, a, um 배부른
 
-dexter(오른손의, 길한)는 e가 탈락하고 변할 수도 있고, 탈락하지 않고 변할 수도 있다.
+`dexter <dexter, dexter, dexter>`_\(오른손의, 길한)는 e가 탈락하고 변할 수도 있고, 탈락하지 않고 변할 수도 있다.
 
 .. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
@@ -373,8 +373,7 @@ līber, lībera, līberum
 
    * plūmiger, plūmigera, plūmigerum
    
-dexter(오른손의, 길한)는 e가 탈락하지 않고 변할 수도 있고, 탈락하고 변할
-수도 있다.
+`dexter <dexter, dexter, dexter>`_\(오른손의, 길한)는 e가 탈락하고 변할 수도 있고, 탈락하지 않고 변할 수도 있다.
 
 .. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
 
