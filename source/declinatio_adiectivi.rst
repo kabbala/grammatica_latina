@@ -173,12 +173,14 @@ medius, media, medium
 
 mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에는 u를 겹쳐쓴다.
 
-사전 표제어는 다음과 같은 형태로 표기한다.
+사전 표제어는 다음과 같은 형태로 표기한다. -us로 끝나는 형용사는 규칙변화하는 제1·2변화 형용사이므로 남성 주격만 제시하는 경우도 있다.
 
   | bonus, bona, bonum
   | bonus, a, um [#]_
-  | bonus, -a, -um [#]_
-  | bonus [#]_
+  | bonus, ~a, ~um, a. [#]_
+  | bŏnus, a, um, adj. [#]_
+  | bŏnus, a, um [#]_
+  | bonus adj [#]_
 
 .. hlist::
    :columns: 2
@@ -192,9 +194,13 @@ mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에�
    
 .. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
+.. [#] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
+
 .. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
 
-.. [#] -us로 끝나는 형용사는 규칙변화하는 제1·2변화 형용사이므로 남성 주격만 제시한 형태
+.. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
+
+.. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
    
 형용사의 최상급(-simus, -sima, -simum)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -271,15 +277,14 @@ pulcher, pulchra, pulchrum
 
 pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 탈락하고 변화한다. 남성형 호격 단수는 주격과 같다.
 
-사전 표제어는 다음과 같은 형태로 표기한다.
+사전 표제어는 다음과 같은 형태로 표기한다. -er로 끝나는 규칙변화이므로 소유격으로 e가 탈락하는지 여부만 표시하는 경우도 있다.
 
    | pulcher, pulchra, pulchrum
-   | pulcher, chra, chrum [#]_
-   | pulcher, -chra, -chrum [#]_
-   | pulcher, a, um  [#]_
+   | pulcher, chra, chrum, adj. [#]_
+   | pulcher, ~chra, ~chrum, adj. [#]_
+   | pulcher, a, um [#]_
    | pulcher, -a, -um
-   | pulcher, chrī [#]_
-   | pulcher, -rī [#]_
+   | pulcher, -rī adj [#]_
 
 .. hlist::
    :columns: 2
@@ -299,8 +304,6 @@ pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 
 .. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
 
 .. [#] 이런 형태에서는 어간의 e가 탈락하고 변화한다는 것을 알 수가 없다.
-
-.. [#] :title-reference:`Lhomond's Viri Romae`, 1864.
 
 .. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
@@ -344,9 +347,9 @@ līber, lībera, līberum
 사전 표제어는 다음과 같은 형태로 표기한다.
 
    | līber, lībera, līberum
-   | līber, bera, berum [#]_
-   | līber, era, erum [#]_
-   | līber, -era, -erum [#]_
+   | lībĕr, bĕra, bĕrum [#]_
+   | līber, ~era, ~erum. a. [#]_
+   | līber, ĕra, ĕrum, adj. [#]_
    | līber, a, um [#]_
    | līber, -a, -um
    | līber, -ī [#]_
@@ -375,11 +378,11 @@ līber, lībera, līberum
    
 `dexter <dexter, dexter, dexter>`_\(오른손의, 길한)는 e가 탈락하고 변할 수도 있고, 탈락하지 않고 변할 수도 있다.
 
+.. [#] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
+
 .. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
 
-.. [#] 허창덕, 라틴-한글 사전, 1995.
-
-.. [#] :title-reference:`Cassell's Latin Dictionary`, 1904.
+.. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
 .. [#] 이런 형태에서는 어간이 그대로 변화할 것인지, e가 탈락할 것인지 알 수가 없다.
 
@@ -472,10 +475,12 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
 사전 표제어는 다음과 같은 형태를 쓴다. 3개의 표제어를 쓰기도 하지만 중복되는 단어를 생략하고 2개의 표제어만 사용하기도 한다.
 
    | dulcis, dulcis, dulce
-   | dulcis, -is, -e [#]_
+   | dulcis, ~is, ~e, a. [#]_
    | dulcis, dulce
+   | dulcis, e, adj. [#]_
    | dulcis, e [#]_
-   | dulcis, -e [#]_
+   | dulcis, -e, adj. [#]_
+   | dulcis adj [#]_
 
 .. hlist::
    :columns: 2
@@ -502,7 +507,11 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
 
 .. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
+.. [#] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
+
 .. [#] :title-reference:`Cassell's Latin Dictionary`, 1904.
+
+.. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
 
 -er, -(r)is, -(r)e
@@ -526,10 +535,10 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
 사전 표제어는 다음과 같은 형태로 표기한다.
 
    | celeber, celeberis, celebre
-   | celeber, ebris, ebre [#]_
-   | celeber, bris, bre [#]_
-   | celeber, -bris, -bre [#]_
-   | celeber, -ris [#]_
+   | cĕlĕber, ē̆bris, ē̆bre, adj. [#]_
+   | cĕlĕber, bris, bre [#]_
+   | celeber, ~bris, ~bre, a. [#]_
+   | cleber, -ris adj [#]_
 
 .. hlist::
    :columns: 2
@@ -654,18 +663,16 @@ vetus, veteris
 
    | vetus, vetus, veteris
    | vetus, veteris
-   | vetus, teris [#]_
-   | vetus, eris [#]_
-   | vetus, -eris [#]_
-   | uetus, -eris [#]_
+   | vetus, teris
+   | vĕtus, ĕris, adj. [#]_
+   | vĕtus, -ĕris, adj. [#]_
+   | uetus, ~eris, a. [#]_
 
 .. hlist::
    :columns: 2
    
    * dīves, itis 부유한
-   
-.. [#] 허창덕, 라틴-한글 사전, 1995.
-   
+      
 .. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
 
 .. [#] :title-reference:`Cassell's Latin Dictionary`, 1904.
