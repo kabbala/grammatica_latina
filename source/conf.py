@@ -84,7 +84,8 @@ html_theme_path = ["_themes", ]
 # documentation.
 #
 html_theme_options = {
-    'sticky_navigation': True
+    'sticky_navigation': True,
+    'vcs_pageview_mode': 'blob'
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -189,4 +190,11 @@ rst_prolog = """
 .. role:: sig
    :class: sig
 """
-html_context={ 'css_files': ['_static/css/custom.css']}
+html_context = {
+    'css_files': ['_static/css/custom.css'],
+    'display_github': True,
+    'github_user': 'kabbala',
+    'github_repo': 'grammatica_latina',
+    'github_version': 'master',
+    'conf_py_path': '/source/'
+}
