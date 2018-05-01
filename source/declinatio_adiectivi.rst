@@ -455,29 +455,22 @@ satur(배부른)는 남성형 주격을 그대로 어간으로 사용하여 규�
 -is, -is, -e
 ~~~~~~~~~~~~
 
-dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격이 -e로 끝나는 경우. 사전에는 dulcis, dulce 또는 dulcis, e로 중복되는 단어를 생략하고 표기하기도 한다.
+dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격이 -e로 끝나는 경우. 
 
-dulcis, dulcis, dulce
+.. csv-table:: dulcis, is, e
+   :header-rows: 1
+   
+   "",  :sig:`m. f. sg.`, :sig:`m. f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
+   :sig:`nom.`, "dulc+is", "dulc+ēs", "dulc+\ **e**", "dulc+\ **ia**"
+   :sig:`gen.`, "dulc+is", "dulc+\ **ium**", "dulc+is", "dulc+\ **ium**"
+   :sig:`dat.`, "dulc+ī", "dulc+ibus", "dulc+ī", "dulc+ibus"
+   :sig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+ia"
+   :sig:`abl.`, "dulc+\ **i**", "dulc+ibus", "dulc+ī", "dulc+ibus" 
+   :sig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+ia"
 
-+------+---------------+----------------+--------------+----------------+
-|      | 남성·여성                      | 중성                          |
-+------+---------------+----------------+--------------+----------------+
-|      | 단수          | 복수           | 단수         | 복수           |
-+------+---------------+----------------+--------------+----------------+
-| 주격 | dulc+\ **is** | dulc+ēs        | dulc+\ **e** | dulc+\ **ia**  |
-+------+---------------+----------------+--------------+----------------+
-| 속격 | dulc+is       | dulc+\ **ium** | dulc+is      | dulc+\ **ium** |
-+------+---------------+----------------+--------------+----------------+
-| 여격 | dulc+ī        | dulc+ibus      | dulc+ī       | dulc+ibus      |
-+------+---------------+----------------+--------------+----------------+
-| 대격 | dulc+em       | dulc+ēs        | dulc+e       | dulc+ia        |
-+------+---------------+----------------+--------------+----------------+
-| 탈격 | dulc+ī        | dulc+ibus      | dulc+ī       | dulc+ibus      |
-+------+---------------+----------------+--------------+----------------+
-| 호격 | dulc+is       | dulc+ēs        | dulc+e       | dulc+ia        |
-+------+---------------+----------------+--------------+----------------+
+남성형과 여성형이 동일하므로, 표를 하나로 합쳐서 그린다.
 
-사전 표제어는 다음과 같은 형태로 표기한다.
+사전 표제어는 다음과 같은 형태를 쓴다. 중복되는 단어를 생략하여 2개의 표제어만 사용하기도 한다.
 
    | dulcis, dulcis, dulce
    | dulcis, -is, -e [#]_
@@ -522,11 +515,11 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
    :header-rows: 1
    
    "",  :sig:`m. sg.`, :sig:`m. pl.`, :sig:`f. sg.`, :sig:`f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+e", "celebr+ia"
-   :sig:`gen.`, "celebr+is", "celebr+ium", "celebr+is", "celebr+ium", "celebr+is", "celebr+ium"
+   :sig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ **e**", "celebr+\ **ia**"
+   :sig:`gen.`, "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**"
    :sig:`dat.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
    :sig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+ia"
-   :sig:`abl.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
+   :sig:`abl.`, "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus"
    :sig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+ia"
 
 어간의 변화는 명사 제3변화의 mixed i declension에 대응한다. 어미는 다른 점에 유의.
@@ -576,11 +569,11 @@ felix(행복한)처럼 남성형, 여성형, 중성형 주격 단수가 모두 �
    :header-rows: 1
    
    "",  :sig:`m. f. sg.`, :sig:`m. f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
-   :sig:`gen.`, "fēlīc+is", "fēlīc+ēs", "fēlīc+is", "fēlīc+\ **ium**"
+   :sig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ **ia**"
+   :sig:`gen.`, "fēlīc+is", "fēlīc+\ **ium**", "fēlīc+is", "fēlīc+\ **ium**"
    :sig:`dat.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus"
    :sig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
-   :sig:`abl.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus" 
+   :sig:`abl.`, "fēlīc+\ **ī**", "fēlīc+ibus", "fēlīc+\ **ī**", "fēlīc+ibus" 
    :sig:`voc.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
 
 어간의 변화가 제3변화 명사의 mixed i declension 중자음형에 대응한다.
