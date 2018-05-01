@@ -140,14 +140,14 @@
 .. csv-table::
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "-a", "-ae"
-   :sig:`gen.`, "-ae", "-ārum"
-   :sig:`dat.`, "-ae", "-īs"
-   :sig:`acc.`, "-am", "-ās"
-   :sig:`abl.`, "-ā", "-īs"
-   :sig:`voc.`, "주격과 같음", "주격과 같음"
-   :sig:`loc.`, "-ae", "-īs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "-a", "-ae"
+   :tsig:`gen.`, "-ae", "-ārum"
+   :tsig:`dat.`, "-ae", "-īs"
+   :tsig:`acc.`, "-am", "-ās"
+   :tsig:`abl.`, "-ā", "-īs"
+   :tsig:`voc.`, "주격과 같음", "주격과 같음"
+   :tsig:`loc.`, "-ae", "-īs"
 
 어간모음이 a이므로 a 변화(곡용) 또는 a 어간 변화라고도 한다. a-Deklination(독일어), a-stem declension(영어)이라고도 부른다.
 
@@ -177,13 +177,13 @@
 .. csv-table:: puella, ae, :sig:`f.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "puella", "puell+ae"
-   :sig:`gen.`, "puell+ae", "puell+ārum"
-   :sig:`dat.`, "puell+ae", "puell+\ **īs**"
-   :sig:`acc.`, "puell+am", "puell+ās"
-   :sig:`abl.`, "puell+ā", "puell+\ **īs**"
-   :sig:`voc.`, "puella", "puell+ae"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "puella", "puell+ae"
+   :tsig:`gen.`, "puell+ae", "puell+ārum"
+   :tsig:`dat.`, "puell+ae", "puell+\ **īs**"
+   :tsig:`acc.`, "puell+am", "puell+ās"
+   :tsig:`abl.`, "puell+ā", "puell+\ **īs**"
+   :tsig:`voc.`, "puella", "puell+ae"
 
 복수 여격과 탈격에서는 어간모음 a가 사용되지 않는다.
 
@@ -233,14 +233,14 @@
 .. csv-table:: Rōma, ae, :sig:`f. sg.`
    :header-rows: 1
    
-   "", :sig:`sg.`
-   :sig:`nom.`, "Rōma"
-   :sig:`gen.`, "Rōm+ae"
-   :sig:`dat.`, "Rōm+ae"
-   :sig:`acc.`, "Rōm+am"
-   :sig:`abl.`, "Rōm+ā"
-   :sig:`voc.`, "Rōma"
-   :sig:`loc.`, "Rōm+\ **ae**"
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Rōma"
+   :tsig:`gen.`, "Rōm+ae"
+   :tsig:`dat.`, "Rōm+ae"
+   :tsig:`acc.`, "Rōm+am"
+   :tsig:`abl.`, "Rōm+ā"
+   :tsig:`voc.`, "Rōma"
+   :tsig:`loc.`, "Rōm+\ **ae**"
 
 .. hlist::
    :columns: 2
@@ -253,14 +253,14 @@
 .. csv-table:: Athēnae, Athēnārum, :sig:`f. pl.`
    :header-rows: 1
    
-   "", :sig:`pl.`
-   :sig:`nom.`, "Athēn+ae"
-   :sig:`gen.`, "Athēn+ārum"
-   :sig:`dat.`, "Athēn+īs"
-   :sig:`acc.`, "Athēn+ae"
-   :sig:`abl.`, "Athēn+īs"
-   :sig:`voc.`, "Athēn+ae"
-   :sig:`loc.`, "Athēn+\ **īs**"
+   "", :tsig:`pl.`
+   :tsig:`nom.`, "Athēn+ae"
+   :tsig:`gen.`, "Athēn+ārum"
+   :tsig:`dat.`, "Athēn+īs"
+   :tsig:`acc.`, "Athēn+ae"
+   :tsig:`abl.`, "Athēn+īs"
+   :tsig:`voc.`, "Athēn+ae"
+   :tsig:`loc.`, "Athēn+\ **īs**"
 
 .. hlist::
    :columns: 2
@@ -282,13 +282,13 @@
 .. csv-table:: bēstia, ae, :sig:`f.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "bēstia", "bēsti+ae"
-   :sig:`gen.`, "bēsti+ae", "bēsti+ārum"
-   :sig:`dat.`, "bēsti+ae", "bēsti+īs=bēst\ **iīs**"
-   :sig:`acc.`, "bēsti+am", "bēsti+ās"
-   :sig:`abl.`, "bēsti+ā", "bēsti+īs=bēst\ **iīs**"
-   :sig:`voc.`, "bēstia", "bēsti+ae"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "bēstia", "bēsti+ae"
+   :tsig:`gen.`, "bēsti+ae", "bēsti+ārum"
+   :tsig:`dat.`, "bēsti+ae", "bēsti+īs=bēst\ **iīs**"
+   :tsig:`acc.`, "bēsti+am", "bēsti+ās"
+   :tsig:`abl.`, "bēsti+ā", "bēsti+īs=bēst\ **iīs**"
+   :tsig:`voc.`, "bēstia", "bēsti+ae"
 
 .. hlist::
    :columns: 2
@@ -368,13 +368,13 @@
 .. csv-table:: Aenēās, ae, :sig:`m. sg.`
    :header-rows: 1
    
-   "", :sig:`sg.`
-   :sig:`nom.`, "Aenē+ās"
-   :sig:`gen.`, "Aenē+ae"
-   :sig:`dat.`, "Aenē+ae"
-   :sig:`acc.`, "Aenē+ān, Aenē+am"
-   :sig:`abl.`, "Aenē+ā"
-   :sig:`voc.`, "Aenē+ā"
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Aenē+ās"
+   :tsig:`gen.`, "Aenē+ae"
+   :tsig:`dat.`, "Aenē+ae"
+   :tsig:`acc.`, "Aenē+ān, Aenē+am"
+   :tsig:`abl.`, "Aenē+ā"
+   :tsig:`voc.`, "Aenē+ā"
 
 .. hlist::
    :columns: 2
@@ -391,13 +391,13 @@
 .. csv-table:: Persēs, ae, :sig:`m.`
    :header-rows: 1
    
-   "", :sig:`sg.`
-   :sig:`nom.`, "Pers+ēs"
-   :sig:`gen.`, "Pers+ae"
-   :sig:`dat.`, "Pers+ae"
-   :sig:`acc.`, "Pers+ēn"
-   :sig:`abl.`, "Pers+ē"
-   :sig:`voc.`, "Pers+ē"
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Pers+ēs"
+   :tsig:`gen.`, "Pers+ae"
+   :tsig:`dat.`, "Pers+ae"
+   :tsig:`acc.`, "Pers+ēn"
+   :tsig:`abl.`, "Pers+ē"
+   :tsig:`voc.`, "Pers+ē"
 
 .. hlist::
    :columns: 2
@@ -413,13 +413,13 @@
 .. csv-table:: nymphē, ēs, :sig:`f.`
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "nymph+ē", "nymph+ae"
-   :sig:`gen.`, "nymph+ēs", "nymph+ārum"
-   :sig:`dat.`, "nymph+ae", "nymph+īs"
-   :sig:`acc.`, "nymph+ēn", "nymph+ās"
-   :sig:`abl.`, "nymph+ē", "nymph+īs"
-   :sig:`voc.`, "nymph+ē", "nymph+ae"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "nymph+ē", "nymph+ae"
+   :tsig:`gen.`, "nymph+ēs", "nymph+ārum"
+   :tsig:`dat.`, "nymph+ae", "nymph+īs"
+   :tsig:`acc.`, "nymph+ēn", "nymph+ās"
+   :tsig:`abl.`, "nymph+ē", "nymph+īs"
+   :tsig:`voc.`, "nymph+ē", "nymph+ae"
 
 .. hlist::
    :columns: 2
@@ -455,13 +455,13 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
 .. csv-table:: dea, ae, :sig:`f.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "dea", "de+ae"
-   :sig:`gen.`, "de+ae", "de+ārum"
-   :sig:`dat.`, "de+ae", "de+\ **ābus**"
-   :sig:`acc.`, "de+am", "de+ās"
-   :sig:`abl.`, "de+ā", "de+\ **ābus**"
-   :sig:`voc.`, "dea", "de+ae"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "dea", "de+ae"
+   :tsig:`gen.`, "de+ae", "de+ārum"
+   :tsig:`dat.`, "de+ae", "de+\ **ābus**"
+   :tsig:`acc.`, "de+am", "de+ās"
+   :tsig:`abl.`, "de+ā", "de+\ **ābus**"
+   :tsig:`voc.`, "dea", "de+ae"
 
 종교 행위에서 deis et deis라는 중복을 피하고 deis et deabus라고 부르기 위해 이런 표현을 사용한 것으로 추정한다.
 
@@ -474,13 +474,13 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 .. csv-table:: fīlia, ae, :sig:`f.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "fīlia", "fīli+ae"
-   :sig:`gen.`, "fīli+ae", "fīli+ārum"
-   :sig:`dat.`, "fīli+ae", "fīli+īs, fīli+\ **ābus**"
-   :sig:`acc.`, "fīli+am", "fīli+ās"
-   :sig:`abl.`, "fīli+ā", "fīli+īs, fīli+\ **ābus**"
-   :sig:`voc.`, "fīlia", "fīli+ae"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "fīlia", "fīli+ae"
+   :tsig:`gen.`, "fīli+ae", "fīli+ārum"
+   :tsig:`dat.`, "fīli+ae", "fīli+īs, fīli+\ **ābus**"
+   :tsig:`acc.`, "fīli+am", "fīli+ās"
+   :tsig:`abl.`, "fīli+ā", "fīli+īs, fīli+\ **ābus**"
+   :tsig:`voc.`, "fīlia", "fīli+ae"
 
 이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filliis et fillis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
 
@@ -998,13 +998,13 @@ convivium(:sig:`n.` 연회) 등과 같이 어간이 -ium으로 끝나는 경우�
 .. csv-table:: Dēlos, ī, :sig:`f. sg.`
    :header-rows: 1
 
-   "", :sig:`sg.`
-   :sig:`nom.`, "Dēlos"
-   :sig:`gen.`, "Dēl+ī"
-   :sig:`dat.`, "Dēl+ō"
-   :sig:`acc.`, "Dēl+on"
-   :sig:`abl.`, "Dēl+ō"
-   :sig:`voc.`, "Dēl+e"
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Dēlos"
+   :tsig:`gen.`, "Dēl+ī"
+   :tsig:`dat.`, "Dēl+ō"
+   :tsig:`acc.`, "Dēl+on"
+   :tsig:`abl.`, "Dēl+ō"
+   :tsig:`voc.`, "Dēl+e"
 
 .. hlist::
    :columns: 2
@@ -1204,13 +1204,13 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
 .. csv-table:: leō, ōnis, :sig:`m.`
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "leō", "leōn+ēs"
-   :sig:`gen.`, "leōn+is", "leōn+um"
-   :sig:`dat.`, "leōn+ī", "leōn+ibus"
-   :sig:`acc.`, "leōn+em", "leōn+ēs"
-   :sig:`abl.`, "leōn+e", "leōn+ibus"
-   :sig:`voc.`, "leō", "leōn+ēs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "leō", "leōn+ēs"
+   :tsig:`gen.`, "leōn+is", "leōn+um"
+   :tsig:`dat.`, "leōn+ī", "leōn+ibus"
+   :tsig:`acc.`, "leōn+em", "leōn+ēs"
+   :tsig:`abl.`, "leōn+e", "leōn+ibus"
+   :tsig:`voc.`, "leō", "leōn+ēs"
 
 .. hlist::
    :columns: 2
@@ -1320,13 +1320,13 @@ e가 탈락하는 경우
 .. csv-table:: pater, ris, :sig:`m.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "pater", "patr+ēs"
-   :sig:`gen.`, "patr+is", "patr+um"
-   :sig:`dat.`, "patr+ī", "patr+ibus"
-   :sig:`acc.`, "patr+em", "patr+ēs"
-   :sig:`abl.`, "patr+e", "patr+ibus"
-   :sig:`voc.`, "pater", "patr+ēs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "pater", "patr+ēs"
+   :tsig:`gen.`, "patr+is", "patr+um"
+   :tsig:`dat.`, "patr+ī", "patr+ibus"
+   :tsig:`acc.`, "patr+em", "patr+ēs"
+   :tsig:`abl.`, "patr+e", "patr+ibus"
+   :tsig:`voc.`, "pater", "patr+ēs"
    
 사전 표제어는 다음 형태로 쓴다.
 
@@ -2009,13 +2009,13 @@ Cerēs, Cereris, :sig:`f.`
 .. csv-table::
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "amor", "amōr+ēs"
-   :sig:`gen.`, "amōr+is", "amōr+um"
-   :sig:`dat.`, "amōr+ī", "amōr+ibus"
-   :sig:`acc.`, "amōr+em", "amōr+ēs"
-   :sig:`abl.`, "amōr+e", "amōr+ibus"
-   :sig:`voc.`, "amor", "amōr+ēs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "amor", "amōr+ēs"
+   :tsig:`gen.`, "amōr+is", "amōr+um"
+   :tsig:`dat.`, "amōr+ī", "amōr+ibus"
+   :tsig:`acc.`, "amōr+em", "amōr+ēs"
+   :tsig:`abl.`, "amōr+e", "amōr+ibus"
+   :tsig:`voc.`, "amor", "amōr+ēs"
 
 어간의 마지막 모음 단음 o가 장음 ō로 바뀌는 것이 특징이다.
 
@@ -2080,13 +2080,13 @@ arbor, arboris, :sig:`f.`
 .. csv-table::
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "arbor", "arbor+ēs"
-   :sig:`gen.`, "arbor+is", "arbor+um"
-   :sig:`dat.`, "arbor+ī", "arbor+ibus"
-   :sig:`acc.`, "arbor+em", "arbor+ēs"
-   :sig:`abl.`, "arbor+e", "arbor+ibus"
-   :sig:`voc.`, "arbor", "arbor+ēs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "arbor", "arbor+ēs"
+   :tsig:`gen.`, "arbor+is", "arbor+um"
+   :tsig:`dat.`, "arbor+ī", "arbor+ibus"
+   :tsig:`acc.`, "arbor+em", "arbor+ēs"
+   :tsig:`abl.`, "arbor+e", "arbor+ibus"
+   :tsig:`voc.`, "arbor", "arbor+ēs"
 
 cf. arbōs, arbōris, :sig:`f.`
 
@@ -2153,13 +2153,13 @@ vās(:sig:`n.` 그릇)은 -s로 끝나는 주격이 어간으로 그대로 쓰�
 .. csv-table:: vās, vāsis, :sig:`n.`
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "vās", "vās+a"
-   :sig:`gen.`, "vās+is", "vās+ōrum"
-   :sig:`dat.`, "vās+ī", "vās+is"
-   :sig:`acc.`, "vās", "vās+a"
-   :sig:`abl.`, "vās+e", "vās+is"
-   :sig:`voc.`, "vās", "vās+a"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "vās", "vās+a"
+   :tsig:`gen.`, "vās+is", "vās+ōrum"
+   :tsig:`dat.`, "vās+ī", "vās+is"
+   :tsig:`acc.`, "vās", "vās+a"
+   :tsig:`abl.`, "vās+e", "vās+is"
+   :tsig:`voc.`, "vās", "vās+a"
    
 복수형은 상고 라틴어 vāsum, vāsī, :sig:`n.`\에서 유래했기 때문으로 본다.
 
@@ -2773,13 +2773,13 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 .. csv-table:: frūctus, ūs, :sig:`m.`
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "frūct+us", "frūct+ūs"
-   :sig:`gen.`, "frūct+ūs", "frūct+uum"
-   :sig:`dat.`, "frūct+uī", "frūct+ibus"
-   :sig:`acc.`, "frūct+um", "frūct+ūs"
-   :sig:`abl.`, "frūct+ū", "frūct+ibus"
-   :sig:`voc.`, "frūct+us", "frūct+ūs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "frūct+us", "frūct+ūs"
+   :tsig:`gen.`, "frūct+ūs", "frūct+uum"
+   :tsig:`dat.`, "frūct+uī", "frūct+ibus"
+   :tsig:`acc.`, "frūct+um", "frūct+ūs"
+   :tsig:`abl.`, "frūct+ū", "frūct+ibus"
+   :tsig:`voc.`, "frūct+us", "frūct+ūs"
 
 .. hlist::
    :columns: 2
@@ -2829,13 +2829,13 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 .. csv-table:: cornū, ūs. n.
    :header-rows: 1
    
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "cornū", "corn+ua"
-   :sig:`gen.`, "corn+ūs", "corn+uum"
-   :sig:`dat.`, "corn+ū, cornūī", "corn+ibus"
-   :sig:`acc.`, "cornū", "corn+ua"
-   :sig:`abl.`, "corn+ū", "corn+ibus"
-   :sig:`voc.`, "cornū", "corn+ua"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "cornū", "corn+ua"
+   :tsig:`gen.`, "corn+ūs", "corn+uum"
+   :tsig:`dat.`, "corn+ū, cornūī", "corn+ibus"
+   :tsig:`acc.`, "cornū", "corn+ua"
+   :tsig:`abl.`, "corn+ū", "corn+ibus"
+   :tsig:`voc.`, "cornū", "corn+ua"
 
 .. hlist::
    :columns: 2
@@ -2916,13 +2916,13 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 .. csv-table:: diēs, ēī, :sig:`m.`
    :header-rows: 1
 
-   "", :sig:`sg.`, :sig:`pl.`
-   :sig:`nom.`, "diēs", "diēs"
-   :sig:`gen.`, "di+\ **ēī**", "di+ērum"
-   :sig:`dat.`, "di+\ **ēī**", "di+ēbus"
-   :sig:`acc.`, "di+em", "diēs"
-   :sig:`abl.`, "di+ē", "di+ēbus"
-   :sig:`voc.`, "diēs", "diēs"
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "diēs", "diēs"
+   :tsig:`gen.`, "di+\ **ēī**", "di+ērum"
+   :tsig:`dat.`, "di+\ **ēī**", "di+ēbus"
+   :tsig:`acc.`, "di+em", "diēs"
+   :tsig:`abl.`, "di+ē", "di+ēbus"
+   :tsig:`voc.`, "diēs", "diēs"
    
 장음 -ēī로 변화하는 명사는 대부분 앞에 i가 포함되어 -iēs, -iēī인 형태가 많다. 그러나 일반적으로 앞의 i를 잘 언급하지 않으므로 여기서는 i를 괄호에 넣어 표시하였다.
 

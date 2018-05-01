@@ -206,6 +206,9 @@ todo_emit_warnings = False
 rst_prolog = """
 .. role:: sig
    :class: sig
+   
+.. role:: tsig
+   :class: tsig
 """
 
 trim_footnote_reference_space = True

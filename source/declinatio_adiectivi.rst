@@ -278,7 +278,7 @@ pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 
    | pulcher, -chra, -chrum [#]_
    | pulcher, a, um  [#]_
    | pulcher, -a, -um
-   | pulcher, chri [#]_
+   | pulcher, chrī [#]_
    | pulcher, -rī [#]_
 
 .. hlist::
@@ -397,13 +397,13 @@ satur(배부른)는 남성형 주격을 그대로 어간으로 사용하여 규�
 .. csv-table:: satur, tura, turum
    :header-rows: 1
    
-   "",  :sig:`m. sg.`, :sig:`m. pl.`, :sig:`f. sg.`, :sig:`f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "satur", "satur+ī", "satur+a", "satur+ae", "satur+um", "satur+a"
-   :sig:`gen.`, "satur+ī", "satur+ōrum", "satur+ae", "satur+ārum", "satur+ī", "satur+ōrum"
-   :sig:`dat.`, "satur+ō", "satur+īs", "satur+ae", "satur+īs", "satur+ō", "satur+īs"
-   :sig:`acc.`, "satur+um", "satur+ōs", "satur+am", "satur+ās", "satur+um", "satur+a"
-   :sig:`abl.`, "satur+ō", "satur+īs", "satur+ā", "satur+īs", "satur+ō", "satur+īs"
-   :sig:`voc.`, "satur", "satur+ī", "satur+a", "satur+ae", "satur+um", "satur+a"
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "satur", "satur+ī", "satur+a", "satur+ae", "satur+um", "satur+a"
+   :tsig:`gen.`, "satur+ī", "satur+ōrum", "satur+ae", "satur+ārum", "satur+ī", "satur+ōrum"
+   :tsig:`dat.`, "satur+ō", "satur+īs", "satur+ae", "satur+īs", "satur+ō", "satur+īs"
+   :tsig:`acc.`, "satur+um", "satur+ōs", "satur+am", "satur+ās", "satur+um", "satur+a"
+   :tsig:`abl.`, "satur+ō", "satur+īs", "satur+ā", "satur+īs", "satur+ō", "satur+īs"
+   :tsig:`voc.`, "satur", "satur+ī", "satur+a", "satur+ae", "satur+um", "satur+a"
 
 수사
 ~~~~
@@ -459,13 +459,13 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
 .. csv-table:: dulcis, is, e
    :header-rows: 1
    
-   "",  :sig:`m. f. sg.`, :sig:`m. f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "dulc+is", "dulc+ēs", "dulc+\ **e**", "dulc+\ **ia**"
-   :sig:`gen.`, "dulc+is", "dulc+\ **ium**", "dulc+is", "dulc+\ **ium**"
-   :sig:`dat.`, "dulc+ī", "dulc+ibus", "dulc+ī", "dulc+ibus"
-   :sig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+ia"
-   :sig:`abl.`, "dulc+\ **i**", "dulc+ibus", "dulc+ī", "dulc+ibus" 
-   :sig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+ia"
+   "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "dulc+is", "dulc+ēs", "dulc+\ **e**", "dulc+\ **ia**"
+   :tsig:`gen.`, "dulc+is", "dulc+\ **ium**", "dulc+is", "dulc+\ **ium**"
+   :tsig:`dat.`, "dulc+ī", "dulc+ibus", "dulc+ī", "dulc+ibus"
+   :tsig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+ia"
+   :tsig:`abl.`, "dulc+\ **i**", "dulc+ibus", "dulc+ī", "dulc+ibus" 
+   :tsig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+ia"
 
 남성형과 여성형이 동일하므로, 중복되는 열을 하나로 합쳐서 표를 만든다.
 
@@ -513,13 +513,13 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
 .. csv-table:: celeber, bris, bre
    :header-rows: 1
    
-   "",  :sig:`m. sg.`, :sig:`m. pl.`, :sig:`f. sg.`, :sig:`f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ **e**", "celebr+\ **ia**"
-   :sig:`gen.`, "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**"
-   :sig:`dat.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
-   :sig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+ia"
-   :sig:`abl.`, "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus"
-   :sig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+ia"
+   "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ **e**", "celebr+\ **ia**"
+   :tsig:`gen.`, "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**"
+   :tsig:`dat.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
+   :tsig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+ia"
+   :tsig:`abl.`, "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus"
+   :tsig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+ia"
 
 어간의 변화는 명사 제3변화의 mixed i declension에 대응한다. 어미는 다른 점에 유의.
 
@@ -567,13 +567,13 @@ felix(행복한)처럼 남성형, 여성형, 중성형 주격 단수가 모두 �
 .. csv-table:: fēlīx, īcis
    :header-rows: 1
    
-   "",  :sig:`m. f. sg.`, :sig:`m. f. pl.`, :sig:`n. sg.`, :sig:`n. pl.`
-   :sig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ **ia**"
-   :sig:`gen.`, "fēlīc+is", "fēlīc+\ **ium**", "fēlīc+is", "fēlīc+\ **ium**"
-   :sig:`dat.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus"
-   :sig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
-   :sig:`abl.`, "fēlīc+\ **ī**", "fēlīc+ibus", "fēlīc+\ **ī**", "fēlīc+ibus" 
-   :sig:`voc.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
+   "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ **ia**"
+   :tsig:`gen.`, "fēlīc+is", "fēlīc+\ **ium**", "fēlīc+is", "fēlīc+\ **ium**"
+   :tsig:`dat.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus"
+   :tsig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
+   :tsig:`abl.`, "fēlīc+\ **ī**", "fēlīc+ibus", "fēlīc+\ **ī**", "fēlīc+ibus" 
+   :tsig:`voc.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
 
 어간의 변화가 제3변화 명사의 mixed i declension 중자음형에 대응한다.
 
