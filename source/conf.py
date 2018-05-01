@@ -93,6 +93,23 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_context = {
+    'css_files': ['_static/css/custom.css'],
+    'display_github': True,
+    'github_user': 'kabbala',
+    'github_repo': 'grammatica_latina',
+    'github_version': 'master',
+    'conf_py_path': '/source/'
+}
+
+html_show_sourcelink = False
+
+html_last_updated_fmt = '%A'
+
+html_use_index = False
+
+html_search_language = 'ko'
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
@@ -190,11 +207,5 @@ rst_prolog = """
 .. role:: sig
    :class: sig
 """
-html_context = {
-    'css_files': ['_static/css/custom.css'],
-    'display_github': True,
-    'github_user': 'kabbala',
-    'github_repo': 'grammatica_latina',
-    'github_version': 'master',
-    'conf_py_path': '/source/'
-}
+
+trim_footnote_reference_space = True
