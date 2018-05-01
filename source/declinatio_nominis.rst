@@ -73,7 +73,6 @@
 
 .. csv-table::
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격/1격", "", ""
@@ -141,7 +140,6 @@
 
 .. csv-table::
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "-a", "-ae"
@@ -179,7 +177,6 @@
 
 .. csv-table:: puella, ae, f.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "puella", "puell+ae"
@@ -236,7 +233,6 @@
 
 .. csv-table:: Rōma, ae, f. sg.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수"
    "주격", "Rōma"
@@ -257,7 +253,6 @@
 
 .. csv-table:: Athēnae, Athēnārum, f. pl.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "복수"
    "주격", "Athēn+ae"
@@ -287,7 +282,6 @@
 
 .. csv-table:: bēstia, ae, f.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "bēstia", "bēsti+ae"
@@ -372,7 +366,6 @@
 
 .. csv-table:: Aenēās, ae, m. sg.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수"
    "주격", "Aenē+ās"
@@ -396,7 +389,6 @@
 
 .. csv-table:: Persēs, ae, m.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수"
    "주격", "Pers+ēs"
@@ -419,7 +411,6 @@
 
 .. csv-table:: nymphē, ēs, f.
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "nymph+ē", "nymph+ae"
@@ -462,7 +453,6 @@ dea(f. 여신)는 복수 여격과 탈격이 -bus로 끝난다.
 
 .. csv-table:: dea, ae, f.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "dea", "de+ae"
@@ -482,7 +472,6 @@ filia(f. 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 �
 
 .. csv-table:: fīlia, ae, f.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "fīlia", "fīli+ae"
@@ -1007,7 +996,6 @@ convivium(n. 연회) 등과 같이 어간이 -ium으로 끝나는 경우는 어�
 
 .. csv-table:: Dēlos, ī, f. sg.
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수"
    "주격", "Dēlos"
@@ -1214,7 +1202,6 @@ leo(m. 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우.
 
 .. csv-table:: leō, ōnis, m.
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "leō", "leōn+ēs"
@@ -1377,7 +1364,6 @@ carō, carnis, f.
 
 .. csv-table:: pater, ris, m.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "pater", "patr+ēs"
@@ -1969,7 +1955,6 @@ Cerēs, Cereris, f.
 
 .. csv-table::
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "amor", "amōr+ēs"
@@ -2041,7 +2026,6 @@ arbor, arboris, f.
 
 .. csv-table::
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "arbor", "arbor+ēs"
@@ -2152,7 +2136,6 @@ vās(n. 그릇)은 -s로 끝나는 주격이 어간으로 그대로 쓰이며, �
 
 .. csv-table:: vās, vāsis, n.
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "vās", "vās+a"
@@ -2770,7 +2753,6 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 .. csv-table:: frūctus, ūs, m.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "frūctus", "frūct+ūs"
@@ -2826,7 +2808,6 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 .. csv-table:: cornū, ūs. n.
    :header-rows: 1
-   :stub-columns: 1
    
    "", "단수", "복수"
    "주격", "cornū", "corn+ua"
@@ -2914,7 +2895,6 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 .. csv-table:: diēs, ēī, m.
    :header-rows: 1
-   :stub-columns: 1
 
    "", "단수", "복수"
    "주격", "diēs", "diēs"
