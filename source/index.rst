@@ -13,6 +13,7 @@ Welcome to Grammatica Latina's documentation!
    declinatio_nominis
    declinatio_adiectivi
    coniugatio_verbi
+   reference
 
 Indices and tables
 ==================
