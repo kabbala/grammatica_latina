@@ -454,12 +454,12 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
    :header-rows: 1
    
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "dulc+is", "dulc+ēs", "dulc+\ **e**", "dulc+\ **ia**"
+   :tsig:`nom.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
    :tsig:`gen.`, "dulc+is", "dulc+\ **ium**", "dulc+is", "dulc+\ **ium**"
    :tsig:`dat.`, "dulc+ī", "dulc+ibus", "dulc+ī", "dulc+ibus"
-   :tsig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+ia"
+   :tsig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
    :tsig:`abl.`, "dulc+\ **i**", "dulc+ibus", "dulc+ī", "dulc+ibus" 
-   :tsig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+ia"
+   :tsig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
 
 남성형과 여성형이 동일하므로, 중복되는 열을 하나로 합쳐서 표를 만든다.
 
@@ -517,9 +517,9 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
    :tsig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ **e**", "celebr+\ **ia**"
    :tsig:`gen.`, "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**"
    :tsig:`dat.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
-   :tsig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+ia"
+   :tsig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+\ **ia**"
    :tsig:`abl.`, "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus"
-   :tsig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+ia"
+   :tsig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+\ **ia**"
 
 어간의 변화는 명사 제3변화의 mixed i declension에 대응한다. 어미는 다른 점에 유의.
 
