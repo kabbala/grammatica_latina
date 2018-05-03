@@ -13,7 +13,7 @@
 
 .. [Lewis] Lewis, :title-reference:`An Elementary Latin Dictionary`, 1890.
 
-.. [Lewis-n-Short] Lewis & Short, :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`, 1879.
+.. [LnS] Lewis & Short, :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`, 1879.
 
 .. [Oxford] :title-reference:`Oxford Latin Dictionary`, 1968.
 

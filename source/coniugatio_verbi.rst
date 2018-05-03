@@ -49,7 +49,7 @@
 |          |        |        |             | 수동태 미래 부정사 |                  |           |
 +----------+--------+--------+-------------+--------------------+------------------+-----------+
 
-어간은 위의 3종류로 고정되어 있고 어미는 능동태와 수동태 2종류 [#]_ 를 사용하므로 동사의 변화가 악명만큼 복잡하진 않다.
+어간은 3종류로 고정되어 있고 어미는 능동태와 수동태 2종류를 사용한다.  [#]_
 
 동사에 따라 이 3가지 어간을 모두 갖고 있지 않은 동사도 있는데, 동사의 시제가 한정되어 있다는 것과 같은 의미이다.
 
@@ -164,7 +164,7 @@ esse, velle, īre, fierī, ferre 같은 불규칙적인 형태도 있다.
    | amō, -āre, -āvī, -ātum vt [CLDG2]_
    | amō, ~āre, ~āuī, ~ātum, :abbr:`tr. (transitive)`, :abbr:`intr. (intransitive)` [Oxford]_
    | ămo, āvī, ātum, āre, tr. [Gaffiot]_
-   | ămo, āvi, ātum, 1, v. :abbr:`a. (active)` [Lewis-n-Short]_
+   | ămo, āvi, ātum, 1, v. :abbr:`a. (active)` [LnS]_
    | ămo, 1. [#]_ [Cassell]_
 
 3종류의 어간을 모두 가지고 있지 않은 동사는 생략하거나 ‘—’로 표기하기도 한다.
@@ -172,7 +172,7 @@ esse, velle, īre, fierī, ferre 같은 불규칙적인 형태도 있다.
     | timeō, -ēre, -uī vt, vi [CLDG2]_
     | timeō, uī, —, ēre [Lewis]_
     | tĭmĕo, ŭi, ēre, tr. [Gaffiot]_
-    | tĭmĕo, ŭi, 2, v. a. [Lewis-n-Short]_
+    | tĭmĕo, ŭi, 2, v. a. [LnS]_
     | tĭmĕo, ŭi, 2. [Cassell]_
     |
     | āiō, āiēre, —, —

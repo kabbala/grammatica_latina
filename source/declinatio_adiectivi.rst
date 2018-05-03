@@ -163,7 +163,7 @@ mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에�
   | bonus, bona, bonum
   | bonus, ~a, ~um, a. [Gaffiot]_
   | bŏnus, a, um, adj. [Oxford]_
-  | bŏnus, a, um [Lewis-n-Short]_
+  | bŏnus, a, um [LnS]_
   | bonus adj [#]_
 
 .. hlist::
@@ -247,7 +247,7 @@ pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 
 사전 표제어는 다음과 같은 형태로 표기한다. -er로 끝나는 규칙변화이므로 소유격으로 e가 탈락하는지 여부만 표시하는 경우도 있다.
 
    | pulcher, pulchra, pulchrum
-   | pulcher, chra, chrum, adj. [Lewis-n-Short]_
+   | pulcher, chra, chrum, adj. [LnS]_
    | pulcher, ~chra, ~chrum, adj. [Oxford]_
    | pulcher, a, um [#]_
    | pulcher, -a, -um
@@ -302,7 +302,7 @@ liber(자유로운) 등의 형용사는 남성형이 명사의 제2변화와 같
    | līber, lībera, līberum
    | lībĕr, bĕra, bĕrum [Gaffiot]_
    | līber, ~era, ~erum. a. [Oxford]_
-   | līber, ĕra, ĕrum, adj. [Lewis-n-Short]_
+   | līber, ĕra, ĕrum, adj. [LnS]_
    | līber, a, um [#]_
    | līber, -a, -um
    | līber, -ī adj [CLDG2]_
@@ -444,7 +444,7 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
    | dulcis, dulcis, dulce
    | dulcis, ~is, ~e, a. [Oxford]_
    | dulcis, dulce
-   | dulcis, e, adj. [Lewis-n-Short]_
+   | dulcis, e, adj. [LnS]_
    | dulcis, e [Gaffiot]_
    | dulcis, -e, adj. [Cassell]_
    | dulcis adj [CLDG2]_
@@ -492,7 +492,7 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
 사전 표제어는 다음과 같은 형태로 표기한다.
 
    | celeber, celeberis, celebre
-   | cĕlĕber, ē̆bris, ē̆bre, adj. [Lewis-n-Short]_
+   | cĕlĕber, ē̆bris, ē̆bre, adj. [LnS]_
    | cĕlĕber, bris, bre [Gaffiot]_
    | celeber, ~bris, ~bre, a. [Oxford]_
    | cleber, -ris adj [CLDG2]_
@@ -606,7 +606,7 @@ vetus(오래된, 낡은) 같은 경우는 탈격 단수가 -i가 아닌 -e로, �
    | vetus, vetus, vetus
    | vetus, veteris
    | vetus, teris
-   | vĕtus, ĕris, adj. [Lewis-n-Short]_
+   | vĕtus, ĕris, adj. [LnS]_
    | vĕtus, -ĕris, adj. [Cassell]_
    | vetus, -eris, adj [CLDG2]_
    | uetus, ~eris, a. [Oxford]_

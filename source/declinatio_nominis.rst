@@ -889,7 +889,7 @@ puer, puerī, :sig:`m.`
 
   | puer, puerī
   | pŭĕr, ĕri, m. [Gaffiot]_
-  | puĕr, ĕri, m. [Lewis-n-Short]_
+  | puĕr, ĕri, m. [LnS]_
   | puer, ~erī, m. [Oxford]_
   | puer -i, m. [Cassell]_
   | puer, -ī m [CLDG2]_
@@ -1342,7 +1342,7 @@ e가 탈락하는 경우
 
    | pater, patris
    | pater, ~tris, m. [Oxford]_
-   | pătĕr, tris, m. [Lewis-n-Short]_
+   | pătĕr, tris, m. [LnS]_
    | păter, tris, m. [Gaffiot]_
    | pater, -ris m [CLDG2]_
 
@@ -2893,7 +2893,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 사전 표제어는 다음 형태이다.
 
    | spēs, speī f [CLDG2]_
-   | spes, spēi, f. [Lewis-n-Short]_
+   | spes, spēi, f. [LnS]_
    | spēs, spĕi, f. [Gaffiot]_
    | spēs, ~eī, f. [Oxford]_
    | spēs, -ĕi, f. [Cassell]_
