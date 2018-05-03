@@ -4,7 +4,7 @@
 개요
 ----
 
-라틴어 명사는 격과 수에 따라 변화한다.
+라틴어 명사는 격과 수에 따라 변화(곡용)한다.
 
 
 어간
@@ -12,18 +12,17 @@
 
 어간은 명사가 격변화할 때 변화하지 않는 부분이다.
 
-제1, 4, 5변화 명사에서는 어간을 비교적 쉽게 파악할 수 있으나, `제2변화`_\에는 몇가지 양상이 있어서 어느 양상인지 파악해야 하며, `제3변화`_\처럼 어간을 짐작할 수 없는 경우도 있다.
-
 .. note::
 
-   한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 어간모음에 의해 어간도 변한다고 본다. [#]_ 그래서 라틴어에서는 복수의 어간 형태를 가진 단어를 쉽게 볼 수 있다.
+   한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 `어간모음`_\에 의해 어간도 변한다고 본다. [#]_
    
-   .. [#] 재일교포 趙義成 교수 홈페이지의 `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고. 
+   라틴어에도 복수의 어간을 가진 경우가 많다. 명사는 어간이 2가지인 경우가 많으므로 명사의 :ref:`사전 표제어 <명사의 사전 표제어>`\도 2개이다. 
+
+   .. [#] 재일교포 趙義成 교수 홈페이지의 `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고.
 
 
 어간모음
 ~~~~~~~~
-
 라틴어는 어간 끝에 오는 모음에 따라서 명사의 변화 양상이 바뀌는데, 어간 끝에 오는 모음을 어간모음이라고 한다.
 
 .. note::
@@ -31,13 +30,15 @@
    이렇게 인도유럽어에서 어간의 변화 양상을 정하는 어간 끝의 모음을 Themavokal(독일어)/thematic vowel(영어)라고 한다.
 
    원래는 \*e와 \*o를 의미하는 것이었으나, 개념이 확장되어 다른 모음에도 사용하게 되었으며, 더 일반적인 의미인 Stammvokal/stem vowel이 이러한 뜻으로 쓰이기도 한다. 어간모음은 이 단어의 번역어이다. ‘어간 형성 모음’으로 번역되기도 했으며, 간모음(幹母音)이라는 말도 사용된다.
-      
+
    과거에는 이러한 개념없이 stem character라는 말을 사용하기도 했으며, strong and weak stem이라는 개념을 사용하기도 한다.
 
+.. note::
 
-분류
-~~~~
+   어간모음은 어간에 포함되므로 변화표에서 어간쪽에 붙여야 하나, 전통적으로 어미 쪽에 붙인다.
 
+명사 변화의 분류
+~~~~~~~~~~~~~~~~
 라틴어 모음 5개는 각각 다른 양상으로 변화하는 어간모음으로 작용하므로, 이에 따라 명사의 변화를 5가지로 분류한다.
 
 어간의 끝이 자음인 경우는 모음 i인 경우와 비슷하게 변화하므로 같은 제3변화로 분류한다.
@@ -66,21 +67,23 @@
 
 .. todo:: 영어, 독일어 변화 이름 설명할 것.
 
-표시 방법
-~~~~~~~~~
+변화표
+~~~~~~
 
-명사의 변화는 보통 가로는 단수와 복수의 2열, 세로는 주격, 소유격(속격), 여격, 목적격(대격), 탈격, 호격의 6격 6행으로 이루어진 총 12칸의 표(paradigma)로 표기한다. 이름 대신 숫자로 1격에서 6격으로 부르기도 하며, 로마숫자로 표기하기도 한다.
+명사의 변화표는 가로는 단수와 복수의 2열, 세로는 6격 6행으로 이루어진 표(paradigma)로 만든다.
 
 .. csv-table::
    :header-rows: 1
-   
+
    "", "단수", "복수"
-   "주격/1격", "", ""
-   "속격/2격", "", ""
-   "여격/3격", "", ""
-   "대격/4격", "", ""
-   "탈격/5격", "", ""
-   "호격/6격", "", ""
+   "주격/nom./1격/I", "", ""
+   "속격/gen./2격/II", "", ""
+   "여격/dat./3격/III", "", ""
+   "대격/acc./4격/IV", "", ""
+   "탈격/abl./5격/V", "", ""
+   "호격/voc./6격/VI", "", ""
+
+격 대신 숫자로 표기하기도 한다.
 
 6격 이외에 처격과 도구격은 없는 경우가 많아서 난외에 적거나 가지고 있는 경우에만 행을 추가하여 표기한다.
 
@@ -91,18 +94,20 @@
 .. note::
 
    호격은 일반적으로 주격과 형태가 같으므로 주격 다음 행에 위치시키거나 같은 행에 표기하기도 하며, 표에서 생략하는 경우도 많다.
-    
+
    여격과 탈격은 의미가 통하고, 복수형이 같으므로 나란히 위치시키기도 한다.
 
    .. csv-table::
       :header-rows: 1
-  
+
       "", "단수", "복수"
       "주격/(호격)", "", ""
       "속격", "", ""
       "대격", "", ""
       "여격", "", ""
       "탈격", "", ""
+
+.. _명사의 사전 표제어:
 
 사전 표제어
 ~~~~~~~~~~~
@@ -112,7 +117,7 @@
    | puella, puellae
    | puella, ae
    | puella, -ae
- 
+
 복수형만 있는 명사는 주격 복수와 소유격 복수로 표기한다.
 
    | Delphī, Delphōrum
@@ -123,7 +128,7 @@
 
 .. csv-table::
    :header-rows: 1
-   
+
    "사전 표제어", "소유격 단수 어미", "분류"
    "puella, puellae", "-ae", "제1변화"
    "amicus, amicī", "-ī", "제2변화"
@@ -176,7 +181,7 @@
 
 .. csv-table:: puella, ae, :tsig:`f.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "puella", "puell+ae"
    :tsig:`gen.`, "puell+ae", "puell+ārum"
@@ -232,7 +237,7 @@
 
 .. csv-table:: Rōma, ae, :sig:`f. sg.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`
    :tsig:`nom.`, "Rōma"
    :tsig:`gen.`, "Rōm+ae"
@@ -245,14 +250,14 @@
 .. hlist::
    :columns: 2
 
-   * Āfrica, Āfricae, :sig:`f. sg.`   
+   * Āfrica, Āfricae, :sig:`f. sg.`
    * Rōma, Rōmae, :sig:`f. sg.`
-   
+
 복수형 지명
 
 .. csv-table:: Athēnae, Athēnārum, :sig:`f. pl.`
    :header-rows: 1
-   
+
    "", :tsig:`pl.`
    :tsig:`nom.`, "Athēn+ae"
    :tsig:`gen.`, "Athēn+ārum"
@@ -282,7 +287,7 @@
 
 .. csv-table:: bēstia, ae, :tsig:`f.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "bēstia", "bēsti+ae"
    :tsig:`gen.`, "bēsti+ae", "bēsti+ārum"
@@ -300,7 +305,7 @@
    * patria, patriae, :sig:`f.` 조국
    * pecūnia, pecūniae, :sig:`f.` 돈
    * prōvincia, prōvinciae, :sig:`f.` 속주
-   
+
 그리스어에서 유래한 추상명사화 접미사 -ia(:sig:`f.`)가 붙은 경우
 
 .. hlist::
@@ -308,7 +313,7 @@
 
    * scientia, scientiae, :sig:`f.` 지식
    * stententia, sententiae, :sig:`f.` 뜻
-   
+
 지명
 
 .. hlist::
@@ -329,7 +334,7 @@
    * advena, ae, :sig:`m.` 이방인
    * scrība, ae, :sig:`m.` 서기, 필경사
    * incola, ae, :sig:`m. f.` 주민 (incolō+a)
- 
+
 경작자(耕作者)를 나타내는 접미사 -cola가 붙은 경우. [#]_
 
 .. hlist::
@@ -342,7 +347,7 @@
 
 .. hlist::
    :columns: 2
-    
+
    * āthlēta, ae, :sig:`m.` 운동선수 < 그리스어 athlētḗs
    * nauta, ae, :sig:`m.` 선원 < 그리스어 naútēs
    * pīrāta, ae, :sig:`m.` 해적 < 그리스어 peirātḗs
@@ -357,89 +362,15 @@
    * Dolābella, Dolābellae, :sig:`m. sg.`
    * Mūrēna, Mūrēnae, :sig:`m. sg.`
    * Scaevola, Scaevolae, :sig:`m.`
-   
+
 .. [#] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수도 있다.
 
 
--ās, -ae, :tsig:`m.`
-~~~~~~~~~~~~~~~~~~~~
-
-주격이 -ās로 끝나며, 목적격에 -ān을 사용하고, 호격에 -ā를 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 남성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
-
-.. csv-table:: Aenēās, ae, :sig:`m. sg.`
-   :header-rows: 1
-   
-   "", :tsig:`sg.`
-   :tsig:`nom.`, "Aenē+ās"
-   :tsig:`gen.`, "Aenē+ae"
-   :tsig:`dat.`, "Aenē+ae"
-   :tsig:`acc.`, "Aenē+ān, Aenē+am"
-   :tsig:`abl.`, "Aenē+ā"
-   :tsig:`voc.`, "Aenē+ā"
-
-.. hlist::
-   :columns: 2
-
-   * Aenēās, Aenēae, :sig:`m. sg.` < 그리스어 Aineías
-   * Leōnidās, Leōnidae, :sig:`m. sg.` < 그리스어 Leōnídās
-
-
--ēs, -ae, :tsig:`m.`
-~~~~~~~~~~~~~~~~~~~~
-
-주격이 -ēs로 끝나며, 대격에 -en을, 탈격과 호격에 -ē를 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 남성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
-
-.. csv-table:: Persēs, ae, :tsig:`m.`
-   :header-rows: 1
-   
-   "", :tsig:`sg.`
-   :tsig:`nom.`, "Pers+ēs"
-   :tsig:`gen.`, "Pers+ae"
-   :tsig:`dat.`, "Pers+ae"
-   :tsig:`acc.`, "Pers+ēn"
-   :tsig:`abl.`, "Pers+ē"
-   :tsig:`voc.`, "Pers+ē"
-
-.. hlist::
-   :columns: 2
-
-   * Persēs, Persae, :sig:`m.`
-
-
--ē, -ēs, :tsig:`f.`
-~~~~~~~~~~~~~~~~~~~
-
-주격과 탈격, 호격이 -ē로 끝나며, 속격에 -ēs, 대격에 -ēn을 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 여성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
-
-.. csv-table:: nymphē, ēs, :tsig:`f.`
-   :header-rows: 1
-
-   "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "nymph+ē", "nymph+ae"
-   :tsig:`gen.`, "nymph+ēs", "nymph+ārum"
-   :tsig:`dat.`, "nymph+ae", "nymph+īs"
-   :tsig:`acc.`, "nymph+ēn", "nymph+ās"
-   :tsig:`abl.`, "nymph+ē", "nymph+īs"
-   :tsig:`voc.`, "nymph+ē", "nymph+ae"
-
-.. hlist::
-   :columns: 2
-   
-   * epitomē, epitomēs, :sig:`f.` (cf. epitoma, epitomae)
-   * nymphē, nyymphēs, :sig:`f.` 소녀, 님프 (cf. nympha, nymphae)
-   * Pēnelopē, Pēnelopēs, :sig:`f. sg.` 그리스어 Pēnelópē
-   
-.. note:: 규칙 변화하는 라틴어형 형태를 가지고 있는 경우도 있다.
-   
-   .. hlist::
-      :columns: 2
-   
-      * epitomē, ēs = epitoma, ae
-      * nymphē, ēs = nympha, ae
-
+예외
+~~~~
 
 소유격 familiās
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^
 
 고전 라틴어에서 familia(:sig:`f.` 가족)의 소유격 단수와 복수가 familiae나 familiārum이 아닌 목적격 복수와 같은 형태인 familiās로 쓰이는 경우가 있다. 로마 사회에서 가문의 위계를 뜻하는 말로 오래 사용되어서 고형이 남은 것으로 본다.
 
@@ -452,13 +383,13 @@
 
 
 여격과 탈격 deābus
-~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^
 
 dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
 
 .. csv-table:: dea, ae, :tsig:`f.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "dea", "de+ae"
    :tsig:`gen.`, "de+ae", "de+ārum"
@@ -471,13 +402,13 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
 
 
 여격과 탈격 fīliābus
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^
 
 filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 있다.
 
 .. csv-table:: fīlia, ae, :tsig:`f.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "fīlia", "fīli+ae"
    :tsig:`gen.`, "fīli+ae", "fīli+ārum"
@@ -496,6 +427,85 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    | famulis et famulabus
    | libertis et libertabus
 
+
+그리스어
+~~~~~~~~
+
+-ās, -ae, :tsig:`m.`
+^^^^^^^^^^^^^^^^^^^^^
+
+주격이 -ās로 끝나며, 목적격에 -ān을 사용하고, 호격에 -ā를 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 남성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
+
+.. csv-table:: Aenēās, ae, :sig:`m. sg.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Aenē+ās"
+   :tsig:`gen.`, "Aenē+ae"
+   :tsig:`dat.`, "Aenē+ae"
+   :tsig:`acc.`, "Aenē+ān, Aenē+am"
+   :tsig:`abl.`, "Aenē+ā"
+   :tsig:`voc.`, "Aenē+ā"
+
+.. hlist::
+   :columns: 2
+
+   * Aenēās, Aenēae, :sig:`m. sg.` < 그리스어 Aineías
+   * Leōnidās, Leōnidae, :sig:`m. sg.` < 그리스어 Leōnídās
+
+
+-ēs, -ae, :tsig:`m.`
+^^^^^^^^^^^^^^^^^^^^
+
+주격이 -ēs로 끝나며, 대격에 -en을, 탈격과 호격에 -ē를 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 남성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
+
+.. csv-table:: Persēs, ae, :tsig:`m.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Pers+ēs"
+   :tsig:`gen.`, "Pers+ae"
+   :tsig:`dat.`, "Pers+ae"
+   :tsig:`acc.`, "Pers+ēn"
+   :tsig:`abl.`, "Pers+ē"
+   :tsig:`voc.`, "Pers+ē"
+
+.. hlist::
+   :columns: 2
+
+   * Persēs, Persae, :sig:`m.`
+
+
+-ē, -ēs, :tsig:`f.`
+^^^^^^^^^^^^^^^^^^^
+
+주격과 탈격, 호격이 -ē로 끝나며, 속격에 -ēs, 대격에 -ēn을 사용하며, 복수형은 규칙대로 변화한다. 주로 그리스어에서 유래한 여성명사로, 그리스어 명사 제1변화의 영향을 받은 것이다.
+
+.. csv-table:: nymphē, ēs, :tsig:`f.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "nymph+ē", "nymph+ae"
+   :tsig:`gen.`, "nymph+ēs", "nymph+ārum"
+   :tsig:`dat.`, "nymph+ae", "nymph+īs"
+   :tsig:`acc.`, "nymph+ēn", "nymph+ās"
+   :tsig:`abl.`, "nymph+ē", "nymph+īs"
+   :tsig:`voc.`, "nymph+ē", "nymph+ae"
+
+.. hlist::
+   :columns: 2
+
+   * epitomē, epitomēs, :sig:`f.` (cf. epitoma, epitomae)
+   * nymphē, nyymphēs, :sig:`f.` 소녀, 님프 (cf. nympha, nymphae)
+   * Pēnelopē, Pēnelopēs, :sig:`f. sg.` 그리스어 Pēnelópē
+
+.. note:: 규칙 변화하는 라틴어형 형태를 가지고 있는 경우도 있다.
+
+   .. hlist::
+      :columns: 2
+
+      * epitomē, ēs = epitoma, ae
+      * nymphē, ēs = nympha, ae
 
 제2변화
 -------
@@ -535,7 +545,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 | 처격 | -**ī** | -**ī** | -(r)ī       | -(er)ī      | -**ī**      | -īs         | -īs         |
 +------+--------+--------+-------------+-------------+-------------+-------------+-------------+
 
-소유격 단수가 -ī로 끝나므로 사전에 ī로 표기한다. 
+소유격 단수가 -ī로 끝나므로 사전에 ī로 표기한다.
 
    | amīcus, amīcī
    | amīcus, ī
@@ -590,7 +600,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 
 .. csv-table:: Rhēnus, ī, :tsig:`m. sg.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`
    :tsig:`nom.`, "Rhēn+us"
    :tsig:`gen.`, "Rhēn+ī"
@@ -610,7 +620,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
 
 .. csv-table:: Delphī, ōrum, :tsig:`m. pl.`
    :header-rows: 1
-   
+
    "", :tsig:`pl.`
    :tsig:`nom.`, "Delph+ī"
    :tsig:`gen.`, "Delph+ōrum"
@@ -624,9 +634,9 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    :columns: 2
 
    * Delphī, Delphōrum, :sig:`m. pl.`
-   
+
 .. note:: 복수형으로만 쓰이는 지명은 주로 그리스어에서 유래한 도시의 이름으로, 복수로 쓰이나 단수로 취급된다.
-   
+
 
 -ius, -ī, :tsig:`m.`
 ~~~~~~~~~~~~~~~~~~~~
@@ -677,7 +687,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-   
+
    * Appius
    * Claudius
    * Cornelius
@@ -705,7 +715,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-   
+
    * Pompēiī, Pompēiōrum, :sig:`m. pl.`
 
 
@@ -736,7 +746,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-   
+
    * alvus, alvī, :sig:`f.`
    * carbasus, carbasī, :sig:`f.`
    * fāgus, fagī, :sig:`f.`
@@ -748,7 +758,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-   
+
    * Aegyptus, Aegyptī, :sig:`f. sg.`
    * Corinthus, Corinthī, :sig:`f. sg.`
    * Rhodus, Rhodī, :sig:`f. sg.` 또는 Rhodos, Rhodī, :sig:`f. sg.`
@@ -776,11 +786,11 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-   
+
    * pelagus, pelagī, :sig:`n.`
    * vīrus, vīrī, :sig:`n.` sg. 독
    * vulgus, vulgī, :sig:`n.` sg. 평민(드물게 남성형 제2변화 명사로도 쓰인다)
-   
+
 지명
 
 +------+------------+
@@ -803,7 +813,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. hlist::
    :columns: 2
-      
+
    * Brundisium, Brundisiī, :sig:`n.` sg. 브룬디시움, 현재의 브린디시(Brindisi)
 
 -er, -(r)ī, :tsig:`m.`
@@ -831,7 +841,7 @@ liber(책)처럼 변화할 때 어간의 e가 생략되는 경우.
 
 .. hlist::
    :columns: 2
-   
+
    * ager(밭)
    * aper(멧돼지)
    * arbiter
@@ -842,12 +852,12 @@ liber(책)처럼 변화할 때 어간의 e가 생략되는 경우.
    * liber(책)
    * magister(선생님)
    * minister(하인)
-   
+
 인명
 
 .. hlist::
    :columns: 2
-   
+
    * Alexander, Alexandrī, :sig:`m.`
 
 
@@ -878,15 +888,15 @@ puer, puerī, :sig:`m.`
 사전 표제어는 다음과 같다.
 
   | puer, puerī
-  | pŭĕr, ĕri, m. [#]_
-  | puĕr, ĕri, m. [#]_
-  | puer, ~erī, m. [#]_
-  | puer -i, m. [#]_
-  | puer, -ī m [#]_
-  
+  | pŭĕr, ĕri, m. [Gaffiot]_
+  | puĕr, ĕri, m. [Lewis-n-Short]_
+  | puer, ~erī, m. [Oxford]_
+  | puer -i, m. [Cassell]_
+  | puer, -ī m [CLDG2]_
+
 .. hlist::
    :columns: 2
-   
+
    * adulter
    * gener(사위)
    * līberī, ōrum, :sig:`m. pl.` 아이들
@@ -895,30 +905,20 @@ puer, puerī, :sig:`m.`
    * Līber(sg. 리베르, 신의 이름)
    * lucifer
    * vesper(저녁)
-   
+
 접미사 -fer로 끝나는 명사. 형용사인 경우는 같은 어간으로 제1·2변화 한다.
-   
+
 .. hlist::
    :columns: 2
-   
+
    * aquilifer, aquilifeī, :sig:`m.`
-   
+
 접미사 -ger로 끝나는 명사. 형용사인 경우는 같은 어간으로 제1·2변화 한다.
 
 .. hlist::
    :columns: 2
-   
+
    * contiger, contigerī, :sig:`m.`
-
-.. [#] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
-
-.. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
-
-.. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
-
-.. [#] :title-reference:`Cassell's Latin Dictionary`, 1904.
-
-.. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
 
 -um, -ī, :tsig:`n.`
@@ -965,7 +965,7 @@ convivium(:sig:`n.` 연회) 등과 같이 어간이 -ium으로 끝나는 경우�
 
 .. hlist::
    :columns: 2
-   
+
    * arma(pl. 무기, 전쟁)
    * atrium(현관)
    * bellum(전쟁)
@@ -986,41 +986,11 @@ convivium(:sig:`n.` 연회) 등과 같이 어간이 -ium으로 끝나는 경우�
    * vitium(과오, 악행)
 
 
--os, -ī, :tsig:`m. f.`
-~~~~~~~~~~~~~~~~~~~~~~
-
-그리스어의 영향으로 다르게 변화하는 경우. 목적격 단수가 -on으로 끝난다.
-
-남성형, 여성형 명사는 주격 단수의 어미와 소유격 단수의 어미가 같다.
-
-.. hlist::
-   :columns: 2
-   
-   * lōtos, lōtī, :sig:`m. f.` 로터스 (규칙변화 하는 lōtus, lōtī도 있다)
-   * mȳthos, mȳthī, :sig:`m.` 신화
-   * phaenomenon, phaenomenī, :sig:`n.`  
-
-지명은 대부분 여성형이다.
-
-.. csv-table:: Dēlos, ī, :sig:`f. sg.`
-   :header-rows: 1
-
-   "", :tsig:`sg.`
-   :tsig:`nom.`, "Dēlos"
-   :tsig:`gen.`, "Dēl+ī"
-   :tsig:`dat.`, "Dēl+ō"
-   :tsig:`acc.`, "Dēl+on"
-   :tsig:`abl.`, "Dēl+ō"
-   :tsig:`voc.`, "Dēl+e"
-
-.. hlist::
-   :columns: 2
-   
-   * Dēlos, Dēlī, :sig:`f. sg.` 델로스 섬
-   * Samos, Samī, :sig:`f. sg.`
+예외
+~~~~
 
 deus
-~~~~
+^^^^
 
 deus(:sig:`m.` 신)는 다양한 변화형을 가지고 있다.
 
@@ -1059,7 +1029,7 @@ deus(:sig:`m.` 신)는 다양한 변화형을 가지고 있다.
 +------+------+--------+
 
 vir
-~~~
+^^^
 
 vir(:sig:`m.` 남자, 영웅, 남편)는 어간을 그대로 유지하면서 다음과 같이
 변화한다. 어미만 -ir일뿐 e가 생략되지 않는 -er의 경우와 동일하게
@@ -1087,14 +1057,50 @@ vir, virī, :sig:`m.`
 
 
 소유격 복수 um
-~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^
+
+그리스어
+~~~~~~~~
+
+-os, -ī, :tsig:`m. f.`
+^^^^^^^^^^^^^^^^^^^^^^
+
+그리스어의 영향으로 다르게 변화하는 경우. 목적격 단수가 -on으로 끝난다.
+
+남성형, 여성형 명사는 주격 단수의 어미와 소유격 단수의 어미가 같다.
+
+.. hlist::
+   :columns: 2
+
+   * lōtos, lōtī, :sig:`m. f.` 로터스 (규칙변화 하는 lōtus, lōtī도 있다)
+   * mȳthos, mȳthī, :sig:`m.` 신화
+   * phaenomenon, phaenomenī, :sig:`n.`
+
+이렇게 변화하는 지명은 대부분 여성형이다.
+
+.. csv-table:: Dēlos, ī, :sig:`f. sg.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`
+   :tsig:`nom.`, "Dēlos"
+   :tsig:`gen.`, "Dēl+ī"
+   :tsig:`dat.`, "Dēl+ō"
+   :tsig:`acc.`, "Dēl+on"
+   :tsig:`abl.`, "Dēl+ō"
+   :tsig:`voc.`, "Dēl+e"
+
+.. hlist::
+   :columns: 2
+
+   * Dēlos, Dēlī, :sig:`f. sg.` 델로스 섬
+   * Samos, Samī, :sig:`f. sg.`
 
 
 
 제3변화
 -------
 
-제3변화 명사는 수가 매우 많다. 라틴어 명사의 50% 이상을 제3변화로 보기도 하며, [#]_ 또한 변화의 양상이 매우 다양하다. 어미의 종류만 50개 이상으로 보기도 한다. [#]_
+제3변화 명사는 수가 매우 많다. 라틴어 명사의 50% 이상을 제3변화로 보기도 하며, [성염]_ 또한 변화의 양상이 매우 다양하다. 어미의 종류만 50개 이상으로 보기도 한다. [#]_
 
 여러 경우들을 살펴보다 보면 일관적인 특성을 발견할 수 있는데, 첫째로 주격과 나머지 격변화를 하는 어간이 다르다는 것이다. 예외로 동일한 경우도 있고, 주격 뒤에 어미가 붙는 경우도 있다.
 
@@ -1172,10 +1178,7 @@ vir, virī, :sig:`m.`
 
 사전에는 다른 명사 변화와 마찬가지로 소유격 어미인 is로 표기한다. 그런데 제3변화는 자음변화와 i 변화의 차이가 있기 때문에, 표제어를 보고 중 어떤 변화인지 유추해야 할 필요가 있다. 이 방법은 다음 절에서 설명한다.
 
-
-.. [#] 성염, 고전 라틴어, 1994.
-
-.. [#] Ethan Andrews et al., A Grammar of the Latin Language, 18th ed., 1849.
+.. [#] Ethan Andrews et al., :title-reference:`A Grammar of the Latin Language`, 18th ed., 1849.
 
 
 
@@ -1222,9 +1225,9 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
 .. hlist::
    :columns: 2
 
-   * comedō, comedōnis, :sig:`m.`   
+   * comedō, comedōnis, :sig:`m.`
    * sermō, sermōnis, :sig:`m.` 말
-   
+
 그리스어 제3변화 명사에서 유래한 경우
 
 .. hlist::
@@ -1233,7 +1236,7 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
    * lātrō, lātrōnis, :sig:`m.`
    * leō, leōnis, :sig:`m.` 사자
    * pulmō, pulmōnis, :sig:`m.` 폐
-   
+
 접미사 -iō(:sig:`f.`)가 붙은 경우
 
 .. hlist::
@@ -1260,7 +1263,7 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
 
 .. hlist::
    :columns: 2
-   
+
    * Cicerō, Cicerōnis, :sig:`m.`
    * Dīdō, Dīdōnis, :sig:`f. sg.` 디도, 카르타고의 여왕 (Dīdō, Dīdūs로도 변화함)
 
@@ -1309,8 +1312,8 @@ homo(:sig:`m.` 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 
    * altitūdō, altitūdinis, :sig:`f.`
    * multitūdō, multitūdinis, :sig:`f.` 많음, 대중
    * pulchritūdō, pulchritūdinis, :sig:`f.` 아름다움
-   
-   
+
+
 carō, carnis, :tsig:`f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 * carō, carnis, :sig:`f.`
@@ -1326,7 +1329,7 @@ e가 탈락하는 경우
 
 .. csv-table:: pater, ris, :tsig:`m.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "pater", "patr+ēs"
    :tsig:`gen.`, "patr+is", "patr+um"
@@ -1334,14 +1337,14 @@ e가 탈락하는 경우
    :tsig:`acc.`, "patr+em", "patr+ēs"
    :tsig:`abl.`, "patr+e", "patr+ibus"
    :tsig:`voc.`, "pater", "patr+ēs"
-   
+
 사전 표제어는 다음 형태로 쓴다.
 
    | pater, patris
-   | pater, ~tris, m. [#]_
-   | pătĕr, tris, m. [#]_
-   | păter, tris, m. [#]_
-   | pater, -ris m [#]_
+   | pater, ~tris, m. [Oxford]_
+   | pătĕr, tris, m. [Lewis-n-Short]_
+   | păter, tris, m. [Gaffiot]_
+   | pater, -ris m [CLDG2]_
 
 .. hlist::
    :columns: 2
@@ -1354,27 +1357,20 @@ e가 탈락하는 경우
 
 어간의 -e-가 사라져 음절 수가 줄기 때문에, 이 변화는 주격 단수와 소유격 단수의 음절 수가 같으면 소유격 복수가 -ium으로 변화한다는 일반 원칙의 명확한 예외이다. 그러나 -ium으로 변화하는 linter(:sig:`f.`) 같은 단어와 동일한 형태여서 모양만으로 구분하기는 힘들다.
 
-.. [#] :title-reference:`Oxford Latin Dictionary`, 1968.
-
-.. [#] Lewis & Short, :title-reference:`A Latin Dictionary`, 1879.
-
-.. [#] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
-
-.. [#] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
 -e, -is, :sig:`n.`
 ^^^^^^^^^^^^^^^^^^
 
 .. hlist::
    :columns: 2
-   
+
    * praesēpe, praesēpis, :sig:`n.` 또는 praesaepe, praesaepis
 
 지명
 
 .. hlist::
    :columns: 2
-   
+
    * Bibracte, Bibractis, :sig:`n.` sg. 비브락테
    * Praeneste, Praenestis, :sig:`n.` sg. 프라이네스테(현재의 팔레스트리나(Palestrina))
 
@@ -1383,7 +1379,7 @@ s 또는 x가 탈락하는 경우
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 변화할 때 주격 끝의 s가 빠지고 변화하는 경우. 어간 끝이 주로 b, p와 같은 입술소리이다.
-   
+
 -x로 끝나는 명사도 같은 변화로 분류하는데, 이것은 x가 c 또는 g와 s가 합쳐진 것이기 때문이다.
 
 -x, -cis, :tsig:`m. f.`
@@ -1409,7 +1405,7 @@ dux(:sig:`m. f.` 지도자)처럼 보이지 않던 c가 어간에 추가되어 �
 .. hlist::
    :columns: 2
 
-   * cornīx, cornicis, :sig:`f.` 까마귀   
+   * cornīx, cornicis, :sig:`f.` 까마귀
    * crux, crucis, :sig:`f.` 십자가
    * dux, ducis, :sig:`m. f.` 지도자
    * iudex, iudecis, :sig:`m.` 심판, 재판
@@ -1422,7 +1418,7 @@ dux(:sig:`m. f.` 지도자)처럼 보이지 않던 c가 어간에 추가되어 �
 
 .. hlist::
    :columns: 2
-   
+
    * cantrīx, cantrīcis, :sig:`f.` 여자 가수
    * nūtrīx, nūtrīcis, :sig:`f.` 유모
 
@@ -1457,7 +1453,7 @@ dux(:sig:`m. f.` 지도자)처럼 보이지 않던 c가 어간에 추가되어 �
 
 .. hlist::
    :columns: 2
-   
+
    * aedifex, aedificis, :sig:`m.`
    * artifex, artificis, :sig:`m. f.` 예술가
    * pānifex, pānificis, :sig:`m.`
@@ -1488,7 +1484,7 @@ rex(:sig:`m.` 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하�
 
 .. hlist::
    :columns: 2
-   
+
    * coniūx, coniūgis, :sig:`m. f.` 배우자(또는 coniūnx, coniūgis)
    * frūx, frūgis, :sig:`f.` 작물
    * lēx, lēgis, :sig:`f.` 법률
@@ -1503,7 +1499,7 @@ rex(:sig:`m.` 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하�
 
 .. hlist::
    :columns: 2
-   
+
    * rēmex, rēmigis, :sig:`m.` 뱃사공 (단수 집합명사로도 사용됨)
 
 -(b)s, -(b)is, :tsig:`f.`
@@ -1511,7 +1507,7 @@ rex(:sig:`m.` 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하�
 
 .. hlist::
    :columns: 2
-   
+
    * plēbs, plēbis, :sig:`f.` (중세 라틴어, 고전 라틴어에서는 i 변화)
    * trabs, trabis, :sig:`f.` 대들보
 
@@ -1529,15 +1525,15 @@ rex(:sig:`m.` 왕)처럼 보이지 않던 g가 어간에 추가되어 변화하�
 
 .. hlist::
    :columns: 2
-   
+
    * princeps, principis, :sig:`m.`
-   
+
 -eps, -upis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. hlist::
    :columns: 2
-   
+
    * auceps, aucupis, :sig:`m.`
 
 
@@ -1611,27 +1607,28 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 .. hlist::
    :columns: 2
 
-   * aestās, aestātis, :sig:`f.` 여름
-   * aetās, aetātis, :sig:`f.` 나이
-   * aequitās, aequitātis, :sig:`f.`
-   * cīvitās, cīvitātis, :sig:`f.` 시민권
-   * honestās, honestātis, :sig:`f.` 명예
-   * lībertās, lībertātis, :sig:`f.` 자유
-   * pietās, pietātis, :sig:`f.`
-   * potestās, potestātis, f
-   * vēritās, vēritātis, :sig:`f.` 진리
-   * voluptās, voluptātis, :sig:`f.` 쾌락
-   
+   * aestās, ātis, :sig:`f.` 여름
+   * aetās, ātis, :sig:`f.` 나이
+   * aequitās, ātis, :sig:`f.`
+   * cīvitās, ātis, :sig:`f.` 시민권
+   * honestās, ātis, :sig:`f.` 명예
+   * lībertās, ātis, :sig:`f.` 자유
+   * pietās, ātis, :sig:`f.`
+   * potestās, ātis, :sig:`f.`
+   * ūniversitās, ātis, :sig:`f.`
+   * vēritās, ātis, :sig:`f.` 진리
+   * voluptās, ātis, :sig:`f.` 쾌락
+
 명사화 접미사 -tūs(:sig:`f.`)가 붙은 경우
 
 .. hlist::
    :columns: 2
-   
+
    * iuventūs, iuventūtis, :sig:`f.` 젊음
    * senectūs, senectūtis, :sig:`f.` 노년
    * servitūs, servitūtis, :sig:`f.` 굴종
    * virtūs, virtūtis, :sig:`f.` 용기
-   
+
 -es, -itis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1640,7 +1637,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 .. hlist::
    :columns: 2
 
-   * comes, comitis, :sig:`m. f.` 친구   
+   * comes, comitis, :sig:`m. f.` 친구
    * eques, equitis, :sig:`m.` 기병
    * hospes, hospitis, :sig:`m.` 주인, 손님
    * mīles, mīlitis, :sig:`m.`
@@ -1666,7 +1663,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
 .. hlist::
    :columns: 2
-   
+
    * oriēns, orientis, :sig:`m.` 동쪽, 일출
    * occidēns, occidentis, :sig:`m.` 서쪽, 일몰
 
@@ -1702,7 +1699,7 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
    * laus, laudis, :sig:`f.`
    * pēs, pedis, :sig:`m.` 발
    * vas, vadis, :sig:`m.` 담보물, 보석금 (cf. `vās, vāsis, n.`_\)
-   
+
 -es, -idis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^
 -es로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
@@ -1711,7 +1708,7 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
    :columns: 2
 
    * obses, obsidis, :sig:`m. f.`
-   
+
 
 t, d가 나타나는 경우
 ~~~~~~~~~~~~~~~~~~~~
@@ -1731,7 +1728,7 @@ lac, lactis, :sig:`n.`
 
 .. hlist::
    :columns: 2
-   
+
    * diadēma, diadēmatis, :sig:`n.` 왕관
    * dogma, dogmatis, :sig:`n.`
    * poēma, poēmatis, :sig:`n.` 운문
@@ -1740,7 +1737,7 @@ lac, lactis, :sig:`n.`
 s가 r로 변하는 경우
 ~~~~~~~~~~~~~~~~~~~
 
-.. note:: 모음 사이에 끼인 s가 r로 변화하는 것을 rhotacism(영어)이라고 한다.
+.. note:: 모음 사이에 끼인 s가 r로 변화하는 것을 로타키즘(영어 rhotacism)이라고 한다.
 
 -ōs, -ōris, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1765,12 +1762,12 @@ s가 r로 변하는 경우
 
 .. hlist::
    :columns: 2
-   
+
    * flōs, flōris, :sig:`m.` 꽃
    * fūr, fūris, :sig:`m.` 도둑
    * honōs, honōris, :sig:`m.` 명예(상고어. 고전어는 honor, honōris)
    * mōs, mōris, :sig:`m.` 관습
-   
+
 
 -is, -eris, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1805,10 +1802,10 @@ s가 r로 변하는 경우
 
 .. hlist::
    :columns: 2
-   
+
    * crūs, crūris, :sig:`n.` 다리, 아랫다리
    * iūs, iūris, :sig:`n.` 법
-   
+
 
 -us, -oris, :sig:`n.`
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1833,7 +1830,7 @@ corpus(:sig:`n.` 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경�
 
 .. hlist::
    :columns: 2
-   
+
    * corpus, corporis, :sig:`n.` 몸, 물질
    * frīgus, frīgoris, :sig:`n.` 추위
    * lītus, lītoris, :sig:`n.` 해변
@@ -1848,7 +1845,7 @@ corpus(:sig:`n.` 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경�
 
 .. hlist::
    :columns: 2
-   
+
    * genus, generis, :sig:`n.` 성(性)
    * mūnus, mūneris, :sig:`n.` 직무, 예물
    * opus, operis, :sig:`n.` 일, 업적
@@ -1875,7 +1872,7 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * canis, canis, :sig:`m. f.` 개
    * iuvenis, iuvenis, :sig:`m. f.` 젊은이
    * pānis, pānis, :sig:`m.` 빵
@@ -1909,12 +1906,12 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * cōnsul, cōnsulis, :sig:`m.`
    * exul, exulis, :sig:`m. f.`
    * sōl, sōlis, :sig:`m.` 해
    * vigil, vigilis, :sig:`m.`
-   
+
 -n, -nis, :tsig:`f.`
 ^^^^^^^^^^^^^^^^^^^^
 
@@ -1928,9 +1925,9 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * Solōn, Solōnis, :sig:`m.`
-   
+
 -en, -inis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1938,7 +1935,7 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * citharicen, citharicinis, :sig:`m.`
    * cornicen, cornicinis, :sig:`m.`
    * lyricen, lyricinis, :sig:`m.`
@@ -1971,14 +1968,14 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * agmen, agminis, :sig:`n.` 대열, 진지
    * carmen, carminis, :sig:`n.` 노래
    * flūmen, flūminis, :sig:`n.` 강
    * nomen, nominis, :sig:`n.` 이름
    * ōmen, ōminis, :sig:`n.` 징조
 
-   
+
 -r, -ris, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1986,17 +1983,17 @@ Cerēs, Cereris, :tsig:`f.`
    :columns: 2
 
    * āēr, āeris, :sig:`m. f.`
-   * aethēr, aetheris, :sig:`m.`   
+   * aethēr, aetheris, :sig:`m.`
    * augur, auguris, :sig:`m. f.` 조점사
    * carcer, carceris, :sig:`m.`
    * martyr, martyris, :sig:`m. f.` 증인, 순교자(중세 라틴어)
    * mulier, mulieris, :sig:`f.`
-   
+
 인명
-   
+
 .. hlist::
    :columns: 2
-   
+
    * Caesar, Caesaris, :sig:`m.`
 
 
@@ -2005,7 +2002,7 @@ Cerēs, Cereris, :tsig:`f.`
 
 .. hlist::
    :columns: 2
-   
+
    * aequor, aequoris, :sig:`n.`
    * cadāver, cadāveris, :sig:`n.`
    * guttur, guttris, :sig:`n.`
@@ -2033,7 +2030,7 @@ o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있�
 
 .. hlist::
    :columns: 2
-   
+
    * color, colōris, :sig:`m.` (cf. colōs, colōris)
    * dolor, dolōris, :sig:`m.`
    * honor, honōris, :sig:`m.` 명예 (cf. honōs, honōris)
@@ -2046,7 +2043,7 @@ o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있�
 
 .. hlist::
    :columns: 2
-   
+
    * amor, amōris, :sig:`m.` 사랑
    * clamor, clamōris, :sig:`m.` 외침
    * timor, timoris, :sig:`m.` 두려움
@@ -2056,29 +2053,29 @@ o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있�
 .. hlist::
    :columns: 2
 
-   * āctor, āctōris, :sig:`m.`
-   * audītor, audītōris, :sig:`m.` 학생
-   * cantor, cantōris, :sig:`m.`
-   * gladiātor, gladiātōris, :sig:`m.`
-   * imperātor, imperātōris, :sig:`m.`
-   * mercātor, mercātōris, :sig:`m.` 상인
-   * ōrātor, ōrātōris, :sig:`m.` 웅변가
-   * professor, professōris, :sig:`m.` 교사
-   * scrīptor, scrīptōris, :sig:`m.` 작가, 시인, 역사가
-   * senātor, senātōris, :sig:`m.`
-   * tūtor, tūtōris, :sig:`m.` 보호자, 후견인
-   * victor, victōris, :sig:`m.`
-   
+   * āctor, ōris, :sig:`m.`
+   * audītor, ōris, :sig:`m.` 학생
+   * cantor, ōris, :sig:`m.`
+   * gladiātor, ōris, :sig:`m.`
+   * imperātor, ōris, :sig:`m.`
+   * mercātor, ōris, :sig:`m.` 상인
+   * ōrātor, ōris, :sig:`m.` 웅변가
+   * professor, ōris, :sig:`m.` 교사
+   * scrīptor, ōris, :sig:`m.` 작가, 시인, 역사가
+   * senātor, ōris, :sig:`m.`
+   * tūtor, ōris, :sig:`m.` 보호자, 후견인
+   * victor, ōris, :sig:`m.`
+
 .. note::
 
-   형태상 주격을 어간으로 그대로 사용하는 경우로 분류하였지만, 아래 단어들은 -ōs로 끝나는 고형을 가지고 있으므로 원래의 어간에서 s가 r로 바뀌는 rhotacism이 일어난 것으로 봐야 할 것이다.
+   형태상 주격을 어간으로 그대로 사용하는 경우로 분류하였지만, 아래 단어들은 -ōs로 끝나는 고형을 가지고 있으므로 원래의 어간에서 s가 r로 바뀌는 로타키즘이 일어난 것으로 봐야 할 것이다.
 
    | color < colōs(상고 라틴어), colōris
    | dolor < \*dolos(인도유럽조어), dolōris
    | honor < honōs(상고 라틴어), honōris
    | labor < labōs(상고 라틴어), labōris
    | odor < odōs(상고 라틴어), odōris
-   
+
    명사화 접미사 -or 역시 고형이 -ōs이다.
 
 
@@ -2136,7 +2133,7 @@ Venus, Veneris, :tsig:`f.`
 sanguis, inis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-sanguis, -inis, :sig:`m.`      
+sanguis, -inis, :sig:`m.`
 
 bōs, bovis, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2170,7 +2167,7 @@ vās(:sig:`n.` 그릇)은 -s로 끝나는 주격이 어간으로 그대로 쓰�
    :tsig:`acc.`, "vās", "vās+a"
    :tsig:`abl.`, "vās+e", "vās+is"
    :tsig:`voc.`, "vās", "vās+a"
-   
+
 복수형은 상고 라틴어 vāsum, vāsī, :sig:`n.`\에서 유래했기 때문으로 본다.
 
 cf. vas, vadis, :sig:`m.` 담보물, 보석금
@@ -2256,7 +2253,7 @@ dens, dentis(:sig:`m.` 이빨)처럼 주격 단수의 끝이 자음+s 형태였�
 .. hlist::
    :columns: 2
 
-   * faux, faucis, :sig:`f.`   
+   * faux, faucis, :sig:`f.`
    * nox, noctis, :sig:`f.` 밤
 
 -(n)s, -(n)tis
@@ -2264,7 +2261,7 @@ dens, dentis(:sig:`m.` 이빨)처럼 주격 단수의 끝이 자음+s 형태였�
 
 .. hlist::
    :columns: 2
-   
+
    * adulēscēns, adulēscentis, :sig:`m. f.` 청년
    * cliēns, clientis, :sig:`m. f.` 손님
    * dēns, dentis, :sig:`m.` 이빨
@@ -2289,7 +2286,7 @@ dens, dentis(:sig:`m.` 이빨)처럼 주격 단수의 끝이 자음+s 형태였�
 
 .. hlist::
    :columns: 2
-   
+
    * ars, artis, :sig:`f.` 기술
    * mors, mortis, :sig:`f.` 죽음
    * pars, partis, :sig:`f.` 부분
@@ -2329,7 +2326,7 @@ s가 탈락하는 경우
 
 .. hlist::
    :columns: 2
-   
+
    * plēbs, plēbis, :sig:`f.` 평민(중세 라틴어에서는 자음변화)
    * urbs, urbis, :sig:`f.`
 
@@ -2362,7 +2359,7 @@ e가 탈락하는 경우
 
 .. hlist::
    :columns: 2
-   
+
    * clāvis, clāvis, :sig:`f.` 열쇠
    * febris, febris, :sig:`f.`
    * nāvis, nāvis, :sig:`f.` 배
@@ -2374,13 +2371,13 @@ e가 탈락하는 경우
    * turris, turris, :sig:`f.`
    * tussis, tussis, :sig:`f.`
    * venter, ventris, :sig:`m.` (자음변화로도 사용)
-   
+
 지명
 
 .. hlist::
    :columns: 2
-   
-   * Neāpolis, Neāpolis, :sig:`f. sg.` 
+
+   * Neāpolis, Neāpolis, :sig:`f. sg.`
    * Tiberis, Tiberis, :sig:`m. sg.`
 
 
@@ -2443,7 +2440,7 @@ mare(:sig:`n.` 바다) 처럼 어간의 -e가 -is로 바뀌는 경우.
 
 .. csv-table:: animal, ālis, :tsig:`n.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "mare", "mar+\ **ia**"
    :tsig:`gen.`, "mar+is", "mar+\ **ium**"
@@ -2454,7 +2451,7 @@ mare(:sig:`n.` 바다) 처럼 어간의 -e가 -is로 바뀌는 경우.
 
 .. hlist::
    :columns: 2
-   
+
    * cubīle, cubīlis, :sig:`n.` 침대
    * conclāve, conclāvis, :sig:`n.` 방, 잠글 수 있는 방
    * mare, maris, :sig:`n.` 바다
@@ -2468,7 +2465,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: animal, ālis, :tsig:`n.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "animal", "animāl+\ **ia**"
    :tsig:`gen.`, "animāl+is", "animāl+\ **ium**"
@@ -2481,7 +2478,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. hlist::
    :columns: 2
-   
+
    * animal, animālis, :sig:`n.` 동물
    * tribūnal, tribūnālis, :sig:`n.` 법정, 법관석, 높은 자리, 기념비
    * vectīgal, vectīgālis, n, 세금
@@ -2492,7 +2489,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: exemplar, āris, :tsig:`n.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "exemplar", "exemplār+\ **ia**"
    :tsig:`gen.`, "exemplār+is", "exemplār+\ **ium**"
@@ -2505,7 +2502,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. hlist::
    :columns: 2
-   
+
    * altar, altāris, :sig:`n.` 재단
    * calcar, calcāris, :sig:`n.` 박차, 며느리발톱, 자극
    * exemplar, exemplāris, :sig:`n.`
@@ -2745,7 +2742,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 어미는 아래와 같다.
 
 +-----------+-------------+-------------+-------------+-------------+
-|           | 단수                      | 복수                      |   
+|           | 단수                      | 복수                      |
 +-----------+-------------+-------------+-------------+-------------+
 |           | 남성·여성   | 중성        | 남성·여성   | 중성        |
 +-----------+-------------+-------------+-------------+-------------+
@@ -2770,7 +2767,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 .. csv-table:: frūctus, ūs, :tsig:`m.`
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "frūct+us", "frūct+ūs"
    :tsig:`gen.`, "frūct+ūs", "frūct+uum"
@@ -2826,7 +2823,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 .. csv-table:: cornū, ūs. n.
    :header-rows: 1
-   
+
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "cornū", "corn+ua"
    :tsig:`gen.`, "corn+ūs", "corn+uum"
@@ -2870,7 +2867,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 .. note::
 
    merīdiēs(:sig:`m.` 정오), sēsquidiēs(:sig:`m.` 하루 반, 신라틴어) 등을 제외한 diēs의 다른 파생어들은 여성이다.
-   
+
    * diēs Lūnae, diēī Lūnae, :sig:`f.` 월요일. 나머지 요일도 여성형.
    * diēcula, diēculae. f. 짧은 하루
    * diēs intercalārius, :sig:`f.` 윤일.
@@ -2882,28 +2879,32 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 -ēs, -eī, :tsig:`f.`
 ~~~~~~~~~~~~~~~~~~~~
 
-+------+------+--------+
-|      | 단수 | 복수   |
-+------+------+--------+
-| 주격 | rēs  | rēs    |
-+------+------+--------+
-| 속격 | r+eī | r+ērum |
-+------+------+--------+
-| 여격 | r+eī | r+ēbus |
-+------+------+--------+
-| 대격 | r+em | rēs    |
-+------+------+--------+
-| 탈격 | r+ē  | r+ēbus |
-+------+------+--------+
-| 호격 | rēs  | rēs    |
-+------+------+--------+
+.. csv-table:: rēs, reī, :tsig:`f.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "r+ēs", "r+ēs"
+   :tsig:`gen.`, "r+eī", "r+ērum"
+   :tsig:`dat.`, "r+eī", "r+\ **ēbus**"
+   :tsig:`acc.`, "r+em", "r+ēs"
+   :tsig:`abl.`, "r+ē", "r+\ **ēbus**"
+   :tsig:`voc.`, "r+ēs", "r+ēs"
+
+사전 표제어는 다음 형태이다.
+
+   | spēs, speī f [CLDG2]_
+   | spes, spēi, f. [Lewis-n-Short]_
+   | spēs, spĕi, f. [Gaffiot]_
+   | spēs, ~eī, f. [Oxford]_
+   | spēs, -ĕi, f. [Cassell]_
 
 .. hlist::
    :columns: 2
-   
+
    * fidēs, fideī, :sig:`f.` 믿음, 신의
    * rēs, reī, :sig:`m.`
    * spēs, speī, :sig:`f.` 희망
+
 
 
 -(i)ēs, -(i)ēī, :tsig:`m. f.`
@@ -2921,7 +2922,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
    :tsig:`acc.`, "di+em", "diēs"
    :tsig:`abl.`, "di+ē", "di+ēbus"
    :tsig:`voc.`, "diēs", "diēs"
-   
+
 장음 -ēī로 변화하는 명사는 대부분 앞에 i가 포함되어 -iēs, -iēī인 형태가 많다. 그러나 일반적으로 앞의 i를 잘 언급하지 않으므로 여기서는 i를 괄호에 넣어 표시하였다.
 
 제5변화 명사 중에는 단음 -eī인 경우보다 장음 -ēī로 변화하는 경우가 훨씬 많지만, 일반적인 문법책에서는 장음 -ēī를 예외적인 상황으로 간주해서 뒤에 언급한다.
@@ -2939,5 +2940,5 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
    * plānitiēs, plāntiēī, :sig:`f.` 평원, 평면
    * seriēs, seriēī, :sig:`f.` 차례, 계열
    * speciēs, speciēī, :sig:`f.` 외관, 종
-   
+
 .. note:: 소유격과 여격 어미 -ēī는 제4변화의 여격 -ūī와 함께 장음 2개가 만나서 바뀌지 않고 그대로 남은 예외적인 경우이다.
