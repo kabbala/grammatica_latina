@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Grammatica Latina'
+project = u'고전 라틴어 핸드북'
 copyright = u'2018, author'
 author = u'author'
 
