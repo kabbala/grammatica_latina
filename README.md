@@ -6,7 +6,7 @@
 
 사용 기술
 =========
-* [Sphinx](http://www.sphinx-doc.org/)([GitHub](https://github.com/sphinx-doc/sphinx)) - Python 기반의 문서 생성기입니다. Sphinx는 문서 편집에 [reStructuredText](http://docutils.sourceforge.net/rst.html)(약칭 reST)를 사용합니다. Sphinx를 선택한 이유는 reST가 표(table)와 각주(footnote)를 지원하기 때문입니다.
+* [Sphinx](http://www.sphinx-doc.org/) - Python 기반의 [Docutils](http://docutils.sourceforge.net/)를 이용한 문서 생성기입니다. 문서 편집에 [reStructuredText](http://docutils.sourceforge.net/rst.html)(약칭 reST)를 사용합니다. reST가 표(table)와 각주(footnote)를 지원하기 때문에 선택했습니다.
 
 관련 프로젝트
 =============
@@ -17,3 +17,4 @@
 ===========================
 * GitHub Pages를 사용하기 위해 gh-pages 브랜치를 홈 디렉토리에 억지로 생성해서 자연스럽지 않습니다. 다른 방법을 찾고 있습니다.
 * 변화표를 자동으로 생성하는 스크립트를 써보고 싶습니다.
+* EPUB로도 보기좋게 나오도록 만들고 싶습니다.
