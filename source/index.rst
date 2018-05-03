@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. Welcome to Grammatica Latina's documentation!
-.. =============================================
-
-목차
+대문
 ====
+
+고전 라틴어 문법책입니다.
+
 
 .. toctree::
    :maxdepth: 2
+   :caption: 목차
 
    declinatio_nominis
    declinatio_adiectivi
