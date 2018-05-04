@@ -128,7 +128,7 @@
    :tsig:`dat.`, "bon+ō", "bon+īs", "bon+ae", "bon+īs", "bon+ō", "bon+īs"
    :tsig:`acc.`, "bon+um", "bon+ōs", "bon+am", "bon+ās", "bon+um", "bon+ōs"
    :tsig:`abl.`, "bon+ō", "bon+īs", "bon+ā", "bon+īs", "bon+ō", "bon+īs"
-   :tsig:`voc.`, "bon+\ **e**", "bon+ī", "bon+a", "bon+ae", "bon+um", "bon+a"
+   :tsig:`voc.`, "bon+\ :em:`e`", "bon+ī", "bon+a", "bon+ae", "bon+um", "bon+a"
 
 명사 제2변화에서와 달리 -ius의 변화는 따로 일어나지 않는다. 즉 명사 제2변화에서는 주격이 -ius인 경우 호격이 -ī로 끝나지만, 형용사 제1·2변화에서는 -ius로 끝나는 주격도 호격은 -e로 끝난다. i가 겹치면 명사의 경우와 마찬가지로 iī로 변화한다.
 
@@ -138,10 +138,10 @@
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "medi+us", "medi+ī", "medi+a", "medi+ae", "medi+um", "medi+a"
    :tsig:`gen.`, "medi+ī", "medi+ōrum", "medi+ae", "medi+ārum", "medi+ī", "medi+ōrum"
-   :tsig:`dat.`, "medi+ō", "medi+īs=med\ **iīs**", "medi+ae", "medi+īs=med\ **iīs**", "medi+ō", "medi+īs=med\ **iīs**"
+   :tsig:`dat.`, "medi+ō", "medi+īs=med\ :em:`iīs`", "medi+ae", "medi+īs=med\ :em:`iīs`", "medi+ō", "medi+īs=med\ :em:`iīs`"
    :tsig:`acc.`, "medi+um", "medi+ōs", "medi+am", "medi+ās", "medi+um", "medi+ōs"
-   :tsig:`abl.`, "medi+ō", "medi+īs=med\ **iīs**", "medi+ā", "medi+īs=med\ **iīs**", "medi+ō", "medi+īs=med\ **iīs**"
-   :tsig:`voc.`, "medi+\ **e**", "medi+ī", "medi+a", "medi+ae", "medi+um", "medi+a"
+   :tsig:`abl.`, "medi+ō", "medi+īs=med\ :em:`iīs`", "medi+ā", "medi+īs=med\ :em:`iīs`", "medi+ō", "medi+īs=med\ :em:`iīs`"
+   :tsig:`voc.`, "medi+\ :em:`e`", "medi+ī", "medi+a", "medi+ae", "medi+um", "medi+a"
 
 .. attention:: 명사 제2변화에서는 주격이 -ius인 경우 호격이 -ī로 끝나지만, 형용사 제1·2변화에서는 -ius로 끝나는 주격도 호격은 -e로 끝난다.
 
@@ -151,12 +151,12 @@ mortuus처럼 어간 끝이 -u로 끝나서 어미의 u와 겹치는 경우에�
    :header-rows: 1
    
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "mortu+us=mort\ **uus**", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ **uum**", "mortu+a"
+   :tsig:`nom.`, "mortu+us=mort\ :em:`uus`", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ :em:`uum`", "mortu+a"
    :tsig:`gen.`, "mortu+ī", "mortu+ōrum", "mortu+ae", "mortu+ārum", "mortu+ī", "mortu+ōrum"
    :tsig:`dat.`, "mortu+ō", "mortu+īs", "mortu+ae", "mortu+īs", "mortu+ō", "mortu+īs"
-   :tsig:`acc.`, "mortu+um=mort\ **uum**", "mortu+ōs", "mortu+am", "mortu+ās", "mortu+um=mort\ **uum**", "mortu+ōs"
+   :tsig:`acc.`, "mortu+um=mort\ :em:`uum`", "mortu+ōs", "mortu+am", "mortu+ās", "mortu+um=mort\ :em:`uum`", "mortu+ōs"
    :tsig:`abl.`, "mortu+ō", "mortu+īs", "mortu+ā", "mortu+īs", "mortu+ō", "mortu+īs"
-   :tsig:`voc.`, "mortu+\ **e**", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ **uum**", "mortu+a"
+   :tsig:`voc.`, "mortu+\ :em:`e`", "mortu+ī", "mortu+a", "mortu+ae", "mortu+um=mort\ :em:`uum`", "mortu+a"
 
 사전 표제어는 다음과 같은 형태로 표기한다.
 
@@ -430,12 +430,12 @@ dulcis(달콤한)처럼 남성형과 여성형이 동일하고, 중성형 주격
    :header-rows: 1
    
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
-   :tsig:`gen.`, "dulc+is", "dulc+\ **ium**", "dulc+is", "dulc+\ **ium**"
+   :tsig:`nom.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ :em:`ia`"
+   :tsig:`gen.`, "dulc+is", "dulc+\ :em:`ium`", "dulc+is", "dulc+\ :em:`ium`"
    :tsig:`dat.`, "dulc+ī", "dulc+ibus", "dulc+ī", "dulc+ibus"
-   :tsig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
-   :tsig:`abl.`, "dulc+\ **i**", "dulc+ibus", "dulc+ī", "dulc+ibus" 
-   :tsig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ **ia**"
+   :tsig:`acc.`, "dulc+em", "dulc+ēs", "dulc+e", "dulc+\ :em:`ia`"
+   :tsig:`abl.`, "dulc+\ :em:`i`", "dulc+ibus", "dulc+ī", "dulc+ibus" 
+   :tsig:`voc.`, "dulc+is", "dulc+ēs", "dulc+e", "dulc+\ :em:`ia`"
 
 남성형과 여성형이 동일하므로, 중복되는 열을 하나로 합쳐서 표를 만든다.
 
@@ -480,12 +480,12 @@ celeber(유명한)처럼 남성형 주격 어간의 e가 탈락되면서 변화�
    :header-rows: 1
    
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ **e**", "celebr+\ **ia**"
-   :tsig:`gen.`, "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**", "celebr+is", "celebr+\ **ium**"
+   :tsig:`nom.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+\ :em:`e`", "celebr+\ :em:`ia`"
+   :tsig:`gen.`, "celebr+is", "celebr+\ :em:`ium`", "celebr+is", "celebr+\ :em:`ium`", "celebr+is", "celebr+\ :em:`ium`"
    :tsig:`dat.`, "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus", "celebr+ī", "celebr+ibus"
-   :tsig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+\ **ia**"
-   :tsig:`abl.`, "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus", "celebr+\ **ī**", "celebr+ibus"
-   :tsig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+\ **ia**"
+   :tsig:`acc.`, "celebr+em", "celebr+ēs", "celebr+em", "celebr+ēs", "celebr+e", "celebr+\ :em:`ia`"
+   :tsig:`abl.`, "celebr+\ :em:`ī`", "celebr+ibus", "celebr+\ :em:`ī`", "celebr+ibus", "celebr+\ :em:`ī`", "celebr+ibus"
+   :tsig:`voc.`, "celeber", "celebr+ēs", "celebr+is", "celebr+ēs", "celebr+a", "celebr+\ :em:`ia`"
 
 어간의 변화는 명사 제3변화의 mixed i declension에 대응한다. 어미는 다른 점에 유의.
 
@@ -526,11 +526,11 @@ felix(행복한)처럼 남성형, 여성형, 중성형 주격 단수가 모두 �
    :header-rows: 1
    
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ **ia**"
-   :tsig:`gen.`, "fēlīc+is", "fēlīc+\ **ium**", "fēlīc+is", "fēlīc+\ **ium**"
+   :tsig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ :em:`ia`"
+   :tsig:`gen.`, "fēlīc+is", "fēlīc+\ :em:`ium`", "fēlīc+is", "fēlīc+\ :em:`ium`"
    :tsig:`dat.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus"
    :tsig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
-   :tsig:`abl.`, "fēlīc+\ **ī**", "fēlīc+ibus", "fēlīc+\ **ī**", "fēlīc+ibus" 
+   :tsig:`abl.`, "fēlīc+\ :em:`ī`", "fēlīc+ibus", "fēlīc+\ :em:`ī`", "fēlīc+ibus" 
    :tsig:`voc.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
 
 어간의 변화가 제3변화 명사의 mixed i declension 중자음형에 대응한다.
@@ -593,10 +593,10 @@ vetus(오래된, 낡은) 같은 경우는 탈격 단수가 -i가 아닌 -e로, �
    
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "vetus", "veter+ēs", "vetus", "veter+a"
-   :tsig:`gen.`, "veter+is", "veter+\ **um**", "veter+is", "veter+\ **um**"
+   :tsig:`gen.`, "veter+is", "veter+\ :em:`um`", "veter+is", "veter+\ :em:`um`"
    :tsig:`dat.`, "veter+ī", "veter+ibus", "veter+ī", "veter+ibus"
    :tsig:`acc.`, "veter+em", "veter+ēs", "vetus", "veter+a"
-   :tsig:`abl.`, "veter+\ **e**", "veter+ibus", "veter+\ **e**", "veter+ibus" 
+   :tsig:`abl.`, "veter+\ :em:`e`", "veter+ibus", "veter+\ :em:`e`", "veter+ibus" 
    :tsig:`voc.`, "vetus", "veter+ēs", "vetus", "veter+a"
    
 남성형과 여성형이 동일하므로 중복되는 열을 하나로 합쳐서 표를 만든다.

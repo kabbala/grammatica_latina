@@ -42,21 +42,16 @@
 
 소유격 복수형에는 어간모음이 언제나 드러난다. 어간의 끝이 자음인 경우는 모음이 없다.
 
-+-----------------------------+----------+---------+
-| 소유격 복수형               | 어간모음 | 분류    |
-+=============================+==========+=========+
-| puell\ **ārum**\ (소녀들의) | a        | 제1변화 |
-+-----------------------------+----------+---------+
-| amīc\ **ōrum**\ (친구들의)  | o        | 제2변화 |
-+-----------------------------+----------+---------+
-| homin\ **um**\ (사람들의)   | ∅ (없음) |         |
-+-----------------------------+----------+ 제3변화 |
-| cīv\ **ium**\ (시민들의)    | i        |         |
-+-----------------------------+----------+---------+
-| man\ **uum**\ (손들의)      | u        | 제4변화 |
-+-----------------------------+----------+---------+
-| di\ **ērum**\ (날들의)      | e        | 제5변화 |
-+-----------------------------+----------+---------+
+.. csv-table::
+   :header-rows: 1
+   
+   "소유격 복수형", "어간모음", "분류"
+   "puell\ :em:`ārum`\ (소녀들의)", a, "제1변화"
+   "amīc\ :em:`ōrum`\ (친구들의)", o, "제2변화"
+   "homin\ :em:`um`\ (사람들의)", ∅ (없음), "제3변화"
+   "cīv\ :em:`ium`\ (시민들의)", i, "제3변화"
+   "man\ :em:`uum`\ (손들의)", u, "제4변화"
+   "di\ :em:`ērum`\ (날들의)", e, "제5변화"
 
 .. note:: 제3변화는 어간모음의 영향을 받지 않는 athematic stem으로 볼 수 있다.
 
@@ -185,9 +180,9 @@
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "puella", "puell+ae"
    :tsig:`gen.`, "puell+ae", "puell+ārum"
-   :tsig:`dat.`, "puell+ae", "puell+\ **īs**"
+   :tsig:`dat.`, "puell+ae", "puell+\ :em:`īs`"
    :tsig:`acc.`, "puell+am", "puell+ās"
-   :tsig:`abl.`, "puell+ā", "puell+\ **īs**"
+   :tsig:`abl.`, "puell+ā", "puell+\ :em:`īs`"
    :tsig:`voc.`, "puella", "puell+ae"
 
 복수 여격과 탈격에서는 어간모음 a가 사용되지 않는다.
@@ -245,7 +240,7 @@
    :tsig:`acc.`, "Rōm+am"
    :tsig:`abl.`, "Rōm+ā"
    :tsig:`voc.`, "Rōma"
-   :tsig:`loc.`, "Rōm+\ **ae**"
+   :tsig:`loc.`, "Rōm+\ :em:`ae`"
 
 .. hlist::
    :columns: 2
@@ -265,7 +260,7 @@
    :tsig:`acc.`, "Athēn+ae"
    :tsig:`abl.`, "Athēn+īs"
    :tsig:`voc.`, "Athēn+ae"
-   :tsig:`loc.`, "Athēn+\ **īs**"
+   :tsig:`loc.`, "Athēn+\ :em:`īs`"
 
 .. hlist::
    :columns: 2
@@ -291,9 +286,9 @@
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "bēstia", "bēsti+ae"
    :tsig:`gen.`, "bēsti+ae", "bēsti+ārum"
-   :tsig:`dat.`, "bēsti+ae", "bēsti+īs=bēst\ **iīs**"
+   :tsig:`dat.`, "bēsti+ae", "bēsti+īs=bēst\ :em:`iīs`"
    :tsig:`acc.`, "bēsti+am", "bēsti+ās"
-   :tsig:`abl.`, "bēsti+ā", "bēsti+īs=bēst\ **iīs**"
+   :tsig:`abl.`, "bēsti+ā", "bēsti+īs=bēst\ :em:`iīs`"
    :tsig:`voc.`, "bēstia", "bēsti+ae"
 
 여기서는 설명의 편의를 위해 따로 분류를 하였으나, `-a, -ae, f.`_ 형태와 동일하게 변화하는 규칙변화이다.
@@ -394,9 +389,9 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "dea", "de+ae"
    :tsig:`gen.`, "de+ae", "de+ārum"
-   :tsig:`dat.`, "de+ae", "de+\ **ābus**"
+   :tsig:`dat.`, "de+ae", "de+\ :em:`ābus`"
    :tsig:`acc.`, "de+am", "de+ās"
-   :tsig:`abl.`, "de+ā", "de+\ **ābus**"
+   :tsig:`abl.`, "de+ā", "de+\ :em:`ābus`"
    :tsig:`voc.`, "dea", "de+ae"
 
 종교 행위에서 deis et deis라는 중복을 피하고 deis et deabus라고 부르기 위해 이런 표현을 사용한 것으로 추정한다.
@@ -608,8 +603,8 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    :tsig:`dat.`, "Rhēn+ō"
    :tsig:`acc.`, "Rhēn+um"
    :tsig:`abl.`, "Rhēn+ō"
-   :tsig:`voc.`, "Rhēn+/ **e**"
-   :tsig:`loc.`, "Rhēn+/ **ī**"
+   :tsig:`voc.`, "Rhēn+/ :em:`e`"
+   :tsig:`loc.`, "Rhēn+/ :em:`ī`"
 
 .. hlist::
    :columns: 2
@@ -629,7 +624,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    :tsig:`acc.`, "Delph+ōs"
    :tsig:`abl.`, "Delph+īs"
    :tsig:`voc.`, "Delph+ī"
-   :tsig:`loc.`, "Delph+/ **īs**"
+   :tsig:`loc.`, "Delph+/ :em:`īs`"
 
 .. hlist::
    :columns: 2
@@ -1889,21 +1884,16 @@ Cerēs, Cereris, :tsig:`f.`
 
 주격 단수 뒤에 어간 변화 없이 -is를 붙이기만 하는 경우이다.
 
-+------+----------------+-----------------+
-|      | 단수           | 복수            |
-+------+----------------+-----------------+
-| 주격 | cōnsul         | cōnsulēs        |
-+------+----------------+-----------------+
-| 속격 | cōnsulis       | cōnsul+\ **um** |
-+------+----------------+-----------------+
-| 여격 | cōnsulī        | cōnsulibus      |
-+------+----------------+-----------------+
-| 대격 | cōnsulem       | cōnsulēs        |
-+------+----------------+-----------------+
-| 탈격 | cōnsule        | cōnsulibus      |
-+------+----------------+-----------------+
-| 호격 | cōnsul         | cōnsulēs        |
-+------+----------------+-----------------+
+.. csv-table:: cōnsul, cōnsulis, :tsig:`m.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "cōnsul", "cōnsul+ēs"
+   :tsig:`gen.`, "cōnsul+is", "cōnsul+\ :em:`um`"
+   :tsig:`dat.`, "cōnsul+ī", "cōnsul+ibus"
+   :tsig:`acc.`, "cōnsul", "cōnsul+ēs"
+   :tsig:`abl.`, "cōnsul+\ :em:`e`", "cōnsul+ibus"
+   :tsig:`voc.`, "cōnsul", "cōnsul+ēs"
 
 .. hlist::
    :columns: 2
@@ -2443,12 +2433,12 @@ mare(:sig:`n.` 바다) 처럼 어간의 -e가 -is로 바뀌는 경우.
    :header-rows: 1
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "mare", "mar+\ **ia**"
-   :tsig:`gen.`, "mar+is", "mar+\ **ium**"
+   :tsig:`nom.`, "mare", "mar+\ :em:`ia`"
+   :tsig:`gen.`, "mar+is", "mar+\ :em:`ium`"
    :tsig:`dat.`, "mar+ī", "mar+ibus"
-   :tsig:`acc.`, "mare", "mar+\ **ia**"
-   :tsig:`abl.`, "mar+\ **ī**", "mar+ibus"
-   :tsig:`voc.`, "mare", "mar+\ **ia**"
+   :tsig:`acc.`, "mare", "mar+\ :em:`ia`"
+   :tsig:`abl.`, "mar+\ :em:`ī`", "mar+ibus"
+   :tsig:`voc.`, "mare", "mar+\ :em:`ia`"
 
 .. hlist::
    :columns: 2
@@ -2468,12 +2458,12 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
    :header-rows: 1
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "animal", "animāl+\ **ia**"
-   :tsig:`gen.`, "animāl+is", "animāl+\ **ium**"
+   :tsig:`nom.`, "animal", "animāl+\ :em:`ia`"
+   :tsig:`gen.`, "animāl+is", "animāl+\ :em:`ium`"
    :tsig:`dat.`, "animāl+ī", "animāl+ibus"
-   :tsig:`acc.`, "animal", "animāl+\ **ia**"
-   :tsig:`abl.`, "animāl+\ **ī**", "animāl+ibus"
-   :tsig:`voc.`, "animal", "animāl+\ **ia**"
+   :tsig:`acc.`, "animal", "animāl+\ :em:`ia`"
+   :tsig:`abl.`, "animāl+\ :em:`ī`", "animāl+ibus"
+   :tsig:`voc.`, "animal", "animāl+\ :em:`ia`"
 
 원래 어간이 animāli였던 것으로 생각할 수 있다.
 
@@ -2492,12 +2482,12 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
    :header-rows: 1
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "exemplar", "exemplār+\ **ia**"
-   :tsig:`gen.`, "exemplār+is", "exemplār+\ **ium**"
+   :tsig:`nom.`, "exemplar", "exemplār+\ :em:`ia`"
+   :tsig:`gen.`, "exemplār+is", "exemplār+\ :em:`ium`"
    :tsig:`dat.`, "exemplār+ī", "exemplār+ibus"
-   :tsig:`acc.`, "exemplar", "exemplār+\ **ia**"
-   :tsig:`abl.`, "exemplār+\ **ī**", "exemplār+ibus"
-   :tsig:`voc.`, "exemplar", "exemplār+\ **ia**"
+   :tsig:`acc.`, "exemplar", "exemplār+\ :em:`ia`"
+   :tsig:`abl.`, "exemplār+\ :em:`ī`", "exemplār+ibus"
+   :tsig:`voc.`, "exemplar", "exemplār+\ :em:`ia`"
 
 원래 어간이 i가 붙어있던 exemplāri였던 것으로 생각할 수 있다.
 
@@ -2520,86 +2510,58 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 ① baccar(:sig:`n.` 식물 이름, 그 식물의 뿌리)처럼 -ar, (ar)is 형태지만 -ar,
 -(ār)is 형태와 동일하게 변화하는 경우.
 
-baccar, baccaris, :sig:`n.`
+.. csv-table:: baccar, aris, :tsig:`n.`
+   :header-rows: 1
 
-+------+----------------+-----------------+
-|      | 단수           | 복수            |
-+------+----------------+-----------------+
-| 주격 | baccar         | baccar+\ **a**  |
-+------+----------------+-----------------+
-| 속격 | baccar+is      | baccar+\ **um** |
-+------+----------------+-----------------+
-| 여격 | baccar+ī       | baccar+ibus     |
-+------+----------------+-----------------+
-| 대격 | baccar         | baccar+\ **a**  |
-+------+----------------+-----------------+
-| 탈격 | baccar+\ **ī** | baccar+ibus     |
-+------+----------------+-----------------+
-| 호격 | baccar         | baccar+\ **a**  |
-+------+----------------+-----------------+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "baccar", "baccar+\ :em:`a`"
+   :tsig:`gen.`, "baccar+is", "baccar+\ :em:`um`"
+   :tsig:`dat.`, "baccar+ī", "baccar+ibus"
+   :tsig:`acc.`, "baccar", "baccar+\ :em:`a`"
+   :tsig:`abl.`, "baccar+\ :em:`ī`", "baccar+ibus"
+   :tsig:`voc.`, "baccar", "baccar+\ :em:`a`"
 
 ② nectar(:sig:`n.` 신들이 마시는 음료)처럼 -ar, -(ār)is 와 동일한 형태이지만
 탈격 단수가 -ī가 아니라 다른 제3변화 명사들처럼 -e인 경우.
 
-nectar, nectaris, :sig:`n.`
+.. csv-table:: nectar, aris, :tsig:`n.`
+   :header-rows: 1
 
-+------+----------------+------------------+
-|      | 단수           | 복수             |
-+------+----------------+------------------+
-| 주격 | nectar         | nectar+\ **ia**  |
-+------+----------------+------------------+
-| 속격 | nectar+is      | nectar+\ **ium** |
-+------+----------------+------------------+
-| 여격 | nectar+ī       | nectar+ibus      |
-+------+----------------+------------------+
-| 대격 | nectar         | nectar+\ **ia**  |
-+------+----------------+------------------+
-| 탈격 | nectar+\ **e** | nectar+ibus      |
-+------+----------------+------------------+
-| 호격 | nectar         | nectar+\ **ia**  |
-+------+----------------+------------------+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "nectar", "nectar+\ :em:`ia`"
+   :tsig:`gen.`, "nectar+is", "nectar+\ :em:`ium`"
+   :tsig:`dat.`, "nectar+ī", "nectar+ibus"
+   :tsig:`acc.`, "nectar", "nectar+\ :em:`ia`"
+   :tsig:`abl.`, "nectar+\ :em:`e`", "nectar+ibus"
+   :tsig:`voc.`, "nectar", "nectar+\ :em:`ia`"
 
-③ far(:sig:`n.` 스펠트 밀, 밀의 일종)처럼 -ar, -(ār)is와 동일한 형태이지만
-mixed i declension과 동일하게 변화하는 경우.
+③ far(:sig:`n.` 스펠트 밀, 밀의 일종)처럼 -ar, -(ār)is와 동일한 형태이지만 단음 i 변화와 동일하게 변화하는 경우.
 
-far, farris, :sig:`n.`
+.. csv-table:: far, farris, :tsig:`n.`
+   :header-rows: 1
 
-+------+--------------+----------------+
-|      | 단수         | 복수           |
-+------+--------------+----------------+
-| 주격 | far          | farr+\ **a**   |
-+------+--------------+----------------+
-| 속격 | farr+is      | farr+i\ **um** |
-+------+--------------+----------------+
-| 여격 | farr+ī       | farr+ibus      |
-+------+--------------+----------------+
-| 대격 | far          | farr+\ **a**   |
-+------+--------------+----------------+
-| 탈격 | farr+\ **e** | farr+ibus      |
-+------+--------------+----------------+
-| 호격 | far          | farr+\ **a**   |
-+------+--------------+----------------+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "far", "farr+\ :em:`a`"
+   :tsig:`gen.`, "farr+is", "farr+\ :em:`um`"
+   :tsig:`dat.`, "farr+ī", "farr+ibus"
+   :tsig:`acc.`, "far", "farr+\ :em:`a`"
+   :tsig:`abl.`, "farr+\ :em:`e`", "farr+ibus"
+   :tsig:`voc.`, "far", "farr+\ :em:`a`"
 
 ④ iubar(:sig:`n.` 광채, 햇살)처럼 -ar, -(ār)is와 동일한 형태이지만 자음변화와
 동일하게 변화하는 경우.
 
-iubar, iubaris, :sig:`n.`
+.. csv-table:: iubar, iubaris, :tsig:`n.`
+   :header-rows: 1
 
-+------+---------------+----------------+
-|      | 단수          | 복수           |
-+------+---------------+----------------+
-| 주격 | iubar         | iubar+\ **a**  |
-+------+---------------+----------------+
-| 속격 | iubar+is      | iubar+\ **um** |
-+------+---------------+----------------+
-| 여격 | iubar+ī       | iubar+ibus     |
-+------+---------------+----------------+
-| 대격 | iubar         | iubar+\ **a**  |
-+------+---------------+----------------+
-| 탈격 | iubar+\ **e** | iubar+ibus     |
-+------+---------------+----------------+
-| 호격 | iubar         | iubar+\ **a**  |
-+------+---------------+----------------+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "iubar", "iubar+\ :em:`a`"
+   :tsig:`gen.`, "iubar+is", "iubar+\ :em:`um`"
+   :tsig:`dat.`, "iubar+ī", "iubar+ibus"
+   :tsig:`acc.`, "iubar", "iubar+\ :em:`a`"
+   :tsig:`abl.`, "iubar+\ :em:`e`", "iubar+ibus"
+   :tsig:`voc.`, "iubar", "iubar+\ :em:`a`"
+
 
 제3변화 구별법
 -----------------
@@ -2886,9 +2848,9 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "r+ēs", "r+ēs"
    :tsig:`gen.`, "r+eī", "r+ērum"
-   :tsig:`dat.`, "r+eī", "r+\ **ēbus**"
+   :tsig:`dat.`, "r+eī", "r+\ :em:`ēbus`"
    :tsig:`acc.`, "r+em", "r+ēs"
-   :tsig:`abl.`, "r+ē", "r+\ **ēbus**"
+   :tsig:`abl.`, "r+ē", "r+\ :em:`ēbus`"
    :tsig:`voc.`, "r+ēs", "r+ēs"
 
 사전 표제어는 다음 형태이다.
@@ -2918,8 +2880,8 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "diēs", "diēs"
-   :tsig:`gen.`, "di+\ **ēī**", "di+ērum"
-   :tsig:`dat.`, "di+\ **ēī**", "di+ēbus"
+   :tsig:`gen.`, "di+\ :em:`ēī`", "di+ērum"
+   :tsig:`dat.`, "di+\ :em:`ēī`", "di+ēbus"
    :tsig:`acc.`, "di+em", "diēs"
    :tsig:`abl.`, "di+ē", "di+ēbus"
    :tsig:`voc.`, "diēs", "diēs"

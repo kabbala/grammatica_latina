@@ -203,12 +203,15 @@ epub_exclude_files = ['search.html', '.nojekyll']
 todo_include_todos = True
 todo_emit_warnings = False
 
+trim_footnote_reference_space = True
+
 rst_prolog = """
 .. role:: sig
    :class: sig
    
 .. role:: tsig
    :class: tsig
+   
+.. role:: em
+   :class: emphasize
 """
-
-trim_footnote_reference_space = True
