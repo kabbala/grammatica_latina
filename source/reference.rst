@@ -1,31 +1,33 @@
 참고문헌
 ========
 
-.. [성염] 성염, 『古典 라틴어』(서울: 바오로딸), 1994.
+.. [성염] 성염, :ref:`『古典 라틴어』 <성염의 고전 라틴어>`\(서울: 바오로딸), 1994.
 
-.. [한동일] 한동일, 『카르페 라틴어』(서울: 문예림), 수정 증보판, 2012.
+.. [한동일] 한동일, `『카르페 라틴어』 <카르페 라틴어>`\(서울: 문예림), 수정 증보판, 2012.
 
-.. [Cassell] :title-reference:`Cassell's Latin Dictionary`, 1904.
+.. [Cassell] `Cassell's Latin Dictionary`_, 1904.
 
 .. [CLDG2] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
-.. [Gaffiot] Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`, 1934.
+.. [Gaffiot] Gaffiot, :ref:`Dictionnaire Illustré Latin-Français <Gaffiot, Dictionnaire Illustré Latin-Français>`, 1934.
 
-.. [Lewis] Lewis, :title-reference:`An Elementary Latin Dictionary`, 1890.
+.. [Lewis] Lewis, :ref:`An Elementary Latin Dictionary <Lewis, An Elementary Latin Dictionary>`, 1890.
 
-.. [LnS] Lewis & Short, :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`, 1879.
+.. [LnS] Lewis & Short, :ref:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews <Lewis & Short, A Latin Dictionary>`, 1879.
 
-.. [Oxford] :title-reference:`Oxford Latin Dictionary`, 1968.
+.. [Oxford] `Oxford Latin Dictionary`_, 1968.
 
 
 한국어 라틴어 교재
 ------------------
 
+.. _성염의 고전 라틴어:
+
 성염의 고전 라틴어
 ~~~~~~~~~~~~~~~~~~
 성염의 『古典 라틴어』(서울: 바오로딸, 1994)는 한국어로 쓰여진 사실상 유일한 종합적인 고전 라틴어 교재이다. 저자는 신학교까지 다녔던 카톨릭 신자이며 로마의 교황립 살레시안 대학교(Pontificia Studiorum Universitas Salesiana) 박사이지만 교회 라틴어가 아닌 고전 라틴어 책을 집필하였다.
 
-책의 구성은 총 46장으로, 머리말에서 3학기 정도의 대학교 교양 강의를 염두에 두고 만들어졌다고 밝힌 것처럼 수업의 진행을 위해 순서와 내용이 구성되어 있다. 이 책 자체가 저자가 신학교에서 들은 수업 유인물을 기반으로 하고 있기도 해서 책에 ‘엮음’으로 적혀있기도 하다. 
+책의 구성은 총 46장으로, 머리말에서 3학기 정도의 대학교 교양 강의를 염두에 두고 만들어졌다고 밝힌 것처럼 수업의 진행을 위해 순서와 내용이 구성되어 있다. 이 책 자체가 저자가 신학교에서 들은 수업 유인물을 기반으로 하고 있기도 해서 책에 ‘엮음’으로 적혀있기도 하다.
 
 또한 인도유럽조어에 대한 해설이 많은 것이 특징이다. 이 때문에 책이 어렵게 느껴질 수도 있지만 라틴어에 대한 이해를 넓히기 위해서 필요한 부분이라고 생각한다.
 
@@ -50,6 +52,7 @@
    -  이영근 옮김, 『휠록 라틴어 문법』(서울: 비블리카 아카데미아, 2005)
       — 6판 번역.
 
+.. _카르페 라틴어:
 
 카르페 라틴어
 ~~~~~~~~~~~~~
@@ -87,7 +90,7 @@ Kenney, The Revised Latin Primer
 
 .. [#] 사후에 라틴어 학자인 둘째 딸 마리온(Marion)이 본인과 동생, 몇몇 학생이 이 책을 썼다고 증언했다.
 
-  
+
 외국어 사전
 -----------
 
@@ -100,6 +103,7 @@ Cassell's Latin Dictionary
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 1854년 나온 라틴어-영어, 영어-라틴어 중사전으로, 판을 거듭하면서 현재까지 인기있는 사전이다. 1904년판이 인터넷에 공개되어 있다.
 
+.. _Lewis & Short, A Latin Dictionary:
 
 Lewis & Short, A Latin Dictionary
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,10 +115,13 @@ Oxford Latin Dictionary를 만들려다가 포기하고 이 사전을 도입하�
 
 현재 1891년판이 인터넷에 공개되어 있고, 온라인으로 서비스 되는 등 다양하게 사용되고 있어서 쉽게 접할 수 있다.
 
+.. _Lewis, An Elementary Latin Dictionary:
+
 편집자인 루이스는 이후 독자적으로 :title-reference:`An Elementary Latin Dictionary`\(1890)를 출판하기도 한다.
 
 .. [#] 여기서 언급된 독일어 사전은 1834년에서 1845년까지 총 4권으로 출판된 Wilhelm Freund의 :title-reference:`Wörterbuch der Lateinischen Sprache nach historisch-genetischen Principien, mit steter Berücksichtigung der Grammatik, Synonymik und Alterthumskunde`\을 말한다.
 
+.. _Gaffiot, Dictionnaire Illustré Latin-Français:
 
 Gaffiot, Dictionnaire Illustré Latin-Français
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
