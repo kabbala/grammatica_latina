@@ -1,3 +1,7 @@
-.sig { font-style: italic; font-weight: lighter; }
-.tsig { font-style: italic; }
 th { text-align: center; }
+
+.sig { font-style: italic; font-weight: lighter; }
+
+.tsig { font-style: italic; }
+
+.emphasize { font-weight: bolder; text-decoration: underline;; }
