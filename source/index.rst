@@ -11,11 +11,16 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 목차
+   :caption: 변화
 
    declinatio_nominis
    declinatio_adiectivi
    coniugatio_verbi
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 부록
+   
    reference
 
 .. Indices and tables
