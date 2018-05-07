@@ -199,18 +199,18 @@
    * fābula, ae, :sig:`f.` 이야기
    * fēmina, ae, :sig:`f.` 여성
    * fortūna, ae, :sig:`f.` 운명
-   * fuga(도망)
-   * insula(섬)
-   * luna(달)
-   * mensa(탁자)
-   * porta(문)
-   * puella(소녀)
-   * rosa(장미)
-   * stella(별)
-   * terra(대지)
-   * unda(파도)
-   * via(길)
-   * vita(삶)
+   * fuga, ae, :sig:`f.` 도망
+   * insula, ae, :sig:`f.` 섬
+   * luna, ae, :sig:`f.` 달
+   * mensa, ae, :sig:`f.` 탁자
+   * porta, ae, :sig:`f.` 문
+   * puella, ae, :sig:`f.` 소녀
+   * rosa, ae, :sig:`f.` 장미
+   * stella, ae, :sig:`f.` 별
+   * terra, ae, :sig:`f.` 대지
+   * unda, ae, :sig:`f.` 파도
+   * via, ae, :sig:`f.` 길
+   * vita, ae, :sig:`f.` 삶
 
 복수형으로만 쓰이는 단어
 
@@ -218,13 +218,13 @@
    :columns: 2
 
    * cūnae, cūnārum, :sig:`f. pl.` 요람 (단수형 cūna, cūnae도 존재하나 거의 사용되지 않음)
-   * deliciae(pl. 즐거움)
+   * deliciae, ārum, :sig:`pl.` 즐거움
    * dīvitiae, dīvitārum, :sig:`f. pl.` 부유함
-   * excubiae(pl. 불침번)
-   * exsequiae(pl. 장례식)
-   * insidiae(pl. 음모)
+   * excubiae, ārum, :sig:`pl.` 불침번
+   * exsequiae, ārum, :sig:`pl.` 장례식
+   * insidiae, ārum, :sig:`pl.` 음모
    * Kalendae, Kalendārum, :sig:`f. pl.` 초하루 (소문자로도 씀)
-   * tibiae(pl. 피리).
+   * tibiae, ārum, :sig:`pl.` 피리
 
 고유명사의 경우도 -a로 끝나는 여성형의 경우 제1변화를 한다.
 
@@ -265,10 +265,10 @@
 .. hlist::
    :columns: 2
 
-   * Athēnae, Athēnārum, :sig:`f. pl.` 아테네
-   * Pīsae, Pīsārum, :sig:`f. pl.` 피사
-   * Syrācūsae, Syrācūsārum, :sig:`f. pl.` 시라쿠사
-   * Thēbae, Thēbārum, :sig:`f. pl.` 테베
+   * Athēnae, ārum, :sig:`f. pl.` 아테네
+   * Pīsae, ārum, :sig:`f. pl.` 피사
+   * Syrācūsae, ārum, :sig:`f. pl.` 시라쿠사
+   * Thēbae, ārum, :sig:`f. pl.` 테베
 
 .. note:: 복수형으로만 쓰이는 지명은 주로 그리스어에서 유래한 도시의 이름으로, 복수로 쓰이나 단수로 취급된다.
 
@@ -298,7 +298,7 @@
 
    * bēstia, bēstiae, :sig:`f.` 짐승
    * colōnia, colōniae, :sig:`f.` 식민지
-   * fīlia, fīliae, :sig:`f.` 딸 (복수 여격과 탈격에 fīliābus를 사용하기도 한다. `여격과 탈격 fīliābus`_ 항목 참조)
+   * fīlia, fīliae, :sig:`f.` 딸 (복수 여격과 탈격에 `fīliābus`_\를 사용하기도 한다)
    * patria, patriae, :sig:`f.` 조국
    * pecūnia, pecūniae, :sig:`f.` 돈
    * prōvincia, prōvinciae, :sig:`f.` 속주
@@ -308,15 +308,15 @@
 .. hlist::
    :columns: 2
 
-   * scientia, scientiae, :sig:`f.` 지식
-   * stententia, sententiae, :sig:`f.` 뜻
+   * scientia, ae, :sig:`f.` 지식
+   * stententia, ae, :sig:`f.` 뜻
 
 지명
 
 .. hlist::
    :columns: 2
 
-   * Hadria, Hadriae, :sig:`f. sg.`
+   * Hadria, ae, :sig:`f. sg.`
 
 -a, -ae, :tsig:`m.`
 ~~~~~~~~~~~~~~~~~~~
@@ -396,6 +396,7 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
 
 종교 행위에서 deis et deis라는 중복을 피하고 deis et deabus라고 부르기 위해 이런 표현을 사용한 것으로 추정한다.
 
+.. _fīliābus:
 
 여격과 탈격 fīliābus
 ^^^^^^^^^^^^^^^^^^^^
@@ -789,23 +790,17 @@ fīlius, fīliī, :sig:`m.`
 
 지명
 
-+------+------------+
-|      |    단수    |
-+======+============+
-| 주격 | Brundisium |
-+------+------------+
-| 속격 | Brundisiī  |
-+------+------------+
-| 여격 | Brundisiō  |
-+------+------------+
-| 대격 | Brundisium |
-+------+------------+
-| 탈격 | Brundisiō  |
-+------+------------+
-| 호격 | Brundisium |
-+------+------------+
-| 처격 | Brundisiī  |
-+------+------------+
+.. csv-table:: Brundisium, ī, :tsig:`n.`
+   :header-rows: 1
+   
+   "", "sg."
+   "nom.", "Brundisi+um"
+   "gen.", "Brundisi+ī"
+   "dat.", "Brundisi+ō"
+   "acc.", "Brundisi+um"
+   "abl.", "Brundisi+ō"
+   "voc.", "Brundisi+um"
+   "loc.", "Brundisi+:em:`ī`"
 
 .. hlist::
    :columns: 2
@@ -2171,7 +2166,7 @@ cf. vas, vadis, :sig:`m.` 담보물, 보석금
 
 대부분 남성·여성 명사이며, 예외적으로 약간의 중성 명사가 있다.
 
-변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다.
+변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다. 자음변화의 분류와 비슷하지만 순서는 역순이다.
 
    1. 어간이 한 가지인 경우 (cīvis, cīvis, :sig:`m. f.`)
    #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
@@ -2180,9 +2175,6 @@ cf. vas, vadis, :sig:`m.` 담보물, 보석금
    #. p, b 뒤의 s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
    #. e가 탈락하는 경우 (imber, imbris, :sig:`m.` 비)
    #. 예외
-
-.. note:: 이 순서는 자음변화의 분류와 비슷하지만 순서는 역순인데, 서로 상보적인 관계로 생각할 수도 있다.
-
 
 어간이 한 가지인 경우
 ~~~~~~~~~~~~~~~~~~~~~
