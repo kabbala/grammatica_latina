@@ -214,4 +214,7 @@ rst_prolog = """
    
 .. role:: em
    :class: emphasize
+   
+.. role:: en
+   :class: ending
 """
