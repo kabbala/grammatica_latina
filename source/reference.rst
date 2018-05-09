@@ -5,7 +5,7 @@
 
 .. [한동일] 한동일, 『`카르페 라틴어`_』(서울: 문예림), 수정 증보판, 2012.
 
-.. [Andrews1849] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849.
+.. [Andrews] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849.
 
 .. [AnG] Allen & Greenough, :title-reference:`A Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903.
 
