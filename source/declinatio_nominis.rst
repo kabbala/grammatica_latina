@@ -15,8 +15,8 @@
 .. note::
 
    한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 `어간모음`_\에 의해 어간도 변한다고 본다. [#]_
-   
-   라틴어에도 복수의 어간을 가진 경우가 많다. 명사는 어간이 2가지인 경우가 많으므로 명사의 :ref:`사전 표제어 <명사의 사전 표제어>`\도 2개이다. 
+
+   라틴어에도 복수의 어간을 가진 경우가 많다. 명사는 어간이 2가지인 경우가 많으므로 명사의 :ref:`사전 표제어 <명사의 사전 표제어>`\도 2개이다.
 
    .. [#] 재일교포 趙義成 교수 홈페이지의 `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고.
 
@@ -44,7 +44,7 @@
 
 .. csv-table::
    :header-rows: 1
-   
+
    "소유격 복수형", "어간모음", "분류"
    "puell\ :em:`ārum`\ (소녀들의)", a, "제1변화"
    "amīc\ :em:`ōrum`\ (친구들의)", o, "제2변화"
@@ -413,7 +413,7 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    :tsig:`abl.`, "fīli+ā", "fīli+īs, fīli+\ **ābus**"
    :tsig:`voc.`, "fīlia", "fīli+ae"
 
-이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filliis et fillis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
+이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filiis et filiis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
 
 물론 filiis를 남여 모두를 총칭하는 경우로도 사용한다.
 
@@ -791,7 +791,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. csv-table:: Brundisium, ī, :tsig:`n.`
    :header-rows: 1
-   
+
    "", "sg."
    "nom.", "Brundisi+um"
    "gen.", "Brundisi+ī"
@@ -1608,7 +1608,7 @@ s가 탈락하는 경우
 
    * plēbs, plēbis, :sig:`f.` (중세 라틴어, 고전 라틴어에서는 i 변화)
    * trabs, trabis, :sig:`f.` 대들보
-   
+
 .. note:: 단음 e를 쓰는 -ebs로 끝나는 명사가 있다면 -ibis 형태로 변화할 것이나, 사전에 그런 명사는 없다. 단, 제3변화 형용사 중에 caelebs, ibis가 있다.
 
 -(p)s, -(p)is, :tsig:`m. f.`
@@ -1695,7 +1695,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
    :tsig:`acc.`, "virtūt+em", "virtūt+ēs"
    :tsig:`abl.`, "virtūt+\ :em:`e`", "virtūt+ibus"
    :tsig:`voc.`, "virtūt+s=virtūs", "virtūt+ēs"
-   
+
 .. hlist::
    :columns: 2
 
@@ -1727,7 +1727,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
    * oriēns, orientis, :sig:`m.` 동쪽, 일출
    * occidēns, occidentis, :sig:`m.` 서쪽, 일몰
-   
+
 .. note:: 현재분사에서 파생한 명사중 일부는 i 모음 변화를 한다.
 
 .. note:: 현재분사도 이 형태의 어간을 갖는다. 그러나 현재분사는 탈격 단수가 -ī, 소유격 복수가 -ium, 중성 주격 복수가 -ia인 i 모음 변화를 한다. 단 현재분사가 명사처럼 쓰일 때는 탈격 단수에 -e를 쓰기도 한다.
@@ -1766,7 +1766,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
    :columns: 2
 
    * praeceps, praecipitis, :sig:`n.`
-   
+
 .. note:: -ceps와 같은 어원인 caput(:sig:`n.` 머리)는 caput, capitis로 변화한다.
 
 -s, -dis, :tsig:`m. f.`
