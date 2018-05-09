@@ -212,7 +212,7 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
    * tuus(너의)
    * suus
 
-인칭대명사 복수는 `-er, -(r)a, -(r)um` 형태로 변화한다.
+인칭대명사 복수는 `-er, -(r)a, -(r)um`_ 형태로 변화한다.
 
 과거분사(-tus, -tua, -tum)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -243,7 +243,7 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
    :tsig:`abl.`, "pulchr+ō", "pulchr+īs", "pulchr+ā", "pulchr+īs", "pulchr+ō", "pulchr+īs"
    :tsig:`voc.`, "pulcher", "pulchr+ī", "pulchr+a", "pulchr+ae", "pulchr+um", "pulchr+a"
 
-pucher(예쁜)같은 형용사의 남성형은 명사 제2변화와 같이 e가 탈락하고 변화한다. 남성형 호격 단수는 주격과 같다.
+남성형이 명사 제2변화 중에서 -er, -(r)ī 형태와 동일하게 변화한다.
 
 사전 표제어는 다음과 같은 형태로 표기한다. -er로 끝나는 규칙변화이므로 소유격으로 e가 탈락하는지 여부만 표시하는 경우도 있다.
 
@@ -380,7 +380,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 ^^^^^^^^^^^^^^^^^^^^^^^
 -cus/quos, -qua, -cum/quom 형태도 형용사 제1·2변화로 볼 수 있다. [AnG]_
 
-.. note:: 그러나 이 내용을 인용한 Allen과 Greenough의 1903년 책에도 이 형태는 요즘 더이상 가르치지 않는다고 적혀 있다.
+.. note:: 그러나 이 내용을 인용한 알렌과 그리노의 1903년 책에도 이 형태는 요즘 더이상 가르치지 않는다고 적혀 있다.
 
 
 수사
@@ -388,8 +388,8 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 수사의 일부는 제1·2변화를 한다. 예시는 해당 항목에서 다룬다.
 
 
-제3변화(1) i 모음 변화
-----------------------
+제3변화
+-------
 
 명사 제3변화 중 복수 속격이 -ium인 경우와 동일한 형태로 변화하므로
 제3변화라고 한다. 형용사의 두번째 변화이므로, 제2형(secunda classis)으로
@@ -428,6 +428,22 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 |         | 같음    | 같음    | 같음    | 같음    | 같음    | 같음    |
 +---------+---------+---------+---------+---------+---------+---------+
 
+제3변화 구별법
+~~~~~~~~~~~~~~
+
+방법1: 어간모음 앞에 장모음이 오면 소유격 복수가 -ium인 i 모음 변화, 단모음이 오면 소유격 복수가 -um인 자음변화. [Kennedy1906]_
+
+방법2: 남성, 여성, 중성 주격 단수가 모두 같으면 자음변화, 단 현재분사와 x로 끝나는 명사는 i 모음 변화. 2개나 3개이면 i 모음 변화. 단 형용사의 비교급은 주격이 2가지 종류이나 자음변화.
+
+두 방법 모두 예외가 있으니 사용에 주의를 해야 한다.
+
+제3변화(1) i 모음 변화
+----------------------
+탈격 단수가 :en:`-i`\, 중성 주격 복수가 :en:`-ia`\, 중성 소유격 복수가 :en:`-ium`\으로 끝난다.
+
+현재분사도 이 형태로 변화한다.
+
+.. note:: 제3변화 명사의 장음 ī 변화와 동일한 형태인데, 제3변화 명사에서는 이 형태의 변화를 하는 명사의 수가 가장 적었지만, 형용사 제3변화에서는 반대로 가장 많다.
 
 -is, -is, -e
 ~~~~~~~~~~~~
@@ -477,6 +493,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
    * difficilis, e 어려운
    * facilis, e 쉬운, 다루기 쉬운
    * lūnāris, e 달의
+   * mortālis, e
    * nōbilis, e 유명한, 귀족의
    * similis, e 비슷한
    * utilis, e 유용한
@@ -510,12 +527,13 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 .. hlist::
    :columns: 2
 
-   * acer, is, e 날카로운
-   * celeber, is, e 유명한
-   * equester, is, e 기병의
-   * salūber, is, e 건강한, 건강에 좋은
-   * terrester, is, e 땅의
-   * volucer, is, e 나는, 날개달린
+   * acer, ris, re 날카로운
+   * alacer, ris, re
+   * celeber, ris, re 유명한
+   * equester, ris, re 기병의
+   * salūber, ris, re 건강한, 건강에 좋은
+   * terrester, ris, re 땅의
+   * volucer, ris, re 나는, 날개달린
 
 -er로 끝나는 달 이름
 
@@ -528,20 +546,20 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
    * December, Decembris, Decembre
 
 
--x, -x, -x
-~~~~~~~~~~
+-x, -cis
+~~~~~~~~
 남성형, 여성형, 중성형 주격 단수가 모두 같고, 어간에서 s가 탈락하고 c가 나타나는 경우. x는 c+s이다.
 
 .. csv-table:: fēlīx, īcis
    :header-rows: 1
 
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
-   :tsig:`nom.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+\ :em:`ia`"
+   :tsig:`nom.`, "fēlic+s=fēlīx", "fēlīc+ēs", "fēlī+s=fēlīx", "fēlīc+\ :em:`ia`"
    :tsig:`gen.`, "fēlīc+is", "fēlīc+\ :em:`ium`", "fēlīc+is", "fēlīc+\ :em:`ium`"
    :tsig:`dat.`, "fēlīc+ī", "fēlīc+ibus", "fēlīc+ī", "fēlīc+ibus"
-   :tsig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
+   :tsig:`acc.`, "fēlīc+em", "fēlīc+ēs", "fēlī+s=fēlīx", "fēlīc+ia"
    :tsig:`abl.`, "fēlīc+\ :em:`ī`", "fēlīc+ibus", "fēlīc+\ :em:`ī`", "fēlīc+ibus"
-   :tsig:`voc.`, "fēlīx", "fēlīc+ēs", "fēlīx", "fēlīc+ia"
+   :tsig:`voc.`, "fēlic+s=fēlīx", "fēlīc+ēs", "fēlī+s=fēlīx", "fēlīc+ia"
 
 어간의 변화가 제3변화 명사의 mixed i declension 중자음형에 대응한다.
 
@@ -558,33 +576,49 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
    * atrōx, ōcis 가혹한
    * audax, acis 대담한
    * fēlīx, īcis 행복한
+   * īnfēlīx, īcis
    * velox, ocis 빠른
    
 .. note:: 사전 표제어가 명사 제3변화와 동일한 형태이다.
 
 
--s, -s, -s
-~~~~~~~~~~
+-s, -tis/dis
+~~~~~~~~~~~~
 남성형, 여성형, 중성형 주격 단수가 모두 같고, 어간에서 s가 탈락하고 t, d가 나타나는 경우.
 
 .. hlist::
    :columns: 2
 
    * concors, concordis
+   * frequēns, frequentis
    * ingēns, ingentis
+   * praesēns, prasentis
+   * recēns, recentis
 
 현재분사(-āns, -antis/-ēns, -entis)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 현재분사는 형용사 제3변화를 한다. 자세한 내용은 해당 항목에서 다룬다.
 
 .. hlist::
    :columns: 2
 
-   * amāns, antis
+   * amāns, antis 사랑하는, 자애로운, 친절한
    * fervēns, entis 뜨거운, 끓는
-   * sapiēns, entis 지혜로운
+   * sapiēns, ientis 지혜로운
 
-.. note:: 현재분사에서 파생한 명사는 탈격 단수가 -e, 소유격 복수가 -um인 제3변화를 한다.
+.. note:: 현재분사가 명사처럼 사용될 때는 탈격 단수 어미로 :en:`-e`\를 사용하기도 한다. 현재분사에서 파생된 명사 일부는 소유격 복수가 -um인 자음변화를 한다.
+
+
+-eps, -ipis
+~~~~~~~~~~~
+-eps로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+
+잡는다는 의미의 접미사 -ceps가 붙은 단어.
+
+.. hlist::
+   :columns: 2
+
+   * prīnceps, ipis
 
 예외
 ~~~~
@@ -619,8 +653,8 @@ iuvenis, iuvenis
    :tsig:`abl.`, "iuven+\ :em:`ī`", "iuven+ibus", "iuven+\ :em:`ī`", "iuven+ibus"
    :tsig:`voc.`, "iuven+is", "iuven+ēs", "pār", "iuven+\ :em:`ia`"
 
-pār, pār, pār
-^^^^^^^^^^^^^
+pār, paris
+^^^^^^^^^^
 남성형, 여성형, 중성형 주격이 모두 같고, 주격이 그대로 어간으로 사용된다.
 
 .. csv-table:: pār, paris
@@ -634,14 +668,20 @@ pār, pār, pār
    :tsig:`abl.`, "par+\ :em:`ī`", "par+ibus", "par+\ :em:`ī`", "par+ibus"
    :tsig:`voc.`, "pār", "par+ēs", "pār", "par+\ :em:`ia`"
 
+potis
+^^^^^
 
 제3변화(2) 자음변화
 -------------------
+탈격 단수가 :en:`-e`\, 중성 주격 복수가 :en:`-a`\, 중성 소유격 복수가 :en:`-um`\으로 끝난다.
+
+형용사의 비교급도 이 형태로 변화한다.
+
+.. note:: 제3변화 명사의 자음변화와 동일한 형태인데, 제3변화 명사에서는 이 변화를 하는 명사의 수가 가장 많았지만, 형용사 제3변화에서는 반대로 가장 적다.
 
 -s, -s, -s
 ~~~~~~~~~~
-
-vetus(오래된, 낡은) 같은 경우는 탈격 단수가 -i가 아닌 -e로, 목적격 복수 -ium이 아닌 -um으로, 중성형 복수 주격이 -ia가 아닌 -a로 자음변화이다.
+남성, 여성, 중성 주격이 모두 같은 경우.
 
 .. csv-table:: vetus, eris
    :header-rows: 1
@@ -670,10 +710,19 @@ vetus(오래된, 낡은) 같은 경우는 탈격 단수가 -i가 아닌 -e로, �
    :columns: 2
 
    * dīves, itis 부유한
+   
+.. vetus vetus vetus eris
+   pauper pauper pauper eris degener
+   dives dives dives itis sospes superstes
+   deses deses deses idis
+   compos compos compos otis
+   caelebs caelebs caelebs ibis
+   contracted form dis dives
 
-형용사의 비교급(-or, -us)
-~~~~~~~~~~~~~~~~~~~~~~~~~
-형용사의 비교급도 제3변화를 한다. 예시는 해당 항목에서 다룬다.
+
+형용사의 비교급(-or, -us, -ōris)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+형용사의 비교급도 제3변화를 한다. 자세한 내용은 해당 항목에서 다룬다.
 
 수사
 ~~~~

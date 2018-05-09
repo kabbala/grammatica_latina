@@ -5,6 +5,8 @@
 
 .. [한동일] 한동일, 『`카르페 라틴어`_』(서울: 문예림), 수정 증보판, 2012.
 
+.. [Andrews1849] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849.
+
 .. [AnG] Allen & Greenough, :title-reference:`A Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903.
 
 .. [Cassell] `Cassell's Latin Dictionary`_, 1904.
@@ -12,6 +14,8 @@
 .. [CLDG2] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
 
 .. [Gaffiot] Gaffiot, :ref:`Dictionnaire Illustré Latin-Français <Gaffiot, Dictionnaire Illustré Latin-Français>`, 1934.
+
+.. [Kennedy1906] `Kenney, The Revised Latin Primer`_, 1906.
 
 .. [Lewis] Lewis, :ref:`An Elementary Latin Dictionary <Lewis, An Elementary Latin Dictionary>`, 1890.
 
@@ -33,7 +37,7 @@
 
 또한 인도유럽조어에 대한 해설이 많은 것이 특징이다. 이 때문에 책이 어렵게 느껴질 수도 있지만 라틴어에 대한 이해를 넓히기 위해서 필요한 부분이라고 생각한다.
 
-『古典 라틴어』는 3판까지 나왔는데, 현재 절판이다. 그러나 필름을 그대로 재사용하여 만든 『고급 라틴어』(파주: 경세원, 2014)를 이 책의 4판으로 간주해도 될 것이다. 머리말(3쪽), 라틴어의 역사(4~6쪽), 차례(7~11쪽), 문법 약호(12쪽) 부분을 제외하고는 쪽번호까지 동일하다.
+『古典 라틴어』는 3판까지 나왔는데, 현재 절판이다. 그러나 필름을 그대로 재사용하여 만든 『고급 라틴어(ALTIOR LATINAS)』(파주: 경세원, 2014)를 이 책의 4판으로 간주해도 될 것이다. 머리말(3쪽), 라틴어의 역사(4~6쪽), 차례(7~11쪽), 문법 약호(12쪽) 부분을 제외하고는 쪽번호까지 동일하다.
 
 오래된 필름을 사용하여 획이 희미해진 것도 있고 필름을 손으로 붙인 자국 등이 아쉽긴 하지만 이전 판에 있던 오류를 수정한 것이므로 책을 새로 구입하려는 사람은 절판된 『古典 라틴어』를 찾을 것이 아니라 『고급 라틴어』를 구입하면 될 것이다.
 
