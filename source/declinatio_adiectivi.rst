@@ -373,7 +373,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
    :tsig:`acc.`, "satur+um", "satur+ōs", "satur+am", "satur+ās", "satur+um", "satur+a"
    :tsig:`abl.`, "satur+ō", "satur+īs", "satur+ā", "satur+īs", "satur+ō", "satur+īs"
    :tsig:`voc.`, "satur", "satur+ī", "satur+a", "satur+ae", "satur+um", "satur+a"
-   
+
 남성 주격 어미가 -ur로 끝나지만, `-er, -(er)a, -(er)um`_ 형태와 동일하게 변화하는 -er, -(er)a, -(er)um 형태의 예외로 볼 수 있다.
 
 -(qu)os, -(qu)a, -(c)um
@@ -431,7 +431,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 제3변화 구별법
 ~~~~~~~~~~~~~~
 
-방법1: 어간모음 앞에 장모음이 오면 소유격 복수가 -ium인 i 모음 변화, 단모음이 오면 소유격 복수가 -um인 자음변화. [Kennedy1906]_
+방법1: 어간모음 앞에 장모음이 오면 소유격 복수가 -ium인 i 모음 변화, 단모음이 오면 소유격 복수가 -um인 자음변화. [Kennedy]_
 
 방법2: 남성, 여성, 중성 주격 단수가 모두 같으면 자음변화, 단 현재분사와 x로 끝나는 명사는 i 모음 변화. 2개나 3개이면 i 모음 변화. 단 형용사의 비교급은 주격이 2가지 종류이나 자음변화.
 
@@ -578,7 +578,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
    * fēlīx, īcis 행복한
    * īnfēlīx, īcis
    * velox, ocis 빠른
-   
+
 .. note:: 사전 표제어가 명사 제3변화와 동일한 형태이다.
 
 
@@ -615,7 +615,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 
 .. csv-table:: praeceps, praecipitis
    :header-rows: 1
-   
+
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "praeceps", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
    :tsig:`gen.`, "praecipit+is", "praecipit+\ :em:`ium`", "praecipit+is", "praecipit+\ :em:`ium`"
@@ -637,7 +637,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 
 .. csv-table:: prīnceps, prīncipis
    :header-rows: 1
-   
+
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "prīncep+s", "prīncip+ēs", "prīncep+s", "prīncip+\ :em:`ia`"
    :tsig:`gen.`, "prīncip+is", "prīncip+\ :em:`ium`", "prīncip+is", "prīncip+\ :em:`ium`"
@@ -660,7 +660,7 @@ senex, senis
 
 .. csv-table:: senex, senis
    :header-rows: 1
-   
+
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "senex", "sen+ēs", "senex", "sen+\ :em:`ia`"
    :tsig:`gen.`, "sen+is", "sen+\ :em:`ium`", "sen+is", "sen+\ :em:`ium`"
@@ -741,7 +741,7 @@ potis
    :columns: 2
 
    * dīves, itis 부유한
-   
+
 .. vetus vetus vetus eris
    pauper pauper pauper eris degener
    dives dives dives itis sospes superstes

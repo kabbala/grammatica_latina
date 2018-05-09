@@ -15,7 +15,7 @@
 
 .. [Gaffiot] Gaffiot, :ref:`Dictionnaire Illustré Latin-Français <Gaffiot, Dictionnaire Illustré Latin-Français>`, 1934.
 
-.. [Kennedy1906] `Kenney, The Revised Latin Primer`_, 1906.
+.. [Kennedy] `Kenney, The Revised Latin Primer`_, 1906.
 
 .. [Lewis] Lewis, :ref:`An Elementary Latin Dictionary <Lewis, An Elementary Latin Dictionary>`, 1890.
 
