@@ -1622,16 +1622,25 @@ s가 탈락하는 경우
 
 -eps, -ipis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^^
+-eps로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
 
-머리를 의미하는 접미사 -ceps가 붙은 단어.(잡는다는 의미의 -ceps는 -epis로 변화)
+잡는다는 의미의 접미사 -ceps(:sig:`m.`)가 붙는 단어(머리라는 의미의 -ceps는 -ipitis로 변화)
+
+.. csv-table:: prīnceps, prīncipis, :tsig:`m.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "prīncep+s", "prīncip+ēs"
+   :tsig:`gen.`, "prīncip+is", "prīncip+\ :em:`um`"
+   :tsig:`dat.`, "prīncip+ī", "prīncip+ibus"
+   :tsig:`acc.`, "prīncip+em", "prīncip+ēs"
+   :tsig:`abl.`, "prīncip+\ :em:`e`", "prīncip+ibus"
+   :tsig:`voc.`, "prīncep+s", "prīncip+ēs"
 
 .. hlist::
    :columns: 2
 
-   * praeceps, praecipitis, :sig:`n.`
-   * prīnceps, prīncipis, :sig:`m.`
-   
-.. note:: -ceps와 같은 어원인 caput(:sig:`n.` 머리)는 caput, capitis로 변화한다.
+   * prīnceps, prīncipis, :sig:`m.` 첫째, 우두머리, 지도자
 
 
 s가 탈락하고 t, d가 나타나는 경우
@@ -1695,32 +1704,6 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
    * servitūs, servitūtis, :sig:`f.` 굴종
    * virtūs, virtūtis, :sig:`f.` 용기
 
--es, -itis, :tsig:`m.`
-^^^^^^^^^^^^^^^^^^^^^^
--es로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
-
-.. hlist::
-   :columns: 2
-
-   * comes, comitis, :sig:`m. f.` 친구
-   * eques, equitis, :sig:`m.` 기병
-   * hospes, hospitis, :sig:`m.` 주인, 손님
-   * mīles, mīlitis, :sig:`m.`
-   * pedes, peditis, :sig:`m.` 보행자, 보병(참고: pēs의 복수형 pēdes)
-
--eps, -ipitis, :tsig:`m.`
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-머리를 의미하는 접미사 -ceps가 붙은 단어.(잡는다는 의미의 -ceps는 -epis로 변화)
-
-.. hlist::
-   :columns: 2
-
-   * praeceps, praecipitis, :sig:`n.`
-   
-.. note:: -ceps와 같은 어원인 caput(:sig:`n.` 머리)는 caput, capitis로 변화한다.
-
-
 -ēs, -etis
 ^^^^^^^^^^
 
@@ -1749,6 +1732,43 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
 .. note:: 현재분사도 이 형태의 어간을 갖는다. 그러나 현재분사는 탈격 단수가 -ī, 소유격 복수가 -ium, 중성 주격 복수가 -ia인 i 모음 변화를 한다. 단 현재분사가 명사처럼 쓰일 때는 탈격 단수에 -e를 쓰기도 한다.
 
+
+-es, -itis, :tsig:`m.`
+^^^^^^^^^^^^^^^^^^^^^^
+-es로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+
+.. hlist::
+   :columns: 2
+
+   * comes, comitis, :sig:`m. f.` 친구
+   * eques, equitis, :sig:`m.` 기병
+   * hospes, hospitis, :sig:`m.` 주인, 손님
+   * mīles, mīlitis, :sig:`m.`
+   * pedes, peditis, :sig:`m.` 보행자, 보병(참고: pēs의 복수형 pēdes)
+
+-eps, -ipitis, :tsig:`m.`
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+머리를 의미하는 접미사 -ceps가 붙은 단어(잡는다는 의미의 -ceps는 -ipis로 변화)
+
+.. csv-table:: praeceps, praecipitis, :tsig:`n.`
+   :header-rows: 1
+
+   "", :tsig:`sg.`, :tsig:`pl.`
+   :tsig:`nom.`, "praeceps", "praecipit+\ :em:`ia`"
+   :tsig:`gen.`, "praecipit+is", "praecipit+\ :em:`um`"
+   :tsig:`dat.`, "praecipit+ī", "praecipit+ibus"
+   :tsig:`acc.`, "praeceps", "praecipit+\ :em:`ia`"
+   :tsig:`abl.`, "praecipit+\ :em:`e`", "praecipit+ibus"
+   :tsig:`voc.`, "praeceps", "praecipit+\ :em:`ia`"
+
+.. hlist::
+   :columns: 2
+
+   * praeceps, praecipitis, :sig:`n.`
+   
+.. note:: -ceps와 같은 어원인 caput(:sig:`n.` 머리)는 caput, capitis로 변화한다.
+
 -s, -dis, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^
 s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 다시 나타나는 경우.
@@ -1757,12 +1777,12 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
    :header-rows: 1
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "ped+s=pēs", "ped+ēs"
+   :tsig:`nom.`, "pēds>pēs", "ped+ēs"
    :tsig:`gen.`, "ped+is", "ped+\ :em:`um`"
    :tsig:`dat.`, "ped+ī", "ped+ibus"
    :tsig:`acc.`, "ped+em", "ped+ēs"
    :tsig:`abl.`, "ped+\ :em:`e`", "ped+ibus"
-   :tsig:`voc.`, "ped+s=pēs", "ped+ēs"
+   :tsig:`voc.`, "pēds>pēs", "ped+ēs"
 
 .. hlist::
    :columns: 2

@@ -609,16 +609,47 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 .. note:: 현재분사가 명사처럼 사용될 때는 탈격 단수 어미로 :en:`-e`\를 사용하기도 한다. 현재분사에서 파생된 명사 일부는 소유격 복수가 -um인 자음변화를 한다.
 
 
--eps, -ipis
-~~~~~~~~~~~
--eps로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+-eps, -ipitis
+~~~~~~~~~~~~~
+머리라는 의미의 접미사 -ceps가 붙은 단어(잡는다는 의미의 -ceps는 -ipis로 변화)
 
-잡는다는 의미의 접미사 -ceps가 붙은 단어.
+.. csv-table:: praeceps, praecipitis
+   :header-rows: 1
+   
+   "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "praeceps", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
+   :tsig:`gen.`, "praecipit+is", "praecipit+\ :em:`ium`", "praecipit+is", "praecipit+\ :em:`ium`"
+   :tsig:`dat.`, "praecipit+ī", "praecipit+ibus", "praecipit+ī", "praecipit+ibus"
+   :tsig:`acc.`, "praecipit+em", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
+   :tsig:`abl.`, "praecipit+\ :em:`ī`", "praecipit+ibus", "praecipit+\ :em:`ī`", "praecipit+ibus"
+   :tsig:`voc.`, "praeceps", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
 
 .. hlist::
    :columns: 2
 
-   * prīnceps, ipis
+   * praeceps, ipitis
+
+-eps, -ipis
+~~~~~~~~~~~
+-eps로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+
+잡는다는 의미의 접미사 -ceps가 붙은 단어(머리라는 의미의 -ceps는 -ipitis로 변화)
+
+.. csv-table:: prīnceps, prīncipis
+   :header-rows: 1
+   
+   "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
+   :tsig:`nom.`, "prīncep+s", "prīncip+ēs", "prīncep+s", "prīncip+\ :em:`ia`"
+   :tsig:`gen.`, "prīncip+is", "prīncip+\ :em:`ium`", "prīncip+is", "prīncip+\ :em:`ium`"
+   :tsig:`dat.`, "prīncip+ī", "prīncip+ibus", "prīncip+ī", "prīncip+ibus"
+   :tsig:`acc.`, "prīncip+em", "prīncip+ēs", "prīncep+s", "prīncip+\ :em:`ia`"
+   :tsig:`abl.`, "prīncip+\ :em:`ī`", "prīncip+ibus", "prīncip+\ :em:`ī`", "prīncip+ibus"
+   :tsig:`voc.`, "prīncep+s", "prīncip+ēs", "prīncep+s", "prīncip+\ :em:`ia`"
+
+.. hlist::
+   :columns: 2
+
+   * prīnceps, ipis 첫째의
 
 예외
 ~~~~
