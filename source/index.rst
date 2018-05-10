@@ -15,12 +15,13 @@
 
    declinatio_nominis
    declinatio_adiectivi
-   coniugatio_verbi
+   coniugatio_verbi/index
+
 
 .. toctree::
    :maxdepth: 2
    :caption: 부록
-   
+
    reference
 
 .. Indices and tables
