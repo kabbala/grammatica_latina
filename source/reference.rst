@@ -135,22 +135,36 @@ Oxford University Press에서 `Oxford Latin Dictionary`_\를 만들려다 포기
 
 .. [#] 여기서 언급된 독일어 사전은 1834년에서 1845년까지 총 4권으로 출판된 Wilhelm Freund의 :title-reference:`Wörterbuch der Lateinischen Sprache nach historisch-genetischen Principien, mit steter Berücksichtigung der Grammatik, Synonymik und Alterthumskunde`\을 말한다.
 
+
 .. _Gaffiot, Dictionnaire Illustré Latin-Français:
 
-Gaffiot, Dictionnaire Illustré Latin-Français
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1934년에 나온 라틴어-프랑스어 대사전으로, 제목처럼 새로운 그림과 인쇄로 큰 인기를 얻었으며, 가장 권위있는 라틴어 사전 중 하나가 되었다. 흔히 le Gaffiot으로 불린다. 현재 1934년판이 인터넷에 공개되어 있다.
 
 2000년에 :title-reference:`Le Grand Gaffiot`\이라는 부제가 붙은 개정판이 발표되었다.
 
 
-문법서
-------
+외국어 문법서
+-------------
 
 Khüner, :title-reference:`Ausführliche Grammatik der lateinischen Sprache`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-하노버 리케움 교수였던 퀴너(Raphael Kühner, 1802~1878)가 쓴 방대한 분량의 문법서로, 현재까지 가장 권위있는 문법서로 알려져있다. 1877년에 1권이, 사후 1878, 1879년에 김나지움 교수였던 아들 루돌프(Rudolf Khüner, 1839~1902)에 의해 2책으로 된 2권이 출간되었다.
+하노버 리케움 교수였던 퀴너(Raphael Kühner, 1802~1878)가 쓴 방대한 분량의 문법서로, 현재까지 가장 권위있는 문법서로 알려져있다. 1877년에 1권이, 사후 1878, 1879년에 김나지움 교수인 아들 루돌프(Rudolf Khüner, 1839~1902)에 의해 2책으로 된 2권이 출간되었다.
 
-1912~14년에 Friedrich Wilhelm Holzweissig(1846~1922)가 편집한 1권과 Carl Stegmann(1852~1929)이 편집한 2권이 출간되었다. 이 둘의 이름도 함께 언급되는 경우가 많다.
+1912~14년에 Friedrich Wilhelm Holzweissig(1846~1922)가 편집한 1권과 스테그만(Carl Stegmann, 1852~1929)이 편집한 2권이 출간되었다. 이 둘의 이름도 함께 언급되는 경우가 많다.
+
+스테그만이 편집한 제2권을 제외한 나머지는 인터넷에 공개되어 있다.
 
 퀴너는 그리스어 책도 썼는데, 1934~35년에 2권으로 출간한 :title-reference:`Ausführliche Grammatik der griechischen Sprache` 등이 있다.
+
+
+:title-reference:`Gildersleeve's Latin Grammar`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+버지니아 대학 교수였던 길더슬리브(Basil Lanneau Gildersleeve, 1831~1924)가 쓴 문법책으로 1867년 :title-reference:`A Latin Grammar`\로 출간되었으며, 1872년 2판이 출간되었다.
+
+1895년 Gonzalez Lodge와 공저로 제3판 개정증보판(Revised and Enlarged)이 :title-reference:`Gildersleeve's Latin Grammar`\라는 이름으로 발표되었으며, 해설을 덧붙여서 현재도 계속 판매되고 있다. 미국에서 가장 권위있는 라틴어 문법서 중 하나이다.
+
+현재 인터넷에 1867, 1872, 1903년판이 공개되어 있다.
+
+길더슬리브는 그리스어 책도 썼다.
