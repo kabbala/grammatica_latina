@@ -78,15 +78,15 @@
 외국어 라틴어 교재
 ------------------
 
-Wheelock's Latin
-~~~~~~~~~~~~~~~~
+:title-reference:`Wheelock's Latin`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1956년 :title-reference:`College Outline Series` 중 하나인  :title-reference:`Latin`\으로 출간한 후 인기를 얻어 이 책 자체가 대표적인 라틴어 교재 시리즈가 되었다.
 
 저자 사망 후 1995년 출판된 5판부터는 조지아 대학의 러플러(Richard A. LaFleur) 교수가 집필하고 있다. 최신판은 2011년 출판된 7판이다.
 
 
-Kenney, The Revised Latin Primer
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kenney, :title-reference:`The Revised Latin Primer`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1878년에 출간된 라틴어 문법책으로, 고등학교 교장으로 고전을 가르치던 케네디(Benjamin Hall Kennedy)가 독창적인 방법으로 라틴어 문법을 정리하였다. [#]_ 이 책에서 제시한 몇몇 분류 방법은 후대에도 영향을 미쳤다.
 
 :title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [#]_
@@ -97,8 +97,8 @@ Kenney, The Revised Latin Primer
 
 .. [#] 알렌(Joseph Henry Allen)이 쓴 :title-reference:`A Latin Primer`\(1870)라는 책도 있다.
 
-Allen & Greenough, A Latin Grammar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Allen & Greenough, :title-reference:`A Latin Grammar`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1872년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [#]_
 
 인터넷에 1903년판이 공개되어있다.
@@ -108,19 +108,19 @@ Allen & Greenough, A Latin Grammar
 외국어 사전
 -----------
 
-Oxford Latin Dictionary
-~~~~~~~~~~~~~~~~~~~~~~~
+:title-reference:`Oxford Latin Dictionary`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1968년에 나온 고전 라틴어 위주의 라틴어-영어 대사전으로, 2012년에 제2판이 나왔다. 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어져 출판되었다. 가장 권위있는 라틴어 사전 중에 하나이다. 1968년판이 인터넷에 공개되어 있다.
 
 
-Cassell's Latin Dictionary
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+:title-reference:`Cassell's Latin Dictionary`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1854년 나온 라틴어-영어, 영어-라틴어 중사전으로, 판을 거듭하면서 현재까지 인기있는 사전이다. 1904년판이 인터넷에 공개되어 있다.
 
 .. _Lewis & Short, A Latin Dictionary:
 
-Lewis & Short, A Latin Dictionary
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lewis & Short, :title-reference:`A Latin Dictionary`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1879년에 나온 라틴어-영어 대사전으로, 편집자인 루이스(Charlton T. Lewis)와 쇼트(Charles Short)의 이름을 따서 ‘루이스 앤 쇼트’(Lewis & Short)로도 불린다. 원제는 :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`\이다. [#]_
 
 라틴어-독일어 사전을 번역한 것을 기반으로 하였으며, 20세기 초까지 큰 인기를 누렸다고 한다. 그러나 이후 개정되지 않았다. 중세 라틴어와 후기 라틴어가 많이 실려있는 것이 특징이라는 위키백과의 설명이 있다.
