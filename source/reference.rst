@@ -142,3 +142,15 @@ Gaffiot, Dictionnaire Illustré Latin-Français
 1934년에 나온 라틴어-프랑스어 대사전으로, 제목처럼 새로운 그림과 인쇄로 큰 인기를 얻었으며, 가장 권위있는 라틴어 사전 중 하나가 되었다. 흔히 le Gaffiot으로 불린다. 현재 1934년판이 인터넷에 공개되어 있다.
 
 2000년에 :title-reference:`Le Grand Gaffiot`\이라는 부제가 붙은 개정판이 발표되었다.
+
+
+문법서
+------
+
+Khüner, :title-reference:`Ausführliche Grammatik der lateinischen Sprache`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+하노버 리케움 교수였던 퀴너(Raphael Kühner, 1802~1878)가 쓴 방대한 분량의 문법서로, 현재까지 가장 권위있는 문법서로 알려져있다. 1877년에 1권이, 사후 1878, 1879년에 김나지움 교수였던 아들 루돌프(Rudolf Khüner, 1839~1902)에 의해 2책으로 된 2권이 출간되었다.
+
+1912~14년에 Friedrich Wilhelm Holzweissig(1846~1922)가 편집한 1권과 Carl Stegmann(1852~1929)이 편집한 2권이 출간되었다. 이 둘의 이름도 함께 언급되는 경우가 많다.
+
+퀴너는 그리스어 책도 썼는데, 1934~35년에 2권으로 출간한 :title-reference:`Ausführliche Grammatik der griechischen Sprache` 등이 있다.
