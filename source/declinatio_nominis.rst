@@ -331,13 +331,15 @@
    * scrība, ae, :sig:`m.` 서기, 필경사
    * incola, ae, :sig:`m. f.` 주민 (incolō+a)
 
-경작자(耕作者)를 나타내는 접미사 -cola가 붙은 경우. [#]_
+경작자(耕作者)를 나타내는 접미사 -cola가 붙은 경우. [*]_
 
 .. hlist::
    :columns: 2
 
    * agricola, ae, :sig:`m.` 농부
    * plēbicola, ae, :sig:`m. f.` 포퓰리스트
+
+.. [*] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수 있다.
 
 남성 행위자를 나타내는 접미사 -tḗs를 가진 그리스어에서 유래한 경우
 
@@ -358,9 +360,6 @@
    * Dolābella, Dolābellae, :sig:`m. sg.`
    * Mūrēna, Mūrēnae, :sig:`m. sg.`
    * Scaevola, Scaevolae, :sig:`m.`
-
-.. [#] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수 있다.
-
 
 예외
 ~~~~

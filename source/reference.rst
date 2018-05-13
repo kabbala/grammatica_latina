@@ -87,23 +87,23 @@
 
 Kenney, :title-reference:`The Revised Latin Primer`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1878년에 출간된 라틴어 문법책으로, 고등학교 교장으로 고전을 가르치던 케네디(Benjamin Hall Kennedy)가 독창적인 방법으로 라틴어 문법을 정리하였다. [#]_ 이 책에서 제시한 몇몇 분류 방법은 후대에도 영향을 미쳤다.
+1878년에 출간된 라틴어 문법책으로, 고등학교 교장으로 고전을 가르치던 케네디(Benjamin Hall Kennedy)가 독창적인 방법으로 라틴어 문법을 정리하였다. [*]_ 이 책에서 제시한 몇몇 분류 방법은 후대에도 영향을 미쳤다.
 
-:title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [#]_
+:title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [*]_
 
 1930년에 개정판이 나왔으며, 지금까지도 책이 팔리고 있다. 1906년판이 인터넷에 공개되어 있다.
 
-.. [#] 사후에 라틴어 학자인 둘째 딸 마리온(Marion)이 본인과 동생, 몇몇 학생이 이 책을 썼다고 증언했다.
+.. [*] 사후에 라틴어 학자인 둘째 딸 마리온(Marion)이 본인과 동생, 몇몇 학생이 이 책을 썼다고 증언했다.
 
-.. [#] 알렌(Joseph Henry Allen)이 쓴 :title-reference:`A Latin Primer`\(1870)라는 책도 있다.
+.. [*] 알렌(Joseph Henry Allen)이 쓴 :title-reference:`A Latin Primer`\(1870)라는 책도 있다.
 
 Allen & Greenough, :title-reference:`A Latin Grammar`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1872년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [#]_
+1872년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [*]_
 
 인터넷에 1903년판이 공개되어있다.
 
-.. [#] 알렌은 목사로 더 많은 활동을 한 것으로 알려져 있다. 하버드 대학의 설립 목적이 목사 양성이기도 했다.
+.. [*] 알렌은 목사로 더 많은 활동을 한 것으로 알려져 있다. 하버드 대학의 설립 목적이 목사 양성이기도 했다.
 
 외국어 사전
 -----------
@@ -121,7 +121,7 @@ Allen & Greenough, :title-reference:`A Latin Grammar`
 
 Lewis & Short, :title-reference:`A Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1879년에 나온 라틴어-영어 대사전으로, 편집자인 루이스(Charlton T. Lewis)와 쇼트(Charles Short)의 이름을 따서 ‘루이스 앤 쇼트’(Lewis & Short)로도 불린다. 원제는 :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`\이다. [#]_
+1879년에 나온 라틴어-영어 대사전으로, 편집자인 루이스(Charlton T. Lewis)와 쇼트(Charles Short)의 이름을 따서 ‘루이스 앤 쇼트’(Lewis & Short)로도 불린다. 원제는 :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`\이다. [*]_
 
 라틴어-독일어 사전을 번역한 것을 기반으로 하였으며, 20세기 초까지 큰 인기를 누렸다고 한다. 그러나 이후 개정되지 않았다. 중세 라틴어와 후기 라틴어가 많이 실려있는 것이 특징이라는 위키백과의 설명이 있다.
 
@@ -133,7 +133,7 @@ Oxford University Press에서 `Oxford Latin Dictionary`_\를 만들려다 포기
 
 편집자인 루이스는 이후 독자적으로 :title-reference:`An Elementary Latin Dictionary`\(1890)를 출판하기도 한다.
 
-.. [#] 여기서 언급된 독일어 사전은 1834년에서 1845년까지 총 4권으로 출판된 Wilhelm Freund의 :title-reference:`Wörterbuch der Lateinischen Sprache nach historisch-genetischen Principien, mit steter Berücksichtigung der Grammatik, Synonymik und Alterthumskunde`\을 말한다.
+.. [*] 여기서 언급된 독일어 사전은 1834년에서 1845년까지 총 4권으로 출판된 Wilhelm Freund의 :title-reference:`Wörterbuch der Lateinischen Sprache nach historisch-genetischen Principien, mit steter Berücksichtigung der Grammatik, Synonymik und Alterthumskunde`\을 말한다.
 
 
 .. _Gaffiot, Dictionnaire Illustré Latin-Français:
