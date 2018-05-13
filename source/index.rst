@@ -22,6 +22,7 @@
    :maxdepth: 2
    :caption: 부록
 
+   abbreviatio
    reference
 
 .. Indices and tables
