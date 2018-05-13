@@ -145,6 +145,9 @@ Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`
 
 2000년에 :title-reference:`Le Grand Gaffiot`\이라는 부제가 붙은 개정판이 발표되었다.
 
+:title-reference:`Thesaurus Linguae Latinae`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+서기 600년 이전의 라틴어 자료를 모두 수집하는 프로젝트로 1894년에 시작되어 국제적으로 진행되고 있다.
 
 외국어 문법서
 -------------
