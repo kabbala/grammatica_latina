@@ -24,6 +24,7 @@
 
    abbreviatio
    reference
+   viva
 
 .. Indices and tables
 .. ==================

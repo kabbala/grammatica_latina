@@ -1430,6 +1430,7 @@ carō, carnis, :tsig:`f.`
 
 sanguis, sanguinis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sanguis(:sig:`m.` 피)는 sanguen이라는 고형이 있으므로, e가 i로 바뀌어 -inis가 된 것으로 생각할 수 있다.
 
 e가 탈락하는 경우
 ~~~~~~~~~~~~~~~~~
