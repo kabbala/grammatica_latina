@@ -3,12 +3,26 @@
 
 접속법은 현재형, 현재 완료형, 과거형(미완료형), 과거 완료형 4가지가 있다.
 
-.. note:: 미래형이 없는 것은 의미상 미래의 의미를 가지고 있으며, 형태도 비슷하기 때문인 것으로 추측한다.
+.. csv-table::
+   :header-rows: 1
 
+   "시제", "형태"
+   "현재", "미완료형 어간+ā(ē)+능동태 어미"
+   "과거", "미완료형 어간+rē+능동태 어미"
+   "현재 완료", "완료형 어간+erī+능동태 어미"
+   "과거 완료", "완료형 어간+issē+능동태 어미"
+
+.. note::
+
+   미래형이 없는 것은 의미상 미래의 의미를 가지고 있으며, 형태도 비슷하기 때문인 것으로 추측한다.
+
+   특히 접속법 현재는 1인칭 단수가 직설법 미래 1인칭 단수와 동일하며, 접속법 현재 완료는 1인칭 단수를 제외한 나머지가 직설법 미래 완료와 동일하다.
+
+.. todo:: 단음과 장음으로 바뀌는 이유 설명할 것
 
 접속법 현재
 -----------
-미완료형 어간에 -e- 또는 -a-를 붙여서 만든다.
+미완료형 어간에 -a-(또는 -e-)를 붙여서 만든다.
 
 .. csv-table::
    :header-rows: 1
@@ -21,7 +35,7 @@
    ":tsig:`2p`", "am+\ :em:`ē`\+tis", "tene+\ :em:`ā`\+tis", "dūc+\ :em:`ā`\+tis", "capi+\ :em:`ā`\+tis", "audi+\ :em:`ā`\+tis"
    ":tsig:`3p`", "am+\ :em:`e`\+nt", "tene+\ :em:`a`\+nt", "dūc+\ :em:`a`\+nt", "capi+\ :em:`a`\+nt", "audi+\ :em:`a`\+nt"
 
-제1변화 동사의 어간모음 ā는 ē로 바뀐다.
+제1변화 동사에서는 어간모음 ā를 탈락시키고 ē를 사용한다.
 
 제3변화, 제4변화 동사의 1인칭 단수형은 직설법 미래형과 동일하며, 나머지는 -e-와 -a-의 차이가 있다.
 
@@ -49,6 +63,29 @@
    ":tsig:`1p`", "tenēbāmus", "teneāmus"
    ":tsig:`2p`", "tenēbātis", "teneātis"
    ":tsig:`3p`", "tenēbant", "teneant"
+
+접속법 과거
+-----------
+미완료형 어간에 -re-를 붙여서 만든다.
+
+.. csv-table::
+   :header-rows: 1
+
+   "", "I", "II", "III-o", "III-io", "IV"
+   ":tsig:`1s`", "amā+\ :em:`re`\+m", "tenē+\ :em:`re`\+m", "dūce+\ :em:`re`\+m", "cape+\ :em:`re`\+m", "audī+\ :em:`re`\+m"
+   ":tsig:`2s`", "amā+\ :em:`rē`\+s", "tenē+\ :em:`rē`\+s", "dūce+\ :em:`rē`\+s", "cape+\ :em:`rē`\+s", "audī+\ :em:`re`\+s"
+   ":tsig:`3s`", "amā+\ :em:`re`\+t", "tenē+\ :em:`re`\+t", "dūce+\ :em:`re`\+t", "cape+\ :em:`re`\+t", "audī+\ :em:`re`\+t"
+   ":tsig:`1p`", "amā+\ :em:`rē`\+mus", "tenē+\ :em:`rē`\+mus", "dūce+\ :em:`rē`\+mus", "cape+\ :em:`rē`\+mus", "audī+\ :em:`rē`\+mus"
+   ":tsig:`2p`", "amā+\ :em:`rē`\+tis", "tenē+\ :em:`rē`\+tis", "dūce+\ :em:`rē`\+tis", "cape+\ :em:`rē`\+tis", "audī+\ :em:`rē`\+tis"
+   ":tsig:`3p`", "amā+\ :em:`re`\+nt", "tenē+\ :em:`re`\+nt", "dūce+\ :em:`re`\+nt", "cape+\ :em:`re`\+nt", "audī+\ :em:`re`\+nt"
+
+현재 부정사에 능동태 어미를 붙인 것과 형태가 같다.
+
+.. csv-table::
+   :header-rows: 1
+
+   "I", "II", "III-o", "III-io", "IV"
+   "amāre", "tenēre", "dūcere", "capere", "audīre"
 
 접속법 현재 완료
 ----------------
@@ -80,29 +117,6 @@
    ":tsig:`3p`", "amāverint", "amāverint"
 
 형태만으로는 구별이 어려운데, 직설법 미래는 2인칭 단수, 1인칭 복수, 2인칭 복수에 장음이 있다는 차이가 있다.
-
-접속법 과거
------------
-미완료형 어간에 -re-를 붙여서 만든다.
-
-.. csv-table::
-   :header-rows: 1
-
-   "", "I", "II", "III-o", "III-io", "IV"
-   ":tsig:`1s`", "amā+\ :em:`re`\+m", "tenē+\ :em:`re`\+m", "dūce+\ :em:`re`\+m", "cape+\ :em:`re`\+m", "audī+\ :em:`re`\+m"
-   ":tsig:`2s`", "amā+\ :em:`rē`\+s", "tenē+\ :em:`rē`\+s", "dūce+\ :em:`rē`\+s", "cape+\ :em:`rē`\+s", "audī+\ :em:`re`\+s"
-   ":tsig:`3s`", "amā+\ :em:`re`\+t", "tenē+\ :em:`re`\+t", "dūce+\ :em:`re`\+t", "cape+\ :em:`re`\+t", "audī+\ :em:`re`\+t"
-   ":tsig:`1p`", "amā+\ :em:`rē`\+mus", "tenē+\ :em:`rē`\+mus", "dūce+\ :em:`rē`\+mus", "cape+\ :em:`rē`\+mus", "audī+\ :em:`rē`\+mus"
-   ":tsig:`2p`", "amā+\ :em:`rē`\+tis", "tenē+\ :em:`rē`\+tis", "dūce+\ :em:`rē`\+tis", "cape+\ :em:`rē`\+tis", "audī+\ :em:`rē`\+tis"
-   ":tsig:`3p`", "amā+\ :em:`re`\+nt", "tenē+\ :em:`re`\+nt", "dūce+\ :em:`re`\+nt", "cape+\ :em:`re`\+nt", "audī+\ :em:`re`\+nt"
-
-현재 부정사에 능동태 어미를 붙인 것과 형태가 같다.
-
-.. csv-table::
-   :header-rows: 1
-
-   "I", "II", "III-o", "III-io", "IV"
-   "amāre", "tenēre", "dūcere", "capere", "audīre"
 
 접속법 과거 완료
 ----------------
