@@ -197,6 +197,13 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
    * multus, a, um 많은
    * parvus, a, um 작은
 
+접미사 -īnus가 붙은 경우
+
+.. hlist::
+   :columns: 2
+
+   * canīnus, a, um 개의
+
 .. [#]  -us로 끝나는 형용사는 규칙변화하는 제1·2변화 형용사이므로 남성 주격만 제시한 경우.
 
 형용사의 최상급(-simus, -sima, -simum)
