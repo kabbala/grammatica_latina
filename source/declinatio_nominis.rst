@@ -151,15 +151,11 @@
 
 소유격 단수 어미 -ae를 사전 표제어로 사용한다.
 
-   | puella, puellae
-   | puella, ae
-   | puella, -ae
+   | puella, ae (puella, puellae)
 
 복수형만 있는 명사는 소유격 복수 어미 -ārum을 사전 표제어로 사용한다.
 
-   | dīvitiae, dīvitiārum
-   | dīvitiae, ārum
-   | dīvitiae, -ārum
+   | dīvitiae, ārum (dīvitiae, dīvitiārum)
 
 소유격 복수 어미는 2음절이고, 끝에서 두번째 음절이 장음이므로, 소유격 복수형은 강세가 언제나 어미 -ā-에 온다.
 
@@ -186,6 +182,14 @@
    :tsig:`voc.`, "puella", "puell+ae"
 
 복수 여격과 탈격에서는 어간모음 a가 사용되지 않는다.
+
+사전 표제어는 아래와 같은 형태로 쓰여진다.
+
+   | puella, ~ae, :sig:`f.` [Oxford]_
+   | puella, -ae :sig:`f.` [CLDG2]_
+   | pŭella, ae, :sig:`f.` [*]_ [LnS]_
+
+.. [*] u에만 단음 표시가 되어있지만, e와 a 역시 단음이다. 일부 사전에서는 자명한 발음에 대해서는 모음의 장단 표시를 하지 않기도 한다.
 
 .. hlist::
    :columns: 2
@@ -297,7 +301,7 @@
 
    * bēstia, bēstiae, :sig:`f.` 짐승
    * colōnia, colōniae, :sig:`f.` 식민지
-   * fīlia, fīliae, :sig:`f.` 딸 (복수 여격과 탈격에 `fīliābus`_\를 사용하기도 한다)
+   * fīlia, fīliae, :sig:`f.` 딸 (후기 라틴어 이후에 복수 여격과 탈격에 `fīliabus`_\를 사용하기도 한다)
    * patria, patriae, :sig:`f.` 조국
    * pecūnia, pecūniae, :sig:`f.` 돈
    * prōvincia, prōvinciae, :sig:`f.` 속주
@@ -327,8 +331,8 @@
 .. hlist::
    :columns: 2
 
-   * advena, ae, :sig:`m.` 이방인
-   * scrība, ae, :sig:`m.` 서기, 필경사
+   * advena, ae, :sig:`m.` 이방인 (adveniō+a)
+   * scrība, ae, :sig:`m.` 서기, 필경사 (scrībō+a)
    * incola, ae, :sig:`m. f.` 주민 (incolō+a)
 
 경작자(耕作者)를 나타내는 접미사 -cola가 붙은 경우. [*]_
@@ -336,8 +340,8 @@
 .. hlist::
    :columns: 2
 
-   * agricola, ae, :sig:`m.` 농부
-   * plēbicola, ae, :sig:`m. f.` 포퓰리스트
+   * agricola, ae, :sig:`m.` 농부 (ager+cola)
+   * plēbicola, ae, :sig:`m. f.` 포퓰리스트 (plēbs+cola)
 
 .. [*] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수 있다.
 
@@ -346,10 +350,10 @@
 .. hlist::
    :columns: 2
 
-   * āthlēta, ae, :sig:`m.` 운동선수 < 그리스어 athlētḗs
-   * nauta, ae, :sig:`m.` 선원 < 그리스어 naútēs
-   * pīrāta, ae, :sig:`m.` 해적 < 그리스어 peirātḗs
-   * poēta, ae, :sig:`m.` 시인 < 그리스어 poiētḗs
+   * āthlēta, ae, :sig:`m.` 운동선수 (그리스어 athlētḗs)
+   * nauta, ae, :sig:`m.` 선원 (그리스어 naútēs)
+   * pīrāta, ae, :sig:`m.` 해적 (그리스어 peirātḗs)
+   * poēta, ae, :sig:`m.` 시인 (그리스어 poiētḗs)
 
 인명
 
@@ -376,10 +380,12 @@
    | filius familias
    | filia familias
 
-여격과 탈격 deābus
-^^^^^^^^^^^^^^^^^^
+.. _deabus:
 
-dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
+복수 여격과 탈격 deābus
+^^^^^^^^^^^^^^^^^^^^^^^
+
+dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -ābus로 끝난다.
 
 .. csv-table:: dea, ae, :tsig:`f.`
    :header-rows: 1
@@ -392,14 +398,22 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -bus로 끝난다.
    :tsig:`abl.`, "de+ā", "de+\ :em:`ābus`"
    :tsig:`voc.`, "dea", "de+ae"
 
-종교 행위에서 deis et deis라는 중복을 피하고 deis et deabus라고 부르기 위해 이런 표현을 사용한 것으로 추정한다.
+종교 행위에서 deis et deis라는 중복을 피하고 deis et deabus라고 부르기 위해 이런 표현을 사용한 것으로 추정한다. 그러나 여성형에 deis라는 형태는 아예 사용되지 않는다.
 
-.. _fīliābus:
+이 영향으로 후기 라틴어 이후, 중세 라틴어 등에서 여성 신의 이름의 복수 여격이나 탈격에 -ābus를 사용하는 경우가 있다.
 
-여격과 탈격 fīliābus
-^^^^^^^^^^^^^^^^^^^^
+   | Nymphabus
+   | Parcabus
 
-filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -ābus도 있다.
+ambabus
+^^^^^^^
+
+.. _fīliabus:
+
+복수 여격과 탈격 -ābus
+^^^^^^^^^^^^^^^^^^^^^^
+
+후기 라틴어 이후, 중세 라틴어 등에서 제1변화 명사의 복수 여격과 탈격에 -īs 대신 -ābus를 쓰기도 한다.
 
 .. csv-table:: fīlia, ae, :tsig:`f.`
    :header-rows: 1
@@ -412,16 +426,18 @@ filia(:sig:`f.` 딸)는 복수 여격과 탈격에 규칙변화 -īs 외에 -āb
    :tsig:`abl.`, "fīli+ā", "fīli+īs, fīli+\ **ābus**"
    :tsig:`voc.`, "fīlia", "fīli+ae"
 
-이런 형태를 사용하게 된 것은 deis et deabus와 마찬가지로, filiis et filiis라는 중복되는 표현을 피해 filiis et filiabus라는 표현을 사용하기 위해서인 것으로 추정한다.
+이런 형태를 사용하게 된 것은 `deabus`_\의 경우와 마찬가지로, filiis et filiis 같은 중복을 피해 filiis et filiabus라는 표현을 사용한 것으로 추정한다. 물론 filiis는 남여 모두를 총칭하는 경우로도 사용된다.
 
-물론 filiis를 남여 모두를 총칭하는 경우로도 사용한다.
+   | animis et animabus (=animis)
+   | famulis et famulabus (=famulis)
+   | filiis et filiis (=filiis)
+   | libertis et libertabus (=libertis)
 
-.. note:: 중세 라틴어에서 같은 이유로 여성 명사 복수 여격과 탈격의 어미를 -abus로 바꿔 표현하는 경우가 있다.
+남성형과 형태가 다른 경우에도 사용하기도 한다.
 
-   | animis et animabus
-   | famulis et famulabus
-   | libertis et libertabus
+   | pueris puellabusque (=pueris)
 
+그 이전부터 사용한 deabus나 ambabus는 다른 형태를 가지고 있지 않다.
 
 그리스어
 ~~~~~~~~
@@ -876,7 +892,6 @@ puer, puerī, :sig:`m.`
 
 사전 표제어는 다음과 같다.
 
-  | puer, puerī
   | pŭĕr, ĕri, m. [Gaffiot]_
   | puĕr, ĕri, m. [LnS]_
   | puer, ~erī, m. [Oxford]_
@@ -1245,7 +1260,7 @@ os, ossis, :sig:`n.` 뼈
 
 예) accipiter, accipitris, :sig:`m.` 매
 
-fater, fatris, :sig:`m.` 형제
+frāter, frātris, :sig:`m.` 형제
 
 mater, matris, :sig:`f.` 어머니
 
@@ -1452,7 +1467,6 @@ e가 탈락하는 경우
 
 사전 표제어는 다음 형태로 쓴다.
 
-   | pater, patris
    | pater, ~tris, m. [Oxford]_
    | pătĕr, tris, m. [LnS]_
    | păter, tris, m. [Gaffiot]_
@@ -1473,7 +1487,7 @@ e가 탈락하는 경우
 
    어간의 -e-가 사라져 음절 수가 줄기 때문에, 이 변화는 제3변화 명사의 주격 단수와 소유격 단수의 음절 수가 같으면(parisyllabica) 소유격 복수가 -ium이라는 일반 원칙의 명확한 예외이다.
 
-   그러나 어간이 동일하게 변화하는 i 모음 변화하는 제3변화 명사도 있고, 제2변화 명사도 있으므로, 단어의 수가 적은 이 명사들, 그 중에서도 비교적 쉬운 단어인 pater, mater를 먼저 암기하는 것으로 설명하는 경우가 많다.
+   그러나 어간이 동일하게 변화하는 i 모음 변화하는 제3변화 명사도 있고, 제2변화 명사도 있으므로, 단어의 수가 적은 이 명사들, 그 중에서도 비교적 쉬운 단어인 pater, mater 등을 먼저 암기하는 것으로 설명하는 경우가 많다.
 
 -e, -is, :tsig:`n.`
 ^^^^^^^^^^^^^^^^^^^
@@ -1773,7 +1787,7 @@ s가 탈락하는 경우
    * plēbs, plēbis, :sig:`f.` (중세 라틴어, 고전 라틴어에서는 i 변화)
    * trabs, trabis, :sig:`f.` 대들보
 
-.. note:: 단음 e를 쓰는 -ebs로 끝나는 명사가 있다면 -ibis 형태로 변화할 것이나, 사전에 그런 명사는 없다. 단, 제3변화 형용사 중에 caelebs, ibis가 있다.
+.. note:: 단음 e를 쓰는 -ebs로 끝나는 명사가 있다면 -ibis 형태로 변화할 것이나, 사전에 그런 명사는 없다. 단, 제3변화 형용사 중에 caelebs, caelibis가 있다.
 
 -(p)s, -(p)is, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2105,7 +2119,7 @@ corpus(:sig:`n.` 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경�
 
 -or, -ōris, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
--or로 끝나는 주격이 바뀌지 않고 그대로 어간으로 사용되는 경우.
+-or로 끝나는 주격이 바뀌지 않고 그대로 어간으로 사용되는 경우. 어간의 마지막 모음 단음 o가 장음 ō로 바뀌는 것이 특징이다. [*]_
 
 .. csv-table::
    :header-rows: 1
@@ -2118,9 +2132,7 @@ corpus(:sig:`n.` 몸, 물질)처럼 어간이 -or로 바뀌어 변화하는 경�
    :tsig:`abl.`, "amōr+e", "amōr+ibus"
    :tsig:`voc.`, "amor", "amōr+ēs"
 
-어간의 마지막 모음 단음 o가 장음 ō로 바뀌는 것이 특징이다.
-
-o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있다.
+.. [*] o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있다.
 
 .. hlist::
    :columns: 2
@@ -2140,7 +2152,7 @@ o가 장음이 되지 않는 유일한 예외로 `arbor, arboris, f.`_\가 있�
 
    * amor, amōris, :sig:`m.` 사랑
    * clamor, clamōris, :sig:`m.` 외침
-   * timor, timoris, :sig:`m.` 두려움
+   * timor, timōris, :sig:`m.` 두려움
 
 행위자를 나타내는 접미사 -tor(:sig:`m.`) 또는 -sor(:sig:`m.`)가 붙은 단어
 

@@ -173,8 +173,7 @@ esse, velle, īre, fierī, ferre 같은 불규칙적인 형태도 있다.
     | tĭmĕo, ŭi, ēre, tr. [Gaffiot]_
     | tĭmĕo, ŭi, 2, v. a. [LnS]_
     | tĭmĕo, ŭi, 2. [Cassell]_
-    |
-    | āiō, āiēre, —, —
+
     | āiō, intr., tr. defec. [Oxford]_
     | āio, defective verb. [Cassell]_
     | āio, ăĭs, [*]_ verbe défectif [Gaffiot]_

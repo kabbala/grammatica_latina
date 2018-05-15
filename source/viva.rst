@@ -7,8 +7,8 @@
 .. hlist::
    :columns: 2
 
-   * 모두스 비벤디(Modus Vivendi) 신원에벤에셀 1994(?)
-   * 에쿠스(Equus) 현대에서 1994~2015년까지 생산한 자동차. equus(:sig:`m.`, 말)
+   * 모두스 비벤디(Modus Vivendi) 1991년 신원에벤에셀에서 런칭한 남성복 브랜드. 2007년 우진패션비즈가 인수.
+   * 에쿠스(Equus) 현대에서 1994~2015년 생산한 자동차. equus(:sig:`m.`, 말)
 
 학술 용어
 ---------
@@ -24,8 +24,9 @@
 .. hlist::
    :columns: 2
 
-   * in vitro
-   * in vivo
+   * dē novō 신규의
+   * in vitrō 생체외
+   * in vīvō 생체내
 
 의학 용어
 ---------
@@ -34,12 +35,11 @@
    :columns: 2
 
    * aq. aqua
-   * BID b.i.d. bis in die
+   * intestīnum duodēnum digitōrum 십이지장.
+   * hēpatītis, idis, :sig:`m.` 간염. 영어 복수형 중에 hepatitides가 있음.
    * p.o. per os
    * QD quaque die
-   * QID quarter in die
    * SQ subcutāneus
-   * TID ter in die
 
 학명
 ----
