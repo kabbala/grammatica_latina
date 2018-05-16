@@ -10,17 +10,11 @@
 
 .. toctree::
    :maxdepth: 2
-
-   remark/index
-
-.. toctree::
-   :maxdepth: 2
    :caption: 변화
 
    declinatio_nominis
    declinatio_adiectivi
    coniugatio_verbi/index
-
 
 .. toctree::
    :maxdepth: 2
@@ -28,6 +22,11 @@
 
    liber
    viva
+
+.. toctree::
+   :maxdepth: 2
+
+   remark/index
 
 .. Indices and tables
 .. ==================
