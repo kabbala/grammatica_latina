@@ -14,12 +14,9 @@
 
 .. note::
 
-   한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 `어간모음`_\에 의해 어간도 변한다고 본다. [#]_
+   한국어에서는 어간은 변하지 않는 부분이라고 생각하는 반면, 인도유럽어에서는 `어간모음`_\에 의해 어간도 변한다고 본다. [趙義成, `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고]
 
    라틴어에도 복수의 어간을 가진 경우가 많다. 명사는 어간이 2가지인 경우가 많으므로 명사의 :ref:`사전 표제어 <명사의 사전 표제어>`\도 2개이다.
-
-   .. [#] 재일교포 趙義成 교수 홈페이지의 `「현대 한국어 용언 어간의 조정(措定)에 대하여」 <http://www.tufs.ac.jp/ts/personal/choes/korean/base/goki.html#2.2>`_ 참고.
-
 
 어간모음
 ~~~~~~~~
@@ -433,11 +430,26 @@ ambabus
    | filiis et filiis (=filiis)
    | libertis et libertabus (=libertis)
 
+.. note:: 그 이전부터 사용한 deabus나 ambabus는 -ās 형태를 가지고 있지 않다.
+
 남성형과 형태가 다른 경우에도 사용하기도 한다.
 
-   | pueris puellabusque (=pueris)
+   | pueris puellabusque [*]_ (=pueris)
 
-그 이전부터 사용한 deabus나 ambabus는 다른 형태를 가지고 있지 않다.
+.. [*] puellis로 변화하는 puellus라는 남성형이 있기는 하다.
+
+남여 짝이 없는 명사도 -ābus가 붙어서 사용되기도 한다.
+
+   | oleas/oleabus
+   | portas/portabus
+
+여성 복수형을 수식하는 형용사에 -ābus가 붙어서 사용되기도 한다.
+
+   | manibus dextras/dextrabus [*]_
+
+.. [*] dexter는 dexteras 형태로도 변화하는데, dexterabus는 사용되지 않는다.
+
+.. note:: dextrabus가 이렇게 변화하는 것은 ambabus, duabus와 같은 쌍수(雙數)의 영향으로 추측하기도 한다. [Ivy Livingston, :title-reference:`A Linguistic Commentary on Livius Andronicus`, 2004.]
 
 그리스어
 ~~~~~~~~
@@ -1721,9 +1733,9 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 -eps, -ipitis, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-머리[*]_\를 의미하는 접미사 -ceps가 붙은 단어(잡는다는 의미의 -ceps는 :ref:`-ipis <-eps, -ipis>`\로 변화)
+머리\ [*]_\를 의미하는 접미사 -ceps가 붙은 단어(잡는다는 의미의 -ceps는 :ref:`-ipis <-eps, -ipis>`\로 변화)
 
-.. [#] caput(:sig:`n.` 머리)도 :ref:`capitis <caput, capitis>`\로 변화한다.
+.. [*] caput(:sig:`n.` 머리)도 :ref:`capitis <caput, capitis>`\로 변화한다.
 
 .. csv-table:: praeceps, praecipitis, :tsig:`n.`
    :header-rows: 1

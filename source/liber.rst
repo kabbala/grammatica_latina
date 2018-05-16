@@ -1,28 +1,5 @@
-참고문헌
-========
-
-.. [성염] 성염, :ref:`『古典 라틴어』 <성염의 고전 라틴어>`\(서울: 바오로딸), 1994.
-
-.. [한동일] 한동일, `『카르페 라틴어』`_\(서울: 문예림), 수정 증보판, 2012.
-
-.. [Andrews] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849.
-
-.. [AnG] Allen & Greenough, :title-reference:`A Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903.
-
-.. [Cassell] `Cassell's Latin Dictionary`_, 1904.
-
-.. [CLDG2] :title-reference:`Collins Latin Dictionary & Grammar`, 2nd ed., 2016.
-
-.. [Gaffiot] Gaffiot, :ref:`Dictionnaire Illustré Latin-Français <Gaffiot, Dictionnaire Illustré Latin-Français>`, 1934.
-
-.. [Kennedy] `Kenney, The Revised Latin Primer`_, 1906.
-
-.. [Lewis] Lewis, :ref:`An Elementary Latin Dictionary <Lewis, An Elementary Latin Dictionary>`, 1890.
-
-.. [LnS] Lewis & Short, :ref:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews <Lewis & Short, A Latin Dictionary>`, 1879.
-
-.. [Oxford] `Oxford Latin Dictionary`_, 1968.
-
+라틴어 학습서
+=============
 
 한국어 라틴어 교재
 ------------------
@@ -85,9 +62,10 @@
 
 저자 사망 후 1995년 출판된 5판부터는 조지아 대학의 러플러(Richard A. LaFleur) 교수가 집필하고 있다. 최신판은 2011년 출판된 7판이다.
 
+.. _Kennedy, The Revised Latin Primer:
 
-Kenney, :title-reference:`The Revised Latin Primer`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kennedy, :title-reference:`The Revised Latin Primer`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1878년에 출간된 라틴어 문법책으로, 고등학교 교장으로 고전을 가르치던 케네디(Benjamin Hall Kennedy)가 독창적인 방법으로 라틴어 문법을 정리하였다. [*]_ 이 책에서 제시한 몇몇 분류 방법은 후대에도 영향을 미쳤다.
 
 :title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [*]_
@@ -109,10 +87,13 @@ Allen & Greenough, :title-reference:`A Latin Grammar`
 외국어 사전
 -----------
 
+.. _Oxford Latin Dictionary:
+
 :title-reference:`Oxford Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1968년에 나온 고전 라틴어 위주의 라틴어-영어 대사전으로, 2012년에 제2판이 나왔다. 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어져 출판되었다. 가장 권위있는 라틴어 사전 중에 하나이다. 1968년판이 인터넷에 공개되어 있다.
 
+.. _Cassell's Latin Dictionary:
 
 :title-reference:`Cassell's Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
