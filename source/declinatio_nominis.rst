@@ -88,7 +88,7 @@
 
 6격 이외에 처격과 도구격은 없는 경우가 많아서 난외에 적거나 가지고 있는 경우에만 행을 추가하여 표기한다.
 
-처격을 가지고 있는 명사의 수는 적지만, 지명에 처격을 사용하는 경우가 많기 때문에 처격 역시 알아야 한다.
+처격을 가지고 있는 명사의 수는 적지만, 지명에 처격을 사용하는 경우가 있기 때문에 처격 역시 알아야 한다.
 
 모든 명사가 12개의 격변화를 모두 가지고 있는 것은 아니다. 그러나 그런 경우에도 변화의 규칙에 준하여 빈칸을 채워넣기도 한다.
 
@@ -230,6 +230,8 @@
 
 고유명사의 경우도 -a로 끝나는 여성형의 경우 제1변화를 한다.
 
+지명
+
 .. csv-table:: Rōma, ae, :sig:`f. sg.`
    :header-rows: 1
 
@@ -340,7 +342,7 @@
    * agricola, ae, :sig:`m.` 농부 (ager+cola)
    * plēbicola, ae, :sig:`m. f.` 포퓰리스트 (plēbs+cola)
 
-.. [*] -cola는 colō+a이므로 -a가 붙은 경우에 포함시킬 수 있다.
+.. [*] -cola는 colō+a이므로 접미사 -a가 붙은 경우로 분류할 수도 있다.
 
 남성 행위자를 나타내는 접미사 -tḗs를 가진 그리스어에서 유래한 경우
 
@@ -372,10 +374,10 @@
 
 보통 pater, mater, filius, filia를 뒤에서 수식한다. paterfamilias(가장), materfamilias 처럼 붙여 쓰기도 한다. 복수형 역시 patres familias로 쓴다.
 
-   | pater familias
-   | mater familias
-   | filius familias
-   | filia familias
+   | pater familias, patres familias
+   | mater familias, matres familias
+   | filius familias, filii familias
+   | filia familias, filiae familias
 
 .. _deabus:
 
@@ -399,8 +401,8 @@ dea(:sig:`f.` 여신)는 복수 여격과 탈격이 -ābus로 끝난다.
 
 이 영향으로 후기 라틴어 이후, 중세 라틴어 등에서 여성 신의 이름의 복수 여격이나 탈격에 -ābus를 사용하는 경우가 있다.
 
-   | Nymphabus
-   | Parcabus
+   | nymphabus (= nymphis)
+   | Parcabus (= Parcis)
 
 ambabus
 ^^^^^^^
@@ -443,16 +445,9 @@ ambabus
    | oleas/oleabus
    | portas/portabus
 
-여성 복수형을 수식하는 형용사에 -ābus가 붙어서 사용되기도 한다.
+여성 복수형을 수식하는 형용사에 -ābus가 붙어서 사용되기도 한다. 자세한 내용은 형용사 항목에서 다룬다.
 
-   | manibus dextras/dextrabus [*]_
-
-.. [*] dexter는 dexteras 형태로도 변화하는데, dexterabus는 사용되지 않는다.
-
-.. note:: dextrabus가 이렇게 변화하는 것은 ambabus, duabus와 같은 쌍수(雙數)의 영향으로 추측하기도 한다. [Ivy Livingston, :title-reference:`A Linguistic Commentary on Livius Andronicus`, 2004.]
-
-그리스어
-~~~~~~~~
+   | manibus dextrabus
 
 -ās, -ae, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^
@@ -1325,18 +1320,16 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 변화의 종류가 매우 다양해서 책마다 여러가지 방법으로 분류한다. 여기서는 변화 형태에 따라 아래의 방법으로 분류하기로 한다.
 
-   #. n이 나타나는 경우 (leōn, lēonis, :sig:`m.`)
-   #. e가 탈락하는 경우 (pater, patris, :sig:`m.`)
-   #. s가 탈락하는 경우
-
-       #. x가 탈락하고 c, g가 나타나는 경우 (dux, ducis, :sig:`m. f.`)
-       #. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
-       #. 그 외 s가 탈락하는 경우
-   #. t, d가 나타나는 경우 (cor, cordis, :sig:`n.`)
-   #. s가 r로 변하는 경우 (flōs, flōris, :sig:`m.`)
-   #. 어간이 한 가지인 경우 (canis, canis, :sig:`m. f.`)
-   #. 주격이 어간인 경우 (cōnsul, cōnsulis, :sig:`m.`)
-   #. 그 외
+  #. n이 나타나는 경우 (leōn, lēonis, :sig:`m.`)
+  #. e가 탈락하는 경우 (pater, patris, :sig:`m.`)
+  #. x가 탈락하고 c, g가 나타나는 경우 (dux, ducis, :sig:`m. f.`)
+  #. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
+  #. 그 외 s가 탈락하는 경우
+  #. t, d가 나타나는 경우 (cor, cordis, :sig:`n.`)
+  #. s가 r로 변하는 경우 (flōs, flōris, :sig:`m.`)
+  #. 어간이 한 가지인 경우 (canis, canis, :sig:`m. f.`)
+  #. 주격이 어간인 경우 (cōnsul, cōnsulis, :sig:`m.`)
+  #. 그 외
 
 .. todo:: 장음이 단음으로 바뀌는 경우 설명
 
@@ -1841,6 +1834,10 @@ lac, lactis, :tsig:`n.`
 ^^^^^^^^^^^^^^^^^^^^^^^
 * lac, lactis, :sig:`n.`
 
+cor, cordis, :tsig:`n.`
+^^^^^^^^^^^^^^^^^^^^^^^
+* cor, cordis, :sig:`n.` (i 변화로도 사용)
+
 -a, -atis, :tsig:`n.`
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -1852,11 +1849,6 @@ lac, lactis, :tsig:`n.`
    * diadēma, diadēmatis, :sig:`n.` 왕관
    * dogma, dogmatis, :sig:`n.`
    * poēma, poēmatis, :sig:`n.` 운문
-
-
-cor, cordis, :tsig:`n.`
-^^^^^^^^^^^^^^^^^^^^^^^
-* cor, cordis, :sig:`n.` (i 변화로도 사용)
 
 s가 r로 변하는 경우
 ~~~~~~~~~~~~~~~~~~~
@@ -2301,15 +2293,12 @@ cf. vas, vadis, :sig:`m.` 담보물, 보석금
 
 대부분 남성·여성 명사이며, 예외적으로 약간의 중성 명사가 있다.
 
-변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다. 자음변화의 분류와 비슷하지만 순서는 역순이다.
+변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다. 자음변화의 분류와 비슷하지만 순서는 역순에 가깝다.
 
    #. 어간이 한 가지인 경우 (cīvis, cīvis, :sig:`m. f.`)
-   #. s가 탈락하는 경우
-
-       #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
-       #. x가 탈락하고 t가 나타나는 경우
-       #. p, b 뒤의 s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
-
+   #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
+   #. x가 탈락하고 t가 나타나는 경우
+   #. p, b 뒤의 s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
    #. 자음 뒤에 d가 나타나는 경우 (cord, cordis, :sig:`n.`)
    #. s가 r로 변하는 경우 (ōs, ōris, :sig:`n.` 입, 얼굴)
    #. e가 탈락하는 경우 (imber, imbris, :sig:`m.` 비)

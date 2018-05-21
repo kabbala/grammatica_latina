@@ -25,6 +25,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 일러두기
 
    remark/index
 
