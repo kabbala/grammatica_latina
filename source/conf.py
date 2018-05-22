@@ -84,8 +84,7 @@ html_theme_path = ["_themes", ]
 # documentation.
 #
 html_theme_options = {
-    'sticky_navigation': True,
-    'vcs_pageview_mode': 'blob'
+    'sticky_navigation': True
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -208,13 +207,13 @@ trim_footnote_reference_space = True
 rst_prolog = """
 .. role:: sig
    :class: sig
-   
+
 .. role:: tsig
    :class: tsig
-   
+
 .. role:: em
    :class: emphasize
-   
+
 .. role:: en
    :class: ending
 """
