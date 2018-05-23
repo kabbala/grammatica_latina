@@ -24,6 +24,7 @@
 
 접속법 현재
 -----------
+
 미완료형 어간에 -a-(또는 -e-)를 붙여서 만든다.
 
 .. csv-table::
@@ -53,21 +54,9 @@
    ":tsig:`2p`", "dūcētis", "dūcātis", "capiētis", "capiātis", "audiētis", "audiātis"
    ":tsig:`3p`", "dūcent", "dūcant", "capient", "capiant", "audient", "audiant"
 
-제2변화 동사는 직설법 과거형(미완료형)에서 -b-가 빠진 것과 같다.
-
-.. csv-table::
-   :header-rows: 1
-
-   "", "직설법 현재(II)", "접속법 현재(II)"
-   ":tsig:`1s`", "tenēbam", "teneam"
-   ":tsig:`2s`", "tenēbās", "teneās"
-   ":tsig:`3s`", "tenēbat", "teneat"
-   ":tsig:`1p`", "tenēbāmus", "teneāmus"
-   ":tsig:`2p`", "tenēbātis", "teneātis"
-   ":tsig:`3p`", "tenēbant", "teneant"
-
 접속법 과거
 -----------
+
 미완료형 어간에 -re-를 붙여서 만든다.
 
 .. csv-table::
@@ -122,6 +111,7 @@
 
 접속법 과거 완료
 ----------------
+
 완료형 어간에 -isse-를 붙여서 만든다.
 
 .. csv-table::

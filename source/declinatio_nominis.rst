@@ -376,7 +376,7 @@
 
    | pater familias, patres familias
    | mater familias, matres familias
-   | filius familias, filii familias
+   | filius familias, filii/fili familias
    | filia familias, filiae familias
 
 .. _deabus:
@@ -1325,7 +1325,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
   #. x가 탈락하고 c, g가 나타나는 경우 (dux, ducis, :sig:`m. f.`)
   #. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
   #. 그 외 s가 탈락하는 경우
-  #. t, d가 나타나는 경우 (cor, cordis, :sig:`n.`)
+  #. t, d가 나타나는 경우 (lac, lactis, :sig:`n.`)
   #. s가 r로 변하는 경우 (flōs, flōris, :sig:`m.`)
   #. 어간이 한 가지인 경우 (canis, canis, :sig:`m. f.`)
   #. 주격이 어간인 경우 (cōnsul, cōnsulis, :sig:`m.`)
@@ -1339,7 +1339,7 @@ n이 나타나는 경우
 -ō, -ōnis, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우. 원래 어간이 leōn이었던다가 n이 탈락한 것으로 생각할 수 있다.
+leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 경우. 원래 어간이 leōn이었던다가 n이 탈락한 것으로 생각할 수 있다. [*]_
 
 .. csv-table:: leō, ōnis, :tsig:`m.`
    :header-rows: 1
@@ -1351,6 +1351,8 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
    :tsig:`acc.`, "leōn+em", "leōn+ēs"
    :tsig:`abl.`, "leōn+e", "leōn+ibus"
    :tsig:`voc.`, "leō", "leōn+ēs"
+
+.. [*] 실제로도 이 단어는 고대 그리스어 léōn에서 유래한 것으로 본다. 이렇게 제3변화 명사의 변화형은 원래의 모습을 간직하고 있는 경우가 많다.
 
 .. hlist::
    :columns: 2
@@ -2296,12 +2298,12 @@ cf. vas, vadis, :sig:`m.` 담보물, 보석금
 변화의 양상이 다양한데, 여기서는 형태에 따라 아래의 방법으로 분류하기로 한다. 자음변화의 분류와 비슷하지만 순서는 역순에 가깝다.
 
    #. 어간이 한 가지인 경우 (cīvis, cīvis, :sig:`m. f.`)
-   #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.` 기술)
+   #. s가 탈락하고 t, d가 나타나는 경우 (ars, artis, :sig:`f.`)
    #. x가 탈락하고 t가 나타나는 경우
-   #. p, b 뒤의 s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.` 평민)
+   #. p, b 뒤의 s가 탈락하는 경우 (plēbs, plēbis, :sig:`f.`)
    #. 자음 뒤에 d가 나타나는 경우 (cord, cordis, :sig:`n.`)
-   #. s가 r로 변하는 경우 (ōs, ōris, :sig:`n.` 입, 얼굴)
-   #. e가 탈락하는 경우 (imber, imbris, :sig:`m.` 비)
+   #. s가 r로 변하는 경우 (ōs, ōris, :sig:`n.`)
+   #. e가 탈락하는 경우 (imber, imbris, :sig:`m.`)
    #. 그 외
 
 어간이 한 가지인 경우
