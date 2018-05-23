@@ -546,16 +546,19 @@ vir, virī, :sig:`m.`
 -os, -ī, :tsig:`m. f.`
 ^^^^^^^^^^^^^^^^^^^^^^
 
-그리스어의 영향으로 다르게 변화하는 경우. 목적격 단수가 -on으로 끝난다.
+주격이 -os로 끝나고 목적격 단수가 -on인 경우로, 그리스어의 영향을 받은 것이다.
 
-남성형, 여성형 명사는 주격 단수의 어미와 소유격 단수의 어미가 같다.
+주격 단수는 -os, 목적격 복수는 -ōs로 장단은 다르지만 형태가 같다.
 
 .. hlist::
    :columns: 2
 
-   * lōtos, lōtī, :sig:`m. f.` 로터스 (규칙변화 하는 lōtus, lōtī도 있다)
+   * lōtos, lōtī, :sig:`m. f.` 로터스 (= lōtus, lōtī)
    * mȳthos, mȳthī, :sig:`m.` 신화
    * phaenomenon, phaenomenī, :sig:`n.`
+
+지명
+++++
 
 이렇게 변화하는 지명은 대부분 여성형이다.
 
@@ -575,3 +578,15 @@ vir, virī, :sig:`m.`
 
    * Dēlos, Dēlī, :sig:`f. sg.` 델로스 섬
    * Samos, Samī, :sig:`f. sg.`
+
+인명
+++++
+
+그리스어에서 유래한 이름이다.
+
+.. hlist::
+   :columns: 2
+
+   * Sōcrateos, ī, :sig:`m. sg.` 소크라테스 (= Sōcratēs, is)
+
+.. Thēseos, Perseos 는 확실하지 않음
