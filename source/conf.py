@@ -103,7 +103,7 @@ html_context = {
 
 html_show_sourcelink = False
 
-html_last_updated_fmt = '%A'
+html_last_updated_fmt = '%Y년 %m월 %d일 %A %p'
 
 html_use_index = False
 
