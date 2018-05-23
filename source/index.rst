@@ -6,8 +6,6 @@
 대문
 ====
 
-고전 라틴어 문법책입니다.
-
 .. toctree::
    :maxdepth: 2
    :caption: 변화
