@@ -213,7 +213,7 @@ pater, patris는 자음 변화이고, imber, imbris는 i 변화이다.
 
 변화의 종류가 매우 다양해서 책마다 여러가지 방법으로 분류한다. 여기서는 변화 형태에 따라 아래의 방법으로 분류하기로 한다.
 
-  #. n이 나타나는 경우 (leōn, lēonis, :sig:`m.`)
+  #. n이 나타나는 경우 (leōn, leōnis, :sig:`m.`)
   #. e가 탈락하는 경우 (pater, patris, :sig:`m.`)
   #. x가 탈락하고 c, g가 나타나는 경우 (dux, ducis, :sig:`m. f.`)
   #. s가 탈락하고 t, d가 나타나는 경우 (virtūs, virtūtis, :sig:`f.`)
