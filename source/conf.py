@@ -84,7 +84,8 @@ html_theme_path = ["_themes", ]
 # documentation.
 #
 html_theme_options = {
-    'sticky_navigation': True
+    'sticky_navigation': True,
+    'collapse_navigation': False
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
