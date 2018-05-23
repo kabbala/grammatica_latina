@@ -3,7 +3,6 @@
 ===========
 
 .. toctree::
-  :maxdepth: 2
 
   coniugatio_verbi
   coniugatio_verbi_coniunctivi

@@ -2,7 +2,6 @@
 ===========
 
 .. toctree::
-  :maxdepth: 2
 
   declinatio_nominis
   declinatio_nominis_1
