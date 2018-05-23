@@ -12,7 +12,7 @@
    :maxdepth: 2
    :caption: 변화
 
-   declinatio_nominis
+   declinatio_nominis/index
    declinatio_adiectivi
    coniugatio_verbi/index
 
