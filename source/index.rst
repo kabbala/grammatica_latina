@@ -10,7 +10,8 @@
    :maxdepth: 2
    :caption: 개요
 
-   introductio/index
+   introductio/divisio
+   introductio/graecus
 
 .. toctree::
    :maxdepth: 2
