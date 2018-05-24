@@ -26,6 +26,7 @@
 
    liber
    viva
+   media
 
 .. toctree::
    :maxdepth: 2
