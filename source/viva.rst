@@ -5,10 +5,18 @@
 ------
 
 .. hlist::
-   :columns: 2
+   :columns: 1
 
    * 모두스 비벤디(Modus Vivendi) 1991년 신원에벤에셀에서 런칭한 남성복 브랜드. 2007년 우진패션비즈가 인수.
    * 에쿠스(Equus) 현대에서 1994~2015년 생산한 자동차. equus(:sig:`m.`, 말)
+
+모토
+----
+
+.. hlist::
+   :columns: 1
+
+   * Veritas Lux Mea — 서울대학교 모토
 
 학술 용어
 ---------
