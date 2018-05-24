@@ -8,6 +8,12 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 개요
+
+   introductio/index
+
+.. toctree::
+   :maxdepth: 2
    :caption: 변화
 
    declinatio_nominis/index
