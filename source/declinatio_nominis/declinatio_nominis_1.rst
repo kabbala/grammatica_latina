@@ -318,7 +318,7 @@ ambabus
 
    | manibus dextrabus
 
-.. note:: 그 이전부터 사용한 deabus나 ambabus는 -īs 형태를 가지고 있지 않다.
+.. note:: 그 이전부터 사용한 deabus, ambabus, duabus 등은 -īs 형태를 가지고 있지 않다.
 
 -ās, -ae, :tsig:`m.`
 ^^^^^^^^^^^^^^^^^^^^^
@@ -339,8 +339,8 @@ ambabus
 .. hlist::
    :columns: 2
 
-   * Aenēās, Aenēae, :sig:`m. sg.` < 그리스어 Aineías
-   * Leōnidās, Leōnidae, :sig:`m. sg.` < 그리스어 Leōnídās
+   * Aenēās, Aenēae, :sig:`m. sg.` (그리스어 Aineías)
+   * Leōnidās, Leōnidae, :sig:`m. sg.` (그리스어 Leōnídās)
 
 
 -ēs, -ae, :tsig:`m.`
