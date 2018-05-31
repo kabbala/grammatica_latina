@@ -21,4 +21,6 @@
 
 .. [LnS] Lewis & Short, :ref:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews <Lewis & Short, A Latin Dictionary>`, 1879.
 
+.. [Ossa] Reginaldus Thomas Foster & Daniel Patricius McCarthy, Ossa Latinitatis Sola: ad Mentem Reginaldi Rationemque, 2016.
+
 .. [Oxford] :ref:`Oxford Latin Dictionary`, 1968.

@@ -19,6 +19,7 @@
 
    declinatio_nominis/index
    declinatio_adiectivi
+   declinatio_pronominis
    coniugatio_verbi/index
 
 .. toctree::
