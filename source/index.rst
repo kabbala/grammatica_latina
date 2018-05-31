@@ -31,10 +31,13 @@
    media
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 일러두기
 
-   remark/index
+   remark
+   abbreviatio
+   reference
+
 
 .. Indices and tables
 .. ==================
