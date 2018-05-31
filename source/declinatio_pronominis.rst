@@ -263,6 +263,6 @@
 * neuter, ra, rum 둘 다 아닌, 둘 중에 아무것도 아닌, 남성도 여성도 아닌
 * alius, a, um 다른
 
-이 9 단어를 암기하는 방법으로, 머릿글자를 연결한 UNUS NAUTA(한 명의 선원)이라는 것이 있다. **U**\nus, **N**\ullus, **U**\llus, **S**\ollus, **N**\euter, **A**\lter, **U**\ter, **T**\otus, **A**\lius [*]_
+이 9 단어를 암기하는 방법으로, 머릿글자를 연결한 UNUS NAUTA(한 명의 선원)라는 것이 있다. **U**\nus, **N**\ullus, **U**\llus, **S**\ollus, **N**\euter, **A**\lter, **U**\ter, **T**\otus, **A**\lius [*]_
 
 .. [*] 중복되는 글자의 경우, 변화가 비슷한 단어끼리 인접하도록 정리한 것.
