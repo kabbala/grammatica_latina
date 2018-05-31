@@ -98,8 +98,9 @@
 .. hlist::
    :columns: 2
 
-   * amicus, ī, :sig:`m.` 친구, 남성형
-   * animus, ī, :sig:`m.` 영혼, 남성형
+   * amicus, ī, :sig:`m.` 친구(남성형)
+   * animus, ī, :sig:`m.` 영혼(남성형)
+   * carrus, ī, :sig:`m.` 수레
    * cibus, ī, :sig:`m.` 음식
    * delphīnus, ī, :sig:`m.` 돌고래
    * medicus, ī, :sig:`m.` 의사

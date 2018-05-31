@@ -22,7 +22,7 @@
 ---------
 
 .. hlist::
-   :columns: 2
+   :columns: 1
 
    * ibid. ibidem 상게서(上揭書), 같은 책
 
@@ -30,7 +30,7 @@
 ---------
 
 .. hlist::
-   :columns: 2
+   :columns: 1
 
    * dē novō 신규의
    * in vitrō 생체외
@@ -40,14 +40,14 @@
 ---------
 
 .. hlist::
-   :columns: 2
+   :columns: 1
 
-   * aq. aqua
+   * aq. aqua 물
    * intestīnum duodēnum digitōrum 십이지장.
    * hēpatītis, idis, :sig:`m.` 간염. 영어 복수형 중에 hepatitides가 있음.
-   * p.o. per os
-   * QD quaque die
-   * SQ subcutāneus
+   * p.o. per os 경구(經口)
+   * QD quaque die 매일
+   * SQ subcutāneus 피하(皮下)
 
 학명
 ----
@@ -59,3 +59,12 @@
    :columns: 2
 
    * Carpe diem
+
+기타
+----
+
+.. hlist::
+   :columns: 2
+
+   * ad hominem
+   * inter alia 법률용어에서 많이 쓰임

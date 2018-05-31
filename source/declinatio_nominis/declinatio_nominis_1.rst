@@ -19,19 +19,17 @@
 
 소유격 단수 어미 -ae를 사전 표제어로 사용한다.
 
-   | puella, ae (puella, puellae)
+   | puella, ae (puella, :sig:`gen.` puellae)
 
 복수형만 있는 명사는 소유격 복수 어미 -ārum을 사전 표제어로 사용한다.
 
-   | dīvitiae, ārum (dīvitiae, dīvitiārum)
+   | dīvitiae, ārum (dīvitiae, :sig:`gen.` dīvitiārum)
 
 소유격 복수 어미는 2음절이고, 끝에서 두번째 음절이 장음이므로, 소유격 복수형은 강세가 언제나 어미 -ā-에 온다.
 
    | puellā́rum
 
 .. note:: 명사 제1변화는 형용사 제1·2변화의 여성형에 그대로 사용된다.
-
-
 
 -a, -ae, :tsig:`f.`
 ~~~~~~~~~~~~~~~~~~~
