@@ -6,7 +6,7 @@
 .. csv-table::
    :header-rows: 1
 
-   "", :tsig:`sg.`, :tsig:`pl.`
+   "", :tsig:`f. sg.`, :tsig:`f. pl.`
    :tsig:`nom.`, "-a", "-ae"
    :tsig:`gen.`, "-ae", "-ārum"
    :tsig:`dat.`, "-ae", "-īs"
