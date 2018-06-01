@@ -6,7 +6,7 @@
 
 대명사는 형용사로 사용될 수 있으나 그렇지 않은 경우도 있다. 1, 2인칭 대명사와 3인칭 재귀대명사가 그러하다.
 
-대명사의 변화는 명사의 변화와 비슷하지만 불규칙하다.
+대명사의 변화는 명사의 변화와 비슷하지만 불규칙한 경우가 많다.
 
 인칭 대명사
 -----------
@@ -231,6 +231,8 @@
    :tsig:`acc.`, "quem", "quōs", "quem", "quās", "quid", "quae"
    :tsig:`abl.`, "quō", "quibus", "quō", "quibus", "quō", "quibus"
 
+.. todo:: aliquis 설명 추가
+
 관계 대명사(의문 형용사)
 ------------------------
 
@@ -246,12 +248,12 @@
    :tsig:`acc.`, "quem", "quōs", "quam", "quās", "quod", "quae"
    :tsig:`abl.`, "quō", "quibus", "quā", "quibus", "quō", "quibus"
 
-부정 형용사
------------
+복수형은 의문 대명사와 형태가 같다.
 
-이 단어들을 가리키는 문법용어로는 성염이 『고전 라틴어』에서 사용한 대명사적 형용사가 많이 사용되는데, 개념이 모호하기 때문에 여기서는 일부 로망스어 문법에서 사용하는 부정(不定) 형용사(프랑스어 adjectif indéfini, 영어 indefinite adjectives)라는 말을 사용하기로 한다.
+부정 형용사(대명사적 형용사)
+----------------------------
 
-변화 양상을 기준으로 불규칙 형용사로 분류하기도 한다.
+문법적 성질이 비슷한 다음 9개의 형용사는 변화 양상이 대명사와 같다.
 
 * ūnus, a, um 하나의
 * sōlus, a, um 오직 하나뿐인
@@ -261,8 +263,90 @@
 * alter, era, erum, 둘 중에 다른 쪽, 다른, 반대편
 * uter, ra, rum 둘 중에 하나, 둘 각각, 둘 모두
 * neuter, ra, rum 둘 다 아닌, 둘 중에 아무것도 아닌, 남성도 여성도 아닌
-* alius, a, um 다른
+* alius, a, ud 다른
 
-이 9 단어를 암기하는 방법으로, 머릿글자를 연결한 UNUS NAUTA(한 명의 선원)라는 것이 있다. **U**\nus, **N**\ullus, **U**\llus, **S**\ollus, **N**\euter, **A**\lter, **U**\ter, **T**\otus, **A**\lius [*]_
+.. note::
 
-.. [*] 중복되는 글자의 경우, 변화가 비슷한 단어끼리 인접하도록 정리한 것.
+   이 9개 단어를 암기하는 방법으로, 머릿글자를 연결한 UNUS NAUTA(한 명의 선원)라는 것이 있다. **U**\nus, **N**\ullus, **U**\llus, **S**\ollus, **N**\euter, **A**\lter, **U**\ter, **T**\otus, **A**\lius [*]_
+
+   .. [*] 중복되는 글자의 경우, 변화가 비슷한 단어끼리 인접하도록 정리한 것.
+
+.. note::
+
+   이 단어들을 가리키는 문법용어로는 ‘대명사적 형용사’(영어 pronominal adjevtives)가 많이 사용되는데, [성염]_ 쉽게 이해하기 어렵기 때문에 여기서는 일부 로망스어 문법에서 사용하는 ‘부정(不定) 형용사’(프랑스어 adjectif indéfini, 영어 indefinite adjectives)를 사용하기로 한다.
+
+   변화 양상을 기준으로 불규칙 형용사로 분류하기도 한다.
+
+.. note::
+
+   ambo, duo는 수사로 분류하며, 변화 양상도 부정 형용사와 다르다.
+
+-us/-er, -a, -um
+~~~~~~~~~~~~~~~~
+
+형용사 제1·2변화와 같으나, 소유격이 -īus, 여격이 -ī이다.
+
+.. csv-table::
+   :header-rows: 1
+
+   "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
+   :tsig:`nom.`, "-us/-er", "-a", "-um"
+   :tsig:`gen.`, "-:em:`īus`", "-:em:`īus`", "-:em:`īus`"
+   :tsig:`dat.`, "-:em:`ī`", "-:em:`ī`", "-:em:`ī`"
+   :tsig:`acc.`, "-um", "-am", "주격과 같음"
+   :tsig:`abl.`, "-ō", "-ā", "-ō"
+   :tsig:`voc.`, "-:em:`e`\/-er", "주격과 같음", "주격과 같음"
+   "", "", "", ""
+   :tsig:`nom.`, "-ī", "-ae", "-a"
+   :tsig:`gen.`, "-ōrum", "-ārum", "-ōrum"
+   :tsig:`dat.`, "-īs", "-īs", "-īs"
+   :tsig:`acc.`, "-ōs", "-ās", "주격과 같음"
+   :tsig:`abl.`, "-īs", "-īs", "-īs"
+   :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
+
+alius를 제외한 나머지 8개의 형용사 unus, nullus, ullus, sollus, neuter, alter, uter, totus 등이 이렇게 변화한다.
+
+uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하게 변화하지만 대명사로 분류한다.
+
+.. csv-table:: uterque, utraque, utrumque
+   :header-rows: 1
+
+   "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
+   :tsig:`nom.`, "uterque", "utr+a+que", "utr+um+que"
+   :tsig:`gen.`, "utr+īus+que", "utr+īus+que", "utr+īus+que"
+   :tsig:`dat.`, "utr+ī+que", "utr+ī+que", "utr+ī+que"
+   :tsig:`acc.`, "utr+um+que", "utr+am+que", "주격과 같음"
+   :tsig:`abl.`, "utr+ō+que", "utr+ā+que", "utr+ō+que"
+   :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
+   "", "", "", ""
+   :tsig:`nom.`, "utr+ī+que", "utr+ae+que", "utr+a+que"
+   :tsig:`gen.`, "utr+ōrum+que", "utr+ārum+que", "utr+ōrum+que"
+   :tsig:`dat.`, "utr+īs+que", "utr+īs+que", "utr+īs+que"
+   :tsig:`acc.`, "utr+ōs+que", "utr+ās+que", "주격과 같음"
+   :tsig:`abl.`, "utr+īs+que", "utr+īs+que", "utr+īs+que"
+   :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
+
+-(i)us, -(i)a, -(i)ud
+~~~~~~~~~~~~~~~~~~~~~
+
+어간이 i로 끝나고 중성이 -ud로 끝나는 경우로, alius만 해당된다.
+
+.. csv-table:: alius, alia, aliud
+   :header-rows: 1
+
+   "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
+   :tsig:`nom.`, "ali+us", "ali+a", "ali+\ :em:`ud`"
+   :tsig:`gen.`, ":em:`alter+īus`, ali+īus(매우 드뭄)", ":em:`alter+īus`, ali+īus(매우 드뭄)", ":em:`alter+īus`, ali+īus(매우 드뭄)"
+   :tsig:`dat.`, ":em:`alter+ī`, ali+ī(드뭄)", ":em:`alter+ī`, ali+ī(드뭄)", ":em:`alter+ī`, ali+ī(드뭄)"
+   :tsig:`acc.`, "ali+um", "ali+am", "주격과 같음"
+   :tsig:`abl.`, "ali+ō", "ali+ā", "ali+ō"
+   :tsig:`voc.`, "ali+\ :em:`e`", "주격과 같음", "주격과 같음"
+   "", "", "", ""
+   :tsig:`nom.`, "ali+ī", "ali+ae", "ali+\ :em:`a`"
+   :tsig:`gen.`, "ali+ōrum", "ali+ārum", "ali+ōrum"
+   :tsig:`dat.`, "ali+īs", "ali+īs", "ali+īs"
+   :tsig:`acc.`, "ali+ōs", "ali+ās", "주격과 같음"
+   :tsig:`abl.`, "ali+īs", "ali+īs", "ali+īs"
+   :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
+
+alter와 동일한 소유격 alterius, 여격 alteri를 사용하며, 복수형은 -us, -a, -um 형태와 동일하다.

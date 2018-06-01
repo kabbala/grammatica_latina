@@ -1219,13 +1219,14 @@ civis, civis(:sig:`m.` 시민)의 경우처럼 주격 단수와 소유격이 같
 .. hlist::
    :columns: 2
 
-   * aedēs, aedēs, :sig:`f.` 또는 aedis, aedis, :sig:`f.`
+   * aedis, aedis, :sig:`f.` 사원 (=aedēs, aedis)
    * amnis, amnis, :sig:`m.` 조류(潮流)
    * auris, auris, :sig:`f.` 귀
    * avis, avis, :sig:`f.` 새
    * cīvis, cīvis, :sig:`m. f.` 시민
    * classis, classis, :sig:`f.` 함대
    * collis, collis, :sig:`m.` 언덕, 야산
+   * fascis, fascis, :sig:`m.` 묶음, 집정관의 권표(權標)로 막대 다발에 도끼를 끼운 것.
    * finis, finis, :sig:`m.` 끝
    * hostis, hostis, :sig:`m.` 적 (cf. hospes, hospitis, :sig:`m.` 주인)
    * ignis, ignis, :sig:`m.` 불
@@ -1244,15 +1245,15 @@ aedes(:sig:`f.` 사원)처럼 어간의 -ē가 -i로 바뀌어 변화하는 경�
 .. hlist::
    :columns: 2
 
-   * aedes, aedis, :sig:`f.` 사원, 신전, 방 (= aedis, aedis)
-   * caedes, caedis, :sig:`f.` 잘라내기 (= caedis, caedis)
-   * clades, cladis, :sig:`f.` 파괴, 재난
-   * fames, famis, :sig:`f.` 배고픔
+   * aedēs, aedis, :sig:`f.` 사원, 신전, 방 (=aedis, aedis)
+   * caedēs, caedis, :sig:`f.` 잘라내기 (=caedis, caedis)
+   * cladēs, cladis, :sig:`f.` 파괴, 재난
+   * famēs, famis, :sig:`f.` 배고픔
    * nūbēs, nūbis, :sig:`f.` 구름
-   * prōles, prōlis, :sig:`f.` 자식
+   * prōlēs, prōlis, :sig:`f.` 자식
    * sēdēs, sēdis, :sig:`f.` 걸상 (-im도 사용)
-   * valles, vallis, :sig:`f.` 골짜기 (= vallis, vallis)
-   * vulpes, vulpis, :sig:`f.` 여우 (= vulpis, vulpis)
+   * vallēs, vallis, :sig:`f.` 골짜기 (=vallis, vallis)
+   * vulpēs, vulpis, :sig:`f.` 여우 (=vulpis, vulpis)
 
 -ēs와 -is 두 가지 형태를 가지고 있는 경우가 많다.
 

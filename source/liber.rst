@@ -8,6 +8,7 @@
 
 성염의 『고전 라틴어』
 ~~~~~~~~~~~~~~~~~~~~~~
+
 성염의 『古典 라틴어』(서울: 바오로딸, 1994)는 한국어로 쓰여진 사실상 유일한 종합적인 고전 라틴어 교재이다. 저자는 신학교까지 다녔던 카톨릭 신자이며 로마의 교황립 살레시안 대학교(Pontificia Studiorum Universitas Salesiana) 박사이지만 교회 라틴어가 아닌 고전 라틴어 책을 집필하였다.
 
 책의 구성은 총 46장으로, 머리말에서 3학기 정도의 대학교 교양 강의를 염두에 두고 만들어졌다고 밝힌 것처럼 수업의 진행을 위해 순서와 내용이 구성되어 있다. 이 책 자체가 저자가 신학교에서 들은 수업 유인물을 기반으로 하고 있기도 해서 책에 ‘엮음’으로 적혀있기도 하다.
@@ -23,6 +24,7 @@
 
 『휠록의 라틴어 문법』
 ~~~~~~~~~~~~~~~~~~~~~~
+
 영미권에서 인기있는 고전 라틴어 교재인 :title-reference:`Wheelock's Latin`\의 번역판이다.
 
 기존의 도식적인 문법 설명을 탈피해 1과부터 쉽게 라틴어를 읽고 해석할 수 있도록 지도하는 것이 이 책의 특징이다. 또한 교재로 널리 사용되기 때문에 인터넷 등에서 참고자료를 쉽게 찾을 수 있는 것이 장점이다.
@@ -39,6 +41,7 @@
 
 『카르페 라틴어』
 ~~~~~~~~~~~~~~~~~
+
 한동일의 『카르페 라틴어』(서울: 글로벌어학사, 2012)는 신부인 저자가 쓴 교회 라틴어 교재이다. 문법에 관한 종합적인 내용을 담고 있다.
 
 교회 라틴어이기 때문에 모음에 장단 표시가 없고, 내용이 사전식으로 나열되어 있는 것이 특징이다.
@@ -48,6 +51,7 @@
 
 『꿩먹고 알먹는 라틴어 첫걸음』
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 조경호의 『(한글만 알면) 꿩먹고 알먹는 라틴어 첫걸음』(서울: 문예림, 2007)은  스페인어를 전공한 저자가 외국어 고등학교 교사로 재직하면서 쓴 책으로, 고등학생이 쉽고 재미있게 배울 수 있도록 기획하였다.
 
 총 60과로 매 과마다 간단한 회화 또는 문장, 문법 사항, 연습문제로 구성되어 있다. 회화가 많은 것이 특징이다.
@@ -58,6 +62,7 @@
 
 :title-reference:`Wheelock's Latin`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 1956년 :title-reference:`College Outline Series` 중 하나인  :title-reference:`Latin`\으로 출간한 후 인기를 얻어 이 책 자체가 대표적인 라틴어 교재 시리즈가 되었다.
 
 저자 사망 후 1995년 출판된 5판부터는 조지아 대학의 러플러(Richard A. LaFleur) 교수가 집필하고 있다. 최신판은 2011년 출판된 7판이다.
@@ -66,6 +71,7 @@
 
 Kennedy, :title-reference:`The Revised Latin Primer`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 1878년에 출간된 라틴어 문법책으로, 고등학교 교장으로 고전을 가르치던 케네디(Benjamin Hall Kennedy)가 독창적인 방법으로 라틴어 문법을 정리하였다. [*]_ 이 책에서 제시한 몇몇 분류 방법은 후대에도 영향을 미쳤다.
 
 :title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [*]_
@@ -78,6 +84,7 @@ Kennedy, :title-reference:`The Revised Latin Primer`
 
 Allen & Greenough, :title-reference:`A Latin Grammar`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 1872년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [*]_
 
 인터넷에 1903년판이 공개되어있다.
@@ -91,18 +98,25 @@ Allen & Greenough, :title-reference:`A Latin Grammar`
 
 :title-reference:`Oxford Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1968년에 나온 고전 라틴어 위주의 라틴어-영어 대사전으로, 2012년에 제2판이 나왔다. 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어져 출판되었다. 가장 권위있는 라틴어 사전 중에 하나이다. 1968년판이 인터넷에 공개되어 있다.
+
+1968년에 나온 고전 라틴어 위주의 라틴어-영어 대사전으로, 가장 권위있는 라틴어 사전 중에 하나이다.
+
+1968년판이 인터넷에 공개되어 있으며, 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어진 제2판이 2012년에 출간되었다.
 
 .. _Cassell's Latin Dictionary:
 
 :title-reference:`Cassell's Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1854년 나온 라틴어-영어, 영어-라틴어 중사전으로, 판을 거듭하면서 현재까지 인기있는 사전이다. 1904년판이 인터넷에 공개되어 있다.
+
+1854년 나온 라틴어-영어, 영어-라틴어 중사전으로, 판을 거듭하면서 현재까지 인기있는 사전이다.
+
+1904년판이 인터넷에 공개되어 있다.
 
 .. _Lewis & Short, A Latin Dictionary:
 
 Lewis & Short, :title-reference:`A Latin Dictionary`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 1879년에 나온 라틴어-영어 대사전으로, 편집자인 루이스(Charlton T. Lewis)와 쇼트(Charles Short)의 이름을 따서 ‘루이스 앤 쇼트’(Lewis & Short)로도 불린다. 원제는 :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`\이다. [*]_
 
 라틴어-독일어 사전을 번역한 것을 기반으로 하였으며, 20세기 초까지 큰 인기를 누렸다고 한다. 그러나 이후 개정되지 않았다. 중세 라틴어와 후기 라틴어가 많이 실려있는 것이 특징이라는 위키백과의 설명이 있다.
@@ -122,12 +136,16 @@ Oxford University Press에서 `Oxford Latin Dictionary`_\를 만들려다 포기
 
 Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1934년에 나온 라틴어-프랑스어 대사전으로, 제목처럼 새로운 그림과 인쇄로 큰 인기를 얻었으며, 가장 권위있는 라틴어 사전 중 하나가 되었다. 흔히 le Gaffiot으로 불린다. 현재 1934년판이 인터넷에 공개되어 있다.
+
+Félix Gaffiot(1870~1937)이 1934년에 출간한 라틴어-프랑스어 대사전으로, 제목처럼 새로운 그림과 인쇄로 큰 인기를 얻었으며, 가장 권위있는 라틴어 사전 중 하나가 되었다. 흔히 le Gaffiot으로 불린다.
+
+현재 1934년판이 인터넷에 공개되어 있고, 이를 바탕으로 Gaffiot 2016 또는 V. M. Komarov판이라는 편집판이 만들어지기도 했다.
 
 2000년에 :title-reference:`Le Grand Gaffiot`\이라는 부제가 붙은 개정판이 발표되었다.
 
 :title-reference:`Thesaurus Linguae Latinae`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 서기 600년 이전의 라틴어 자료를 모두 수집하는 프로젝트로 1894년에 시작되어 국제적으로 진행되고 있다.
 
 외국어 문법서
@@ -135,6 +153,7 @@ Gaffiot, :title-reference:`Dictionnaire Illustré Latin-Français`
 
 Khüner, :title-reference:`Ausführliche Grammatik der lateinischen Sprache`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 하노버 리케움 교수였던 퀴너(Raphael Kühner, 1802~1878)가 쓴 방대한 분량의 문법서로, 현재까지 가장 권위있는 문법서로 알려져있다. 1877년에 1권이, 사후 1878, 1879년에 김나지움 교수인 아들 루돌프(Rudolf Khüner, 1839~1902)에 의해 2책으로 된 2권이 출간되었다.
 
 1912~14년에 Friedrich Wilhelm Holzweissig(1846~1922)가 편집한 1권과 스테그만(Carl Stegmann, 1852~1929)이 편집한 2권이 출간되었다. 이 둘의 이름도 함께 언급되는 경우가 많다.
@@ -146,6 +165,7 @@ Khüner, :title-reference:`Ausführliche Grammatik der lateinischen Sprache`
 
 :title-reference:`Gildersleeve's Latin Grammar`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 버지니아 대학 교수였던 길더슬리브(Basil Lanneau Gildersleeve, 1831~1924)가 쓴 문법책으로 1867년 :title-reference:`A Latin Grammar`\로 출간되었으며, 1872년 2판이 출간되었다.
 
 1895년 Gonzalez Lodge와 공저로 제3판 개정증보판(Revised and Enlarged)이 :title-reference:`Gildersleeve's Latin Grammar`\라는 이름으로 발표되었으며, 해설을 덧붙여서 현재도 계속 판매되고 있다. 미국에서 가장 권위있는 라틴어 문법서 중 하나이다.
