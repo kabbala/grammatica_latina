@@ -290,14 +290,14 @@
    :header-rows: 1
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
-   :tsig:`nom.`, "-us/-er", "-a", "-um"
+   :tsig:`nom. sg.`, "-us/-er", "-a", "-um"
    :tsig:`gen.`, "-:em:`īus`", "-:em:`īus`", "-:em:`īus`"
    :tsig:`dat.`, "-:em:`ī`", "-:em:`ī`", "-:em:`ī`"
    :tsig:`acc.`, "-um", "-am", "주격과 같음"
    :tsig:`abl.`, "-ō", "-ā", "-ō"
    :tsig:`voc.`, "-:em:`e`\/-er", "주격과 같음", "주격과 같음"
    "", "", "", ""
-   :tsig:`nom.`, "-ī", "-ae", "-a"
+   :tsig:`nom. pl.`, "-ī", "-ae", "-a"
    :tsig:`gen.`, "-ōrum", "-ārum", "-ōrum"
    :tsig:`dat.`, "-īs", "-īs", "-īs"
    :tsig:`acc.`, "-ōs", "-ās", "주격과 같음"
@@ -346,14 +346,14 @@ uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하�
    :header-rows: 1
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
-   :tsig:`nom.`, "ali+us", "ali+a", "ali+\ :em:`ud`"
+   :tsig:`nom. sg.`, "ali+us", "ali+a", "ali+\ :em:`ud`"
    :tsig:`gen.`, ":em:`alter+īus`, ali+īus(매우 드뭄)", ":em:`alter+īus`, ali+īus(매우 드뭄)", ":em:`alter+īus`, ali+īus(매우 드뭄)"
    :tsig:`dat.`, ":em:`alter+ī`, ali+ī(드뭄)", ":em:`alter+ī`, ali+ī(드뭄)", ":em:`alter+ī`, ali+ī(드뭄)"
    :tsig:`acc.`, "ali+um", "ali+am", "주격과 같음"
    :tsig:`abl.`, "ali+ō", "ali+ā", "ali+ō"
    :tsig:`voc.`, "ali+\ :em:`e`", "주격과 같음", "주격과 같음"
    "", "", "", ""
-   :tsig:`nom.`, "ali+ī", "ali+ae", "ali+\ :em:`a`"
+   :tsig:`nom. pl.`, "ali+ī", "ali+ae", "ali+\ :em:`a`"
    :tsig:`gen.`, "ali+ōrum", "ali+ārum", "ali+ōrum"
    :tsig:`dat.`, "ali+īs", "ali+īs", "ali+īs"
    :tsig:`acc.`, "ali+ōs", "ali+ās", "주격과 같음"
