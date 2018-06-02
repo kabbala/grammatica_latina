@@ -687,7 +687,7 @@ s가 탈락하고 t가 붙는 경우
 -eps, -ipitis
 ^^^^^^^^^^^^^
 
-머리라는 의미의 접미사 -ceps가 붙은 단어(잡는다는 의미의 -ceps는 -ipis로 변화)
+머리라는 의미의 접미사 -ceps가 붙은 단어 [*]_
 
 .. csv-table:: praeceps, praecipitis
    :header-rows: 1
@@ -699,6 +699,8 @@ s가 탈락하고 t가 붙는 경우
    :tsig:`acc.`, "praecipit+em", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
    :tsig:`abl.`, "praecipit+\ :em:`ī`", "praecipit+ibus", "praecipit+\ :em:`ī`", "praecipit+ibus"
    :tsig:`voc.`, "praeceps", "praecipit+ēs", "praeceps", "praecipit+\ :em:`ia`"
+
+.. [*] 잡는다(capio)는 의미의 -ceps는 -ipis로 변화
 
 현재분사
 ^^^^^^^^
@@ -738,12 +740,20 @@ s가 탈락하고 d가 붙는 경우
 s가 탈락하는 경우
 ~~~~~~~~~~~~~~~~~
 
+-(p)s, -(p)is
+^^^^^^^^^^^^^
+
+.. hlist::
+   :columns: 2
+
+   * inops, inopis 약한, 부족한
+
 -eps, -ipis
 ^^^^^^^^^^^
 
--eps로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+-eps로 끝나는 경우 e가 i로 바뀌어 변화한다.
 
-잡는다는 의미의 접미사 -ceps가 붙은 단어(머리라는 의미의 -ceps는 -ipitis로 변화)
+잡는다는 의미의 접미사 -ceps가 붙은 단어 [*]_
 
 .. csv-table:: prīnceps, prīncipis
    :header-rows: 1
@@ -756,15 +766,12 @@ s가 탈락하는 경우
    :tsig:`abl.`, "prīncip+\ :em:`ī`", "prīncip+ibus", "prīncip+\ :em:`ī`", "prīncip+ibus"
    :tsig:`voc.`, "prīncep+s", "prīncip+ēs", "prīncep+s", "prīncip+\ :em:`ia`"
 
-.. hlist::
-   :columns: 2
-
-   * prīnceps, ipis 첫째의
+.. [*] 머리(caput)라는 의미의 -ceps는 -ipitis로 변화
 
 -ebs, -ibis
 ^^^^^^^^^^^
 
--ebs로 끝나는 경우 e가 i로 바뀌어 변화한다. 장음 ē인 경우는 포함되지 않는다.
+-ebs로 끝나는 경우 e가 i로 바뀌어 변화한다.
 
 * caelebs, ibis
 
@@ -784,7 +791,7 @@ iuvenis, iuvenis
 
 주격이 모두 같고, 어간도 같은 경우.
 
-.. csv-table:: iuvenis, iuvenis
+.. csv-table:: iuvenis, iuvenis 젊은
    :header-rows: 1
 
    "",  :tsig:`m. f. sg.`, :tsig:`m. f. pl.`, :tsig:`n. sg.`, :tsig:`n. pl.`
@@ -793,7 +800,7 @@ iuvenis, iuvenis
    :tsig:`dat.`, "iuven+ī", "iuven+ibus", "iuven+ī", "iuven+ibus"
    :tsig:`acc.`, "iuven+em", "iuven+ēs", "iuven+is", "iuven+\ :em:`ia`"
    :tsig:`abl.`, "iuven+\ :em:`ī`", "iuven+ibus", "iuven+\ :em:`ī`", "iuven+ibus"
-   :tsig:`voc.`, "iuven+is", "iuven+ēs", "pār", "iuven+\ :em:`ia`"
+   :tsig:`voc.`, "iuven+is", "iuven+ēs", "iuven+is", "iuven+\ :em:`ia`"
 
 senex, senis
 ^^^^^^^^^^^^
@@ -807,7 +814,7 @@ senex, senis
    :tsig:`dat.`, "sen+ī", "sen+ibus", "sen+ī", "sen+ibus"
    :tsig:`acc.`, "sen+em", "sen+ēs", "senex", "sen+\ :em:`ia`"
    :tsig:`abl.`, "sen+\ :em:`ī`", "sen+ibus", "sen+\ :em:`ī`", "sen+ibus"
-   :tsig:`voc.`, "senex", "sen+ēs", "pār", "sen+\ :em:`ia`"
+   :tsig:`voc.`, "senex", "sen+ēs", "senex", "sen+\ :em:`ia`"
 
 potis
 ^^^^^
