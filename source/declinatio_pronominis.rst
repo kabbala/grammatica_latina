@@ -349,4 +349,4 @@ uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하�
    :tsig:`abl.`, "ali+īs", "ali+īs", "ali+īs"
    :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
 
-alter와 동일한 소유격 alterius, 여격 alteri를 사용하며, 복수형은 -us, -a, -um 형태와 동일하다.
+그런데 allius는 alter와 동일한 소유격 alterius, 여격 alteri를 사용한다. 복수형은 -us, -a, -um 형태와 동일하다.
