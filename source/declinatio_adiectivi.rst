@@ -419,7 +419,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 부정 형용사(불규칙 형용사)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-부정 형용사 또는 대명사적 형용사로 분류되는 unus, nullus, ullus, sollus, neuter, alter, uter, totus, alius 등 9개의 형용사는 대명사와 유사하게 소유격은 -īus, 여격은 -ī 형태로 불규칙 변화한다.
+부정 형용사(대명사적 형용사)로 분류되는 unus, nullus, ullus, sollus, neuter, alter, uter, totus, alius 등 9개의 형용사는 대명사와 유사하게 소유격은 -īus, 여격은 -ī 형태로 불규칙 변화한다.
 
 자세한 내용은 대명사 항목에서 다룬다.
 
