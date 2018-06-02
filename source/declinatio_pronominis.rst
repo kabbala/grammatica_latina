@@ -308,23 +308,25 @@ alius를 제외한 나머지 8개의 형용사 unus, nullus, ullus, sollus, neut
 
 uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하게 변화하지만 대명사로 분류한다.
 
-.. csv-table:: uterque, utraque, utrumque
+.. csv-table:: uterque, utraque, utrumque [*]_
    :header-rows: 1
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
-   :tsig:`nom.`, "uterque", "utr+a+que", "utr+um+que"
-   :tsig:`gen.`, "utr+īus+que", "utr+īus+que", "utr+īus+que"
-   :tsig:`dat.`, "utr+ī+que", "utr+ī+que", "utr+ī+que"
-   :tsig:`acc.`, "utr+um+que", "utr+am+que", "주격과 같음"
-   :tsig:`abl.`, "utr+ō+que", "utr+ā+que", "utr+ō+que"
+   :tsig:`nom. sg.`, "uterque", "utraque", "utrumque"
+   :tsig:`gen.`, "utrīusque", "utrīusque", "utrīusque"
+   :tsig:`dat.`, "utrīque", "utrīque", "utrīque"
+   :tsig:`acc.`, "utrumque", "utramque", "주격과 같음"
+   :tsig:`abl.`, "utrōque", "utrāque", "utrōque"
    :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
    "", "", "", ""
-   :tsig:`nom.`, "utr+ī+que", "utr+ae+que", "utr+a+que"
-   :tsig:`gen.`, "utr+ōrum+que", "utr+ārum+que", "utr+ōrum+que"
-   :tsig:`dat.`, "utr+īs+que", "utr+īs+que", "utr+īs+que"
-   :tsig:`acc.`, "utr+ōs+que", "utr+ās+que", "주격과 같음"
-   :tsig:`abl.`, "utr+īs+que", "utr+īs+que", "utr+īs+que"
+   :tsig:`nom. pl.`, "utrīque", "utraeque", "utraque"
+   :tsig:`gen.`, "utrōrumque", "utrārumque", "utrōrumque"
+   :tsig:`dat.`, "utrīsque", "utrīsque", "utrīsque"
+   :tsig:`acc.`, "utrōsque", "utrāsque", "주격과 같음"
+   :tsig:`abl.`, "utrīsque", "utrīsque", "utrīsque"
    :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
+
+.. [*] m이 n으로 바뀌어서 남성 목적격과 중성 주격이 uturu\ :em:`n`\que, 여성 목적격이 utra\ :em:`n`\que, 소유격 복수가 utroru\ :em:`n`\que, utraru\ :em:`n`\que 로 변화하기도 한다.
 
 -(i)us, -(i)a, -(i)ud
 ~~~~~~~~~~~~~~~~~~~~~
@@ -349,4 +351,4 @@ uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하�
    :tsig:`abl.`, "ali+īs", "ali+īs", "ali+īs"
    :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
 
-그런데 allius는 alter와 동일한 소유격 alterius, 여격 alteri를 사용한다. 복수형은 -us, -a, -um 형태와 동일하다.
+allius는 alter와 동일한 소유격 alterius, 여격 alteri를 사용한다. 복수형은 -us, -a, -um 형태와 동일하다.
