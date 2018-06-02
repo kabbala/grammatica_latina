@@ -255,15 +255,15 @@
 
 문법적 성질이 비슷한 다음 9개의 형용사는 변화 양상이 대명사와 같다.
 
-* ūnus, a, um 하나의
-* sōlus, a, um 오직 하나뿐인
-* tōtus, a, um 모든
-* nūllus, a, um 아무도 아닌
-* ūllus, a, um 어떤
-* alter, era, erum, 둘 중에 다른 쪽, 다른, 반대편
-* uter, ra, rum 둘 중에 하나, 둘 각각, 둘 모두
-* neuter, ra, rum 둘 다 아닌, 둘 중에 아무것도 아닌, 남성도 여성도 아닌
-* alius, a, ud 다른
+#. ūnus (하나의)
+#. sōlus (오직 하나뿐인)
+#. tōtus (모든)
+#. ūllus (어떤)
+#. nūllus (아무도 아닌)
+#. alter (둘 중에 다른)
+#. alius (다른)
+#. uter (둘 중에 하나, 둘 각각, 둘 모두)
+#. neuter (둘 다 아닌)
 
 .. note::
 
@@ -305,6 +305,15 @@
    :tsig:`voc.`, "주격과 같음", "주격과 같음", "주격과 같음"
 
 alius를 제외한 나머지 8개의 형용사 unus, nullus, ullus, sollus, neuter, alter, uter, totus 등이 이렇게 변화한다.
+
+* ūnus, ūna, ūnum 하나의
+* sōlus, sōla, sōlum 오직 하나뿐인
+* tōtus, tōta, tōtum 모든
+* ūllus, ūlla, ūllum 어떤
+* nūllus, nūlla, nūllum 아무도 아닌
+* alter, altera, alterum 둘 중에 다른 쪽, 다른, 반대편
+* uter, utra, utrum 둘 중에 하나, 둘 각각, 둘 모두
+* neuter, neutra, neutrum 둘 다 아닌, 둘 중에 아무것도 아닌, 남성도 여성도 아닌
 
 uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하게 변화하지만 대명사로 분류한다.
 
