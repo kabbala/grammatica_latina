@@ -19,3 +19,7 @@ http://kabbala.github.io/grammatica_latina 에서 웹판을 보실 수 있습니
 * GitHub Pages를 사용하기 위해 `gh-pages` 브랜치를 홈 디렉토리에 억지로 생성해서 자연스럽지 않습니다. 다른 방법을 찾고 있습니다.
 * 변화표를 자동으로 생성하는 스크립트를 써보고 싶습니다.
 * EPUB로도 보기좋게 나오도록 만들고 싶습니다.
+
+기타
+----
+* Microsoft가 GitHub를 인수했는데 계속 이용해도 될까요?
