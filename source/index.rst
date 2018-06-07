@@ -15,6 +15,12 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 품사
+
+   pars
+
+.. toctree::
+   :maxdepth: 2
    :caption: 변화
 
    declinatio_nominis/index
