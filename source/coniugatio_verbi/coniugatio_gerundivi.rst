@@ -32,6 +32,8 @@
    "I", "II", "III-o", "III-io", "IV"
    "am+andus/a/um", "ten+endus/a/um", "dūc+endus/a/um", "capi+endus/a/um", "audi+endus/a/um"
 
+제4변화의 어간모음 장음 ī도 단음 i로 표기한다.
+
 .. note::
    동형용사를 분사로 분류하기도 하나 여기서는 설명의 편의를 위해 독립된 항목으로 다룬다.
 
@@ -104,3 +106,5 @@
    :tsig:`acc.`, "audi+endum", "audi+endōs", "audi+endam", "audi+endās", "audi+endum", "audi+endōs"
    :tsig:`abl.`, "audi+endō", "audi+endīs", "audi+endā", "audi+endīs", "audi+endō", "audi+endīs"
    :tsig:`voc.`, "audi+ende", "audi+endī", "audi+enda", "audi+endae", "audi+endum", "audi+enda"
+
+어간모음 장음 ī도 단음 i로 표기한다.
