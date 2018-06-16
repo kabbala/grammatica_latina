@@ -12,5 +12,6 @@
    coniugatio_participii
    coniugatio_infinitivi
    coniugatio_perfecti
+   coniugatio_gerundivi
    coniugatio_gerundii
    coniugatio_coniunctivi
