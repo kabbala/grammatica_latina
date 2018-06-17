@@ -22,6 +22,8 @@
    :caption: 품사
 
    pars
+   substantivum
+   verbum
 
 .. toctree::
    :maxdepth: 2
