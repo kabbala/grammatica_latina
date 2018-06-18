@@ -36,6 +36,8 @@
 
 .. todo:: -os/-us가 -er로 쉽게 변화하는 것 설명할 것. Alexandros>Alexander
 
+.. todo:: 호격 단수에 따라 유형이 구분됨을 설명할 것.
+
 -us, -ī, :tsig:`m.`
 ~~~~~~~~~~~~~~~~~~~
 
@@ -627,4 +629,5 @@ vir, virī, :sig:`m.`
    :tsig:`abl.`, "phaenomen+ō", "phaenomen+īs"
    :tsig:`voc.`, "phaenomen+on", "phaenomen+a"
 
--os, -ī, :sig:`m. f.` 형태와 변화 양상이 동일하므로 하나로 묶어서 분류할 수도 있다.
+.. note::
+   -os, -ī, :sig:`m. f.` 형태와 변화 양상이 동일하므로 하나로 묶어서 분류할 수도 있다.
