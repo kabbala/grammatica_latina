@@ -7,6 +7,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m.(I)`, :tsig:`m.(II~IV)`, :tsig:`f.(I)`, :tsig:`f.(II~IV)`,:tsig:`n.(I)`, :tsig:`n.(II~IV)`
    :tsig:`nom. sg.`, "andus", "endus", "anda", "enda", "andum", "endum"
@@ -28,6 +29,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "I", "II", "III-o", "III-io", "IV"
    "am+andus/a/um", "ten+endus/a/um", "dūc+endus/a/um", "capi+endus/a/um", "audi+endus/a/um"
@@ -45,6 +47,7 @@
 
 .. csv-table:: amandus, a, um
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "am+andus", "am+andī", "am+anda", "am+andae", "am+andum", "am+anda"
@@ -59,6 +62,7 @@
 
 .. csv-table:: tenendus, a, um
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "ten+endus", "ten+endī", "ten+enda", "ten+endae", "ten+endum", "ten+enda"
@@ -73,6 +77,7 @@
 
 .. csv-table:: dūcendus, a, um
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "dūc+endus", "dūc+endī", "dūc+enda", "dūc+endae", "dūc+endum", "dūc+enda"
@@ -84,6 +89,7 @@
 
 .. csv-table:: capiendus, a, um
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "capi+endus", "capi+endī", "capi+enda", "capi+endae", "capi+endum", "capi+enda"
@@ -98,6 +104,7 @@
 
 .. csv-table:: audiendus, a, um
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "audi+endus", "audi+endī", "audi+enda", "audi+endae", "audi+endum", "audi+enda"

@@ -40,6 +40,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "소유격 복수형", "어간모음", "분류"
    "puell\ :em:`ārum`\ (소녀들의)", a, "제1변화"
@@ -62,6 +63,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "단수/sg.", "복수/pl."
    "주격/nom./1격/I", "", ""
@@ -77,6 +79,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "단수", "복수"
    "주격/(호격)", "", ""
@@ -114,6 +117,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "사전 표제어", "소유격 단수 어미", "분류"
    "puella, puellae", "-ae", "제1변화"

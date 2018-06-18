@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`
    :tsig:`nom.`, "-us/-ius/-er", "-ī"
@@ -45,6 +46,7 @@
 
 .. csv-table:: amīcus, ī, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "amīc+us", "amīc+ī"
@@ -58,6 +60,7 @@
 
 .. csv-table:: equus, ī, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "equ+um=eq\ :em:`uus`", "equ+ī"
@@ -93,6 +96,7 @@
 
 .. csv-table:: Rhēnus, ī, :tsig:`m. sg.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`
    :tsig:`nom.`, "Rhēn+us"
@@ -129,6 +133,7 @@
 
 .. csv-table:: Delphī, ōrum, :tsig:`m. pl.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`pl.`
    :tsig:`nom.`, "Delph+ī"
@@ -313,6 +318,7 @@ fīlius, fīliī, :sig:`m.`
 
 .. csv-table:: Brundisium, ī, :tsig:`n. sg.`
    :header-rows: 1
+   :widths: auto
 
    "", "sg."
    "nom.", "Brundisi+um"
@@ -593,6 +599,7 @@ vir, virī, :sig:`m.`
 
 .. csv-table:: Dēlos, ī, :tsig:`f. sg.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`
    :tsig:`nom.`, "Dēlos"
@@ -620,6 +627,7 @@ vir, virī, :sig:`m.`
 
 .. csv-table:: phaenomenon, ī, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`
    :tsig:`nom.`, "phaenomen+on", "phaenomen+a"

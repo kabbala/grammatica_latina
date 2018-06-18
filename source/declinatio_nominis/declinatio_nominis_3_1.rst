@@ -28,6 +28,7 @@ leo(:sig:`m.` 사자)의 경우처럼 어간에 -n이 추가되어 변화하는 
 
 .. csv-table:: leō, ōnis, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "leō", "leōn+ēs"
@@ -93,6 +94,7 @@ homo(:sig:`m.` 사람)처럼 어간에 -in이 추가되어 변화하는 경우. 
 
 .. csv-table:: homō, inis, :tsig:`m. f.` 사람
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "homō", "homin+ēs"
@@ -144,6 +146,7 @@ e가 탈락하는 경우
 
 .. csv-table:: pater, ris, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "pater", "patr+ēs"
@@ -206,14 +209,15 @@ x가 탈락하고 c, g가 나타나는 경우
 
 .. csv-table:: dux, ducis, :tsig:`m. f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "duc+s=dux", "duc+ēs"
+   :tsig:`nom.`, "duc+s = dux", "duc+ēs"
    :tsig:`gen.`, "duc+is", "duc+\ :em:`um`"
    :tsig:`dat.`, "duc+ī", "duc+ibus"
    :tsig:`acc.`, "duc+em", "duc+ēs"
    :tsig:`abl.`, "duc+\ :em:`e`", "duc+ibus"
-   :tsig:`voc.`, "duc+s=dux", "duc+ēs"
+   :tsig:`voc.`, "duc+s = dux", "duc+ēs"
 
 .. hlist::
    :columns: 2
@@ -242,14 +246,15 @@ x가 탈락하고 c, g가 나타나는 경우
 
 .. csv-table:: iūdex, icis, :sig:`m.` 심판, 재판
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "iudec+s=iūdex", "iūdic+ēs"
+   :tsig:`nom.`, "iudec+s = iūdex", "iūdic+ēs"
    :tsig:`gen.`, "iūdic+is", "iūdic+um"
    :tsig:`dat.`, "iūdic+ī", "iūdic+ibus"
    :tsig:`acc.`, "iūdic+em", "iūdic+ēs"
    :tsig:`abl.`, "iūdic+e", "iūdic+ibus"
-   :tsig:`voc.`, "iudec+s=iūdex", "iūdic+ēs"
+   :tsig:`voc.`, "iudec+s = iūdex", "iūdic+ēs"
 
 .. hlist::
    :columns: 2
@@ -274,14 +279,15 @@ x가 탈락하고 c, g가 나타나는 경우
 
 .. csv-table:: rēx, rēgis, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "rēg+s=rēx", "rēg+ēs"
+   :tsig:`nom.`, "rēg+s = rēx", "rēg+ēs"
    :tsig:`gen.`, "rēg+is", "rēg+\ :em:`um`"
    :tsig:`dat.`, "rēg+ī", "rēg+ibus"
    :tsig:`acc.`, "rēg+em", "rēg+ēs"
    :tsig:`abl.`, "rēg+\ :em:`e`", "rēg+ibus"
-   :tsig:`voc.`, "rēg+s=rēx", "rēg+ēs"
+   :tsig:`voc.`, "rēg+s = rēx", "rēg+ēs"
 
 .. hlist::
    :columns: 2
@@ -320,14 +326,15 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
 .. csv-table:: vēritās, vēritātis, :tsig:`f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "vēritāt+s=vēritās", "vēritāt+ēs"
+   :tsig:`nom.`, "vēritāt+s = vēritās", "vēritāt+ēs"
    :tsig:`gen.`, "vēritāt+is", "vēritāt+\ :em:`um`"
    :tsig:`dat.`, "vēritāt+ī", "vēritāt+ibus"
    :tsig:`acc.`, "vēritāt+em", "vēritāt+ēs"
    :tsig:`abl.`, "vēritāt+\ :em:`e`", "vēritāt+ibus"
-   :tsig:`voc.`, "vēritāt+s=vēritās", "vēritāt+ēs"
+   :tsig:`voc.`, "vēritāt+s = vēritās", "vēritāt+ēs"
 
 .. hlist::
    :columns: 2
@@ -348,6 +355,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
 .. csv-table:: virtūs, virtūtis, :tsig:`f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "virtūt+s=virtūs", "virtūt+ēs"
@@ -415,6 +423,7 @@ s가 결합할 때 자음이 겹쳐서 t가 탈락했다가, s가 사라지자 �
 
 .. csv-table:: praeceps, praecipitis, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "praeceps", "praecipit+\ :em:`ia`"
@@ -435,6 +444,7 @@ s가 결합할 때 자음이 겹쳐서 d가 탈락했다가, s가 사라지자 �
 
 .. csv-table:: pēs, pedis, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "pēds>pēs", "ped+ēs"
@@ -499,6 +509,7 @@ s가 탈락하는 경우
 
 .. csv-table:: prīnceps, prīncipis, :tsig:`m.` 첫째, 우두머리, 지도자
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "prīncep+s", "prīncip+ēs"
@@ -588,20 +599,20 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. csv-table:: flōs, flōris, :tsig:`m.` 꽃
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "flōs", "flōs+ēs=flōrēs"
-   :tsig:`gen.`, "flōs+is=flōris", "flōs+um=flōrum"
-   :tsig:`dat.`, "flōs+ī=flōrī", "flōs+ibus=flōribus"
-   :tsig:`acc.`, "flōs+em=flōrem", "flōs+ēs=flōrēs"
-   :tsig:`abl.`, "flōs+e=flōre", "flōs+ibus=flōribus"
-   :tsig:`voc.`, "flōs", "flōs+ēs=flōrēs"
+   :tsig:`nom.`, "flōs", "flōs+ēs = flōrēs"
+   :tsig:`gen.`, "flōs+is = flōris", "flōs+um = flōrum"
+   :tsig:`dat.`, "flōs+ī = flōrī", "flōs+ibus = flōribus"
+   :tsig:`acc.`, "flōs+em = flōrem", "flōs+ēs = flōrēs"
+   :tsig:`abl.`, "flōs+e = flōre", "flōs+ibus = flōribus"
+   :tsig:`voc.`, "flōs", "flōs+ēs = flōrēs"
 
 .. hlist::
    :columns: 2
 
    * flōs, flōris, :sig:`m.` 꽃
-   * fūr, fūris, :sig:`m.` 도둑
    * honōs, honōris, :sig:`m.` 명예(상고어. 고전어는 honor, honōris)
    * mōs, mōris, :sig:`m.` 관습
 
@@ -612,6 +623,7 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. csv-table:: corpus, oris, :tsig:`n.` 몸, 물질
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "corpus", "corpor+ēs"
@@ -633,8 +645,9 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. note::
 
-   이렇게 변화하는 아래 단어들은 -os 형태의 고형을 가지고 있다. 즉 ``-os``\가 ``-or``\로 로타키즘이 일어난 것으로 볼 수 있다.
+   이렇게 변화하는 아래 단어들은 ``-os`` 형태의 고형을 가지고 있다. 즉 ``-os``\가 ``-or``\로 변화하는 로타키즘이 일어난 것으로 볼 수 있다.
 
+      | \*korpos(이탈리아 조어) > corpus
       | \*pektos(이탈리아 조어) > pectus
       | \*tempos(인도유럽조어) > tempus
 
@@ -645,14 +658,15 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. csv-table:: crūs, crūris, :tsig:`n.` 다리, 아랫다리
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
-   :tsig:`nom.`, "crūs", "crūs+a=crūra"
-   :tsig:`gen.`, "crūs+is=crūris", "crūs+um=crūrum"
-   :tsig:`dat.`, "crūs+ī=crūrī", "crūs+ibus=crūribus"
-   :tsig:`acc.`, "crūs", "crūs+a=crūra"
-   :tsig:`abl.`, "crūs+e=crūre", "crūs+ibus=crūribus"
-   :tsig:`voc.`, "crūs", "crūs+a=crūra"
+   :tsig:`nom.`, "crūs", "crūs+a = crūra"
+   :tsig:`gen.`, "crūs+is = crūris", "crūs+um = crūrum"
+   :tsig:`dat.`, "crūs+ī = crūrī", "crūs+ibus = crūribus"
+   :tsig:`acc.`, "crūs", "crūs+a = crūra"
+   :tsig:`abl.`, "crūs+e = crūre", "crūs+ibus = crūribus"
+   :tsig:`voc.`, "crūs", "crūs+a = crūra"
 
 .. hlist::
    :columns: 2
@@ -685,6 +699,7 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. csv-table:: cōnsul, cōnsulis, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "cōnsul", "cōnsul+ēs"
@@ -777,6 +792,7 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
    * aethēr, aetheris, :sig:`m.`
    * augur, auguris, :sig:`m. f.` 조점사
    * carcer, carceris, :sig:`m.`
+   * fūr, fūris, :sig:`m.` 도둑
    * martyr, martyris, :sig:`m. f.` 증인, 순교자(중세 라틴어)
    * mulier, mulieris, :sig:`f.`
 
@@ -804,6 +820,7 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "amor", "amōr+ēs"
@@ -858,7 +875,6 @@ cf. 사고 판다는 뜻의 vēnus(:sig:`m.`)는 제4변화
    형태상 주격을 어간으로 그대로 사용하는 경우로 분류하였지만, 아래 단어들은 -ōs로 끝나는 고형을 가지고 있으므로 원래의 어간에서 s가 r로 바뀌는 로타키즘이 일어난 것으로 봐야 할 것이다.
 
       | colōs(상고 라틴어) > color
-      | \*dolos(인도유럽조어) > dolor
       | honōs(상고 라틴어) > honor
       | labōs(상고 라틴어) > labor
       | odōs(상고 라틴어) > odor
@@ -872,6 +888,7 @@ arbor(:sig:`f.` 나무)는 -or로 끝나는 주격이 그대로 어간으로 사
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "arbor", "arbor+ēs"
@@ -922,6 +939,7 @@ hiems, hiemis, :tsig:`f`
 
 .. csv-table:: hiems, hiemis, :tsig:`f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "hiem+s", "hiem+ēs"
@@ -963,6 +981,7 @@ vās(:sig:`n.` 그릇)은 -s로 끝나는 주격이 어간으로 그대로 쓰�
 
 .. csv-table:: vās, vāsis, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "vās", "vās+a"

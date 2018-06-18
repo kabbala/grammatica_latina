@@ -7,6 +7,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "현재 완료", "과거 완료", "미래 완료"
    :tsig:`1s`, "-ī", "-eram", "-erō"
@@ -22,6 +23,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", ":tsig:`pf.` sum", "과거 완료", ":tsig:`fut.` sum", "미래 완료"
    :tsig:`1s`, "eram", "-eram", "erō", "-erō"

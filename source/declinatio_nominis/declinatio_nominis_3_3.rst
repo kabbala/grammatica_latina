@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "-e, -al, -ar", "-:em:`ia`"
@@ -36,6 +37,7 @@ mare(:sig:`n.` 바다) 처럼 어간의 -e가 -is로 바뀌는 경우.
 
 .. csv-table:: animal, ālis, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "mare", "mar+\ :em:`ia`"
@@ -61,6 +63,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: animal, ālis, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "animal", "animāl+\ :em:`ia`"
@@ -86,6 +89,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: exemplar, āris, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "exemplar", "exemplār+\ :em:`ia`"
@@ -118,6 +122,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: baccar, aris, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "baccar", "baccar+\ :em:`a`"
@@ -132,6 +137,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: nectar, aris, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "nectar", "nectar+\ :em:`ia`"
@@ -145,6 +151,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: far, farris, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "far", "farr+\ :em:`a`"
@@ -159,6 +166,7 @@ animal(:sig:`n.` 동물)처럼 -al로 끝나는 경우.
 
 .. csv-table:: iubar, iubaris, :tsig:`n.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "iubar", "iubar+\ :em:`a`"

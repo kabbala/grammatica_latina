@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "과거(I)", "과거(II~IV)"
    :tsig:`1s`, "ā+ba+m", "ē+ba+m"
@@ -26,6 +27,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "과거(I)", "과거(II)", "과거(III-o)", "과거(III-io)", "과거(IV)"
    "1s", "am+ābam", "ten+ēbam", "dūc+ēbam", "capi+ēbam", "audi+ēbam"
@@ -41,6 +43,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    "어간모음", "ā", "ē", "∅", "i", "ī"

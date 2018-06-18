@@ -3,6 +3,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. f. sg.`, :tsig:`m. f. pl.`
    :tsig:`nom.`, "다양함", "-ēs"

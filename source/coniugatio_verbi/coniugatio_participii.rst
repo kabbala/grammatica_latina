@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "능동태", "수동태"
    "현재", "미완료형 어간+ē(ā [*]_)ns/e(a)ntis", "X"
@@ -28,6 +29,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. f.` (I), :tsig:`n.` (I), :tsig:`m. f.` (II~IV), :tsig:`n.` (II~IV)
    :tsig:`nom. sg.`, "-āns", "-āns", "-ēns", "-ēns"
@@ -50,6 +52,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    :tsig:`m. f. nom. sg.`, "amāns", "monēns", "dūcēns", "capiēns", "audiēns"
@@ -66,6 +69,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "-us", "-ī", "-a", "-ae", "-um", "-a"
@@ -81,6 +85,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    :tsig:`m. nom. sg.`, "amātus", "monitus", "ductus", "captus", "audītus"
@@ -99,6 +104,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "-ūrus", "-ūrī", "-ūra", "-ūrae", "-ūrum", "-ūra"
@@ -114,6 +120,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    :tsig:`m. nom. sg.`, "amātūrus", "monitūrus", "ductūrus", "captūrus", "audītūrus"

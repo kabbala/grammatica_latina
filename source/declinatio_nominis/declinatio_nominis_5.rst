@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`f. sg.`, :tsig:`f. pl.`
    :tsig:`nom.`, "-ēs", "-ēs"
@@ -39,6 +40,7 @@
 
 .. csv-table:: rēs, reī, :tsig:`f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "r+ēs", "r+ēs"

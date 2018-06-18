@@ -9,6 +9,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    "속격", "am+andī", "mon+endī", "dūc+endī", "capi+endī", "audi+endī"

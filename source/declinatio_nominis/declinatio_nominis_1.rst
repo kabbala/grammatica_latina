@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`f. sg.`, :tsig:`f. pl.`
    :tsig:`nom.`, "-a", "-ae"
@@ -38,6 +39,7 @@
 
 .. csv-table:: puella, ae, :tsig:`f.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "puella", "puell+ae"

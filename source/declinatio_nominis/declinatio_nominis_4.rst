@@ -5,6 +5,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`m. sg.`, :tsig:`m. pl.`
    :tsig:`nom.`, "-us", "-ūs"
@@ -33,6 +34,7 @@
 
 .. csv-table:: frūctus, ūs, :tsig:`m.`
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "frūct+us", "frūct+ūs"
@@ -89,6 +91,7 @@
 
 .. csv-table:: cornū, ūs. n.
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "cornū", "corn+ua"

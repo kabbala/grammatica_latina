@@ -25,6 +25,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "어간모음", "분류", "현재 부정사"
    "ā", "제1변화", "am\ :em:`ā`\ re(사랑하는 것)"
@@ -50,7 +51,8 @@
 
 동사의 어간 종류는 3가지로 나눈다.
 
-.. CSV-TABLE::
+.. csv-table::
+   :widths: auto
 
    "기본형", "amō(사랑하다)", "timeō(무서워하다)"
    "미완료형(현재형) 어간", "amā-", "timē-"
@@ -70,6 +72,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "기본형", "미완료형", "완료형", "분사형"
    "amō(I)", "amā-", "amāv-", "amāt-"
@@ -81,6 +84,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "기본형", "미완료형", "완료형", "분사형"
    "sonō(I)", "sonā-", "sonu-", "sonit-"

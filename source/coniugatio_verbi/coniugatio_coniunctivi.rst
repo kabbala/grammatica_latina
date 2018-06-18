@@ -28,6 +28,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    ":tsig:`1s`", "am+\ :em:`e`\+m", "tene+\ :em:`a`\+m", "dūc+\ :em:`a`\+m", "capi+\ :em:`a`\+m", "audi+\ :em:`a`\+m"
@@ -43,6 +44,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "직설법 미래(III-o)", "접속법 현재(III-o)", "직설법 미래(III-io)", "접속법 현재(III-io)", "직설법 미래(IV)", "접속법 현재(IV)"
    ":tsig:`1s`", "dūc\ :em:`am`", "dūc\ :em:`am`", "capi\ :em:`am`", "capi\ :em:`am`", "audi\ :em:`am`", "audi\ :em:`am`"
@@ -60,6 +62,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    ":tsig:`1s`", "amā+\ :em:`re`\+m", "tenē+\ :em:`re`\+m", "dūce+\ :em:`re`\+m", "cape+\ :em:`re`\+m", "audī+\ :em:`re`\+m"
@@ -73,6 +76,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "I", "II", "III-o", "III-io", "IV"
    "amāre", "tenēre", "dūcere", "capere", "audīre"
@@ -83,6 +87,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    ":tsig:`1s`", "amāv+\ :em:`eri`\+m", "tenu+\ :em:`eri`\+m", "dux+\ :em:`eri`\+m", "cēp+\ :em:`eri`\+m", "audīv+\ :em:`eri`\+m"
@@ -96,6 +101,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "직설법 미래 완료(I)", "접속법 현재 완료(I)"
    ":tsig:`1s`", "amāverō", "amāverim"
@@ -115,6 +121,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "I", "II", "III-o", "III-io", "IV"
    ":tsig:`1s`", "amāv+\ :em:`isse`\+m", "tenu+\ :em:`isse`\+m", "dūx+\ :em:`isse`\+m", "cēp+\ :em:`isse`\+m", "audīv+\ :em:`isse`\+m"
@@ -128,6 +135,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "I", "II", "III-o", "III-io", "IV"
    "amāvisse", "tenuisse", "dūxisse", "cēpisse", "audīvisse"

@@ -8,6 +8,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "미래(I, II)", "미래(III, IV)"
    "1s", "-bō", "-am"
@@ -24,6 +25,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "미래(I)", "미래(II)", "미래(III-o)", "미래(III-io)", "미래(IV)"
    "1s", "amā+bō", "tenē+bō", "dūc+am", "capi+am", "audi+am"
@@ -41,6 +43,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", "doceō(Ⅱ) :tsig:`praes.`", "dīcō(Ⅲ-o) :tsig:`fut.`"
    "1s", "doc\ **eō**", "dīc\ **am**"
