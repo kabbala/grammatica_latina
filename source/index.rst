@@ -36,7 +36,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 부록
+   :caption: 참고자료
 
    liber
    interrete
