@@ -7,7 +7,7 @@
 
 .. [Andrews] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849.
 
-.. [AnG] Allen & Greenough, :title-reference:`A Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903.
+.. [AnG] Allen & Greenough, :title-reference:`New Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903.
 
 .. [Cassell] :ref:`Cassell's Latin Dictionary`, 1904.
 

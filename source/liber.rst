@@ -35,7 +35,7 @@
 
 기존의 도식적인 문법 설명을 탈피해 1과부터 쉽게 라틴어를 읽고 해석할 수 있도록 지도하는 것이 이 책의 특징이다. 또한 교재로 널리 사용되기 때문에 인터넷 등에서 참고자료를 쉽게 찾을 수 있는 것이 장점이다.
 
-한국어 번역은 아래와 같다. 위키백과에는 6판부터 한국어 번역이 출간된 것으로 서술되어 있으나, 그 이전 판도 번역판이 있다.
+한국어 번역은 아래와 같다. 위키백과에는 6판부터 한국어 번역이 출간된 것으로 서술되어 있으나, 그 이전 판도 번역판이 있다. [https://en.wikipedia.org/w/index.php?title=Wheelock%27s_Latin&oldid=821043959]
 
    -  이영근 옮김, 『라틴어문법』(서울: 크리스챤 다이제스트, 1994) — 4판
       번역.
@@ -100,18 +100,18 @@ Kennedy, :title-reference:`The Revised Latin Primer`
 
 :title-reference:`The Elementary Latin Primer`\(1843)—:title-reference:`The Public School Latin Primer`\(1866)—:title-reference:`The Public School Grammar`\(1871)로 이어지는 ‘Primer’ 시리즈의 마지막이다. [*]_
 
-1930년에 개정판이 나왔으며, 지금까지도 책이 팔리고 있다. 1906년판이 인터넷에 공개되어 있다.
+1930년에 개정판이 나왔으며, 지금까지도 책이 팔리고 있다. 1906년판이 인터넷에 공개되어 있다. <https://archive.org/details/revisedlatinprim00kenniala>
 
 .. [*] 사후에 라틴어 학자인 둘째 딸 마리온(Marion)이 본인과 동생, 몇몇 학생이 이 책을 썼다고 증언했다.
 
 .. [*] 알렌(Joseph Henry Allen)이 쓴 :title-reference:`A Latin Primer`\(1870)라는 책도 있다.
 
-Allen & Greenough, :title-reference:`A Latin Grammar`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Allen & Greenough, :title-reference:`New Latin Grammar`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-1872년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [*]_
+1888년에 출간된 라틴어 문법책으로, 저자 둘 모두 하버드 대학을 졸업하고 라틴어를 강의했다. [*]_
 
-인터넷에 1903년판이 공개되어있다.
+인터넷에 1903년판이 공개되어있다. <https://archive.org/details/allengreenoughsn00alleiala>
 
 .. [*] 알렌은 목사로 더 많은 활동을 한 것으로 알려져 있다. 하버드 대학의 설립 목적이 목사 양성이기도 했다.
 
@@ -125,7 +125,9 @@ Allen & Greenough, :title-reference:`A Latin Grammar`
 
 1968년에 나온 고전 라틴어 위주의 라틴어-영어 대사전으로, 가장 권위있는 라틴어 사전 중에 하나이다.
 
-1968년판이 인터넷에 공개되어 있으며, 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어진 제2판이 2012년에 출간되었다.
+2012년에 제2판이 나왔는데, 책이 두꺼워서 잘 찢어진다는 의견이 많아 2권으로 나누어서 출간되었다.
+
+1968년판이 인터넷에 공개되어 있다. <https://archive.org/details/OxfordLatinDictionary_201708>
 
 .. _Cassell's Latin Dictionary:
 
@@ -134,7 +136,7 @@ Allen & Greenough, :title-reference:`A Latin Grammar`
 
 1854년 나온 라틴어-영어, 영어-라틴어 중사전으로, 판을 거듭하면서 현재까지 인기있는 사전이다.
 
-1904년판이 인터넷에 공개되어 있다.
+1904년판이 인터넷에 공개되어 있다. <https://archive.org/details/cassellslatindic00marc>
 
 .. _Lewis & Short, A Latin Dictionary:
 
