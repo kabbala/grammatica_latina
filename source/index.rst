@@ -7,6 +7,7 @@
 ####
 
 .. toctree::
+   :maxdepth: 2
 
    prooemium
 
@@ -16,6 +17,12 @@
 
    introductio/divisio
    introductio/graecus
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 문자와 발음
+
+   abecedarium
 
 .. toctree::
    :maxdepth: 2
