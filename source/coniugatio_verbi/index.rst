@@ -15,3 +15,4 @@
    coniugatio_gerundivi
    coniugatio_gerundii
    coniugatio_coniunctivi
+   paradigma_verbi
