@@ -5,6 +5,7 @@
 .. toctree::
 
    coniugatio_verbi
+   stem
    coniugatio_praesentis
    coniugatio_imperativi_praesentis
    coniugatio_imperfecti
