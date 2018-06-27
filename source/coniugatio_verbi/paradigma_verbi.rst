@@ -25,6 +25,8 @@
 
 .. |분사형 어간| replace:: 분사형 어간은 과거, 미래 분사와 목적분사에서만 사용한다.
 
+.. |수동태 미완료형| replace:: 수동태 미완료형을 만드는 방법은 능동태 미완료형과 동일하다.
+
 .. todo:: 어미만 변화표로 정리할 것.
 
 능동태 직설법 미완료형
@@ -132,6 +134,63 @@
    amārēmus, tenērēmus, ducerēmus, caperēmus, audīrēmus
    amārētis, tenērētis, ducerētis, caperētis, audīrētis
    amārent, tenerent, dūcerent, caperent, audīrent
+
+수동태 직설법 미완료형
+----------------------
+
+수동태 현재
+~~~~~~~~~~~
+
+* ``어간``\+\ ``어미``
+* |수동태 미완료형|
+* |3인칭 복수 unt|
+* |제3변화 연결모음|
+
+.. csv-table::
+   :widths: auto
+
+   amor
+   amāris(amāre)
+   amātur
+   amāmur
+   amāminī
+   amantur
+
+수동태 과거
+-----------
+
+* ``어간``\+\ ``ē``\+\ ``bā``\+\ ``어미``
+* |a/e|
+* |장음과 장음|
+
+.. csv-table::
+   :widths: auto
+
+   amābar
+   amābāris(amābāre)
+   amābātur
+   amābāmur
+   amābāminī
+   amābantur
+
+수동태 미래
+~~~~~~~~~~~
+
+* I, II: ``어간``\+\ ``bi``\+\ ``어미``
+* III, IV: ``어간``\+\ ``ē``\+\ ``어미``
+* |미래|
+* |3인칭 복수 unt|
+* |장음과 장음|
+
+.. csv-table::
+   :widths: auto
+
+   amābor, tenēbor, "\|"
+   amāberis(amābere), tenēberis(tenēbere), "\|"
+   amābitur, tenēbitur, "\|"
+   amābimur, tenēbimur, "\|"
+   amābiminī, tenēbiminī, "\|"
+   amā\ **buntur**, tenē\ **buntur**, "\|"
 
 능동태 직설법 완료형
 --------------------
