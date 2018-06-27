@@ -387,6 +387,7 @@ ambabus
    * epitomē, epitomēs, :sig:`f.` (cf. epitoma, epitomae)
    * nymphē, nyymphēs, :sig:`f.` 소녀, 님프 (cf. nympha, nymphae)
    * Pēnelopē, Pēnelopēs, :sig:`f. sg.` 그리스어 Pēnelópē
+   * Persephonē, Persephonēs, :sig:`f. sg.` 그리스어 Pēnelópē
 
 .. note:: 규칙 변화하는 라틴어형 형태를 가지고 있는 경우도 있다.
 
