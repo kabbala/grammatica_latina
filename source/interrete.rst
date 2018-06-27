@@ -4,7 +4,7 @@
 Wikitionary
 -----------
 
-https://en.wiktionary.org
+<https://en.wiktionary.org>
 
 라틴어 사전이 아니라 모든 언어의 사전이다. 그러나 라틴어 단어에 대한 설명과 변화표가 비교적 자세하다. 특히 영어 Wikitionary가 내용이 풍부하다.
 
@@ -15,7 +15,7 @@ https://en.wiktionary.org
 살아있는 라틴어 사전
 --------------------
 
-https://latina.bab2min.pe.kr
+<https://latina.bab2min.pe.kr>
 
 개인이 만든 라틴어-한글 사전. 인터넷에 참고할만한 라틴어-한글 사전이 없어서 직접 만들었다고 한다.
 
@@ -26,7 +26,7 @@ https://latina.bab2min.pe.kr
 네이버 라틴어사전
 -----------------
 
-https://dict.naver.com/lakodict/
+<https://dict.naver.com/lakodict/>
 
 검색 서비스인 네이버에서 제공하는 라틴어-한글 사전으로, 허창덕 신부가 편집한 『라틴-한글 사전』을 온라인으로 서비스 하는 것이다.
 
