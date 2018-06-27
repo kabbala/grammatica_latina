@@ -55,7 +55,7 @@
 
    | puella, ~ae, :sig:`f.` [Oxford]_
    | puella, -ae :sig:`f.` [CLDG2]_
-   | pŭella, ae, :sig:`f.` [*]_ [LnS]_
+   | pŭella, ae, :sig:`f.` [*]_ [Lewis & Short]
 
 .. [*] u에만 단음 표시가 되어있지만, e와 a 역시 단음이다. 일부 사전에서는 자명한 발음에 대해서는 모음의 장단 표시를 하지 않기도 한다.
 

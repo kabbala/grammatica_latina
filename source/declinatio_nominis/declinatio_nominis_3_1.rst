@@ -159,7 +159,7 @@ e가 탈락하는 경우
 사전 표제어는 다음 형태로 쓴다.
 
    | pater, ~tris, m. [Oxford]_
-   | pătĕr, tris, m. [LnS]_
+   | pătĕr, tris, m. [Lewis & Short]
    | păter, tris, m. [Gaffiot]_
    | pater, -ris m [CLDG2]_
 

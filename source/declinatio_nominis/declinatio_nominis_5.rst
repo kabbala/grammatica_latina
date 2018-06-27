@@ -53,7 +53,7 @@
 사전 표제어는 아래와 같은 형태이다.
 
    | spēs, speī f [CLDG2]_
-   | spes, spēi, f. [LnS]_
+   | spes, spēi, f. [Lewis & Short]
    | spēs, spĕi, f. [Gaffiot]_
    | spēs, ~eī, f. [Oxford]_
    | spēs, -ĕi, f. [Cassell]_

@@ -186,7 +186,7 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
 
   | bonus, ~a, ~um, a. [Gaffiot]_
   | bŏnus, a, um, adj. [Oxford]_
-  | bŏnus, a, um [LnS]_
+  | bŏnus, a, um [Lewis & Short]
   | bonus adj [*]_ [CLDG2]_
 
 .. [*]  -us로 끝나는 형용사는 규칙변화하는 제1·2변화 형용사이므로 남성 주격만 제시한 경우.
@@ -274,7 +274,7 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
 
 사전 표제어는 다음과 같은 형태로 표기한다. -er로 끝나는 규칙변화이므로 소유격으로 e가 탈락하는지 여부만 표시하는 경우도 있다.
 
-   | pulcher, chra, chrum, adj. [LnS]_
+   | pulcher, chra, chrum, adj. [Lewis & Short]
    | pulcher, ~chra, ~chrum, adj. [Oxford]_
    | pulcher, a, um [*]_
    | pulcher, -rī adj [CLDG2]_
@@ -324,7 +324,7 @@ mortuus처럼 어간이 -u로 끝나서 어미의 u와 겹치는 경우에는 u�
 
    | lībĕr, bĕra, bĕrum [Gaffiot]_
    | līber, ~era, ~erum. a. [Oxford]_
-   | līber, ĕra, ĕrum, adj. [LnS]_
+   | līber, ĕra, ĕrum, adj. [Lewis & Short]
    | līber, a, um [*]_
    | līber, -ī adj [CLDG2]_
 
@@ -389,7 +389,8 @@ dexter(오른손의, 길한)는 주격의 e가 탈락하지 않고 변할 수도
 
 .. [*] dexterabus 형태는 사용되지 않는다.
 
-.. note:: dextrabus가 이렇게 변화하는 것은 좌우 한 쌍이기 때문에 ambabus, duabus와 같은 쌍수(雙數)의 영향으로 추측하기도 한다. [Ivy Livingston, :title-reference:`A Linguistic Commentary on Livius Andronicus`, 2004.]
+.. note::
+   dextrabus가 이렇게 변화하는 것은 좌우 한 쌍이기 때문에 ambabus, duabus와 같은 쌍수(雙數)의 영향으로 추측하기도 한다. [Ivy Livingston, :title-reference:`A Linguistic Commentary on Livius Andronicus`, 46 dextrābus, 2004.]
 
 satur, satura, saturum
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -507,7 +508,7 @@ satur(배부른)는 남성 주격을 그대로 어간으로 사용하여 규칙�
 사전 표제어는 다음과 같은 형태를 쓴다. 3개의 표제어를 쓰기도 하지만 중복되는 단어를 생략하고 2개의 표제어만 사용하는 경우가 많다.
 
    | dulcis, ~is, ~e, a. [Oxford]_
-   | dulcis, e, adj. [LnS]_
+   | dulcis, e, adj. [Lewis & Short]
    | dulcis, e [Gaffiot]_
    | dulcis, -e, adj. [Cassell]_
    | dulcis adj [*]_ [CLDG2]_
@@ -587,7 +588,7 @@ e가 탈락하는 경우
 
 사전 표제어는 다음과 같은 형태로 표기한다.
 
-   | cĕlĕber, ē̆bris, ē̆bre, adj. [LnS]_
+   | cĕlĕber, ē̆bris, ē̆bre, adj. [Lewis & Short]
    | cĕlĕber, bris, bre [Gaffiot]_
    | celeber, ~bris, ~bre, a. [Oxford]_
    | celeber, -ris  adj [CLDG2]_
@@ -639,7 +640,7 @@ x가 탈락하고 c가 붙는 경우
 사전 표제어는 다음과 같은 형태로 표기한다. 세 단어가 모두 같으므로 사전에는 명사와 마찬가지로 주격과 소유격 단수로 표기한다.
 
    | fēlīx, īcis [Gaffiot]_
-   | fēlix, īcis, adj. [LnS]_
+   | fēlix, īcis, adj. [Lewis & Short]
    | fēlix, ~īcis, a. [Oxford]_
 
 .. hlist::
@@ -871,7 +872,7 @@ s가 r로 바뀌는 경우
 
 사전 표제어는 다음과 같은 형태를 쓴다. 3개의 표제어를 쓰기도 하지만 중복되는 단어를 생략하고 변화형인 소유격을 쓰는 경우가 많다.
 
-   | vĕtus, ĕris, adj. [LnS]_
+   | vĕtus, ĕris, adj. [Lewis & Short]
    | vĕtus, -ĕris, adj. [Cassell]_
    | vetus, -eris, adj [CLDG2]_
    | uetus, ~eris, a. [Oxford]_

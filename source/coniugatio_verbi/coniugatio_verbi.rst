@@ -18,7 +18,8 @@
 
 인칭은 숫자 1, 2, 3으로, 단수는 s(singularis), 복수는 p(pluralis)를 이용해 기호로 표기하기도 한다. 예를 들어 3인칭 단수는 3s로 표기한다.
 
-.. note::  그리스어나 로망스어에서는 인칭대명사와 함께 동사의 변화를 표기하는 것이 일반적인데, 라틴어에서는 인칭 대명사의 생략이 일반적이어서 인칭대명사 없이 표를 만든다.
+.. note::
+   그리스어나 로망스어에서는 인칭대명사와 함께 동사의 변화를 표기하는 것이 일반적인데, 라틴어에서는 인칭 대명사의 생략이 일반적이어서 인칭대명사 없이 표를 만든다.
 
 사전 표제어
 ~~~~~~~~~~~
@@ -46,7 +47,7 @@
    | amō, -āre, -āvī, -ātum vt [CLDG2]_
    | amō, ~āre, ~āuī, ~ātum, :abbr:`tr. (transitive)`, :abbr:`intr. (intransitive)` [Oxford]_
    | ămo, āvī, ātum, āre, tr. [Gaffiot]_
-   | ămo, āvi, ātum, 1, v. :abbr:`a. (active)` [LnS]_
+   | ămo, āvi, ātum, 1, v. :abbr:`a. (active)` [Lewis & Short]
    | ămo, 1. [*]_ [Cassell]_
 
 .. [*] 제1변화하는 규칙변화 동사임을 의미한다.
@@ -56,7 +57,7 @@
     | timeō, -ēre, -uī vt, vi [CLDG2]_
     | timeō, uī, —, ēre [Lewis]_
     | tĭmĕo, ŭi, ēre, tr. [Gaffiot]_
-    | tĭmĕo, ŭi, 2, v. a. [LnS]_
+    | tĭmĕo, ŭi, 2, v. a. [Lewis & Short]
     | tĭmĕo, ŭi, 2. [Cassell]_
 
     | āiō, intr., tr. defec. [Oxford]_

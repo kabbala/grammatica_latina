@@ -154,9 +154,11 @@ Lewis & Short, :title-reference:`A Latin Dictionary`
 
 1879년에 나온 라틴어-영어 대사전으로, 편집자인 루이스(Charlton T. Lewis)와 쇼트(Charles Short)의 이름을 따서 ‘루이스 앤 쇼트’(Lewis & Short)로도 불린다. 원제는 :title-reference:`Harpers' Latin Dictionary: A New Latin Dictionary Founded on the Translation of Freund's Latin-German Lexicon Edited by E. A. Andrews`\이다. [*]_
 
-라틴어-독일어 사전을 번역한 것을 기반으로 하였으며, 20세기 초까지 큰 인기를 누렸다고 한다. 그러나 이후 개정되지 않았다. 중세 라틴어와 후기 라틴어가 많이 실려있는 것이 특징이라는 위키백과의 설명이 있다.
+라틴어-독일어 사전을 번역한 것을 기반으로 하였으며, 20세기 초까지 큰 인기를 누렸다고 한다. 중세 라틴어와 후기 라틴어가 많이 실려있는 것이 특징이라는 위키백과의 설명이 있다.
 
 Oxford University Press에서 `Oxford Latin Dictionary`_\를 만들려다 포기하고 이 사전을 도입 후 나중에 다시 만들게 되기 때문에 두 사전이 함께 언급되기도 한다.
+
+여러 편집자와 번역자를 거치고 출판 과정에서도 원고 소실과 판권 매각 등의 우여곡절이 많아서인지 많은 인기를 얻었음에도 이후 개정판이 나오지 않았다.
 
 현재 1891년판이 인터넷에 공개되어 있고, 온라인으로 서비스 되는 등 다양하게 사용되고 있어서 쉽게 접할 수 있다.
 

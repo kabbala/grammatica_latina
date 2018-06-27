@@ -73,7 +73,7 @@
 사전 표제어는 아래와 같은 형태이다.
 
    | amīcus ~ī, :sig:`m.` [Oxford]_
-   | ămīcus, i, m. [*]_ [LnS]_
+   | ămīcus, i, m. [*]_ [Lewis & Short]
    | ămīcus, :sig:`ī`, m. [Gaffiot]_
 
 .. [*] u와 i에는 모음의 장단을 표시하지 않은 것. 일부 사전에서는 어미처럼 장단이 자명한 모음에는 장단은 표시하지 않기도 한다.
@@ -408,7 +408,7 @@ puer, puerī, :sig:`m.`
 사전 표제어는 다음과 같다.
 
   | pŭĕr, ĕri, m. [Gaffiot]_
-  | puĕr, ĕri, m. [LnS]_
+  | puĕr, ĕri, m. [Lewis & Short]
   | puer, ~erī, m. [Oxford]_
   | puer -i, m. [Cassell]_
   | puer, -ī m [CLDG2]_
