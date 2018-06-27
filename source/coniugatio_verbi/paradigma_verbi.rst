@@ -1,11 +1,11 @@
 동사 변화 정리
 ==============
 
-.. |어미 장음| replace:: 1p, 2s, 2p에서 어미 앞 장음. 현재(III), 현재 완료, 미래 완료 제외. 완료형 어미 앞에 사용되는 ``-i-``\는 접속법 현재 완료를 제외하고는 장음이 되지 않는다.
+.. |어미 장음| replace:: 1p, 2s, 2p에서 어미 앞 장음. 현재(III), 미래(I~II), 현재 완료, 미래 완료 제외. 완료형 어미 앞에 사용되는 ``-i-``\는 접속법 현재 완료를 제외하고는 장음이 되지 않는다.
 
 .. |3인칭 복수 unt| replace:: 현재(III~IV), 미래(I~II), 현재 완료, 명령법 미래(III~IV) 3p에 unt 사용.
 
-.. |제3변화 연결모음| replace:: 제3변화 연결모음은 접속법 과거, 명령법 현재 2s에서 ``-e-``, 직설법 현재, 명령법에서 ``-i-``, 나머지는 어간모음 ø, i를 사용. 제3변화 연결모음 i는 장음으로 쓰이지 않는다.
+.. |제3변화 연결모음| replace:: 제3변화 연결모음은 현재, 명령법에서 ``-i-``, 접속법 과거, 명령법 현재 2s에서 ``-e-``\를 사용한다. 나머지는 어간모음 ø, i를 사용한다. 제3변화 연결모음 i는 장음으로 쓰이지 않는다.
 
 .. |장음과 장음| replace:: 장음인 어간모음과 장음인 어미가 만나면 앞의 어간모음이 단음이 된다. 어미가 단음이 되도 앞의 어간모음이 장음이 되지 않는다. 예외적으로 제5변화 명사의 소유격/여격인 ``-iēī``\가 있다.
 
@@ -27,8 +27,8 @@
 
 .. todo:: 어미만 변화표로 정리할 것.
 
-능동태 직설법
--------------
+능동태 직설법 미완료형
+----------------------
 
 현재
 ~~~~
@@ -92,6 +92,50 @@
    amābitis, tenēbitis, "\|", dūcētis, capiētis, audiētis
    amābunt, tenēbunt, "\|", dūcent, capient, audient
 
+능동태 접속법 미완료형
+----------------------
+
+접속법 현재
+~~~~~~~~~~~
+
+* ``어간``\+\ ``ā``\+\ ``어미``
+* |어미 장음|
+* |1인칭 단수 m|
+* |a/e|
+* |장음과 장음|
+
+.. csv-table::
+   :widths: auto
+
+   amem, teneam, dūcam, capiam, audiam
+   amēs, teneās, dūcās, capiās, audiās
+   amet, teneat, dūcat, capiat, audiat
+   amēmus, teneāmus, dūcāmus, capiāmus, audiāmus
+   amētis, teneātis, dūcātis, capiātis, audiātis
+   ament, teneant, ducant, capiant, audiant
+
+접속법 과거
+~~~~~~~~~~~
+
+* ``어간``\+\ ``rē``\+\ ``어미``
+* |어미 장음|
+* |1인칭 단수 m|
+* |a/e|
+* |제3변화 연결모음|
+
+.. csv-table::
+   :widths: auto
+
+   amārem, tenērem, dūcerem, caperem, audīrem
+   amārēs, tenērēs, dūcerēs, caperēs, audīrēs
+   amāret, tenēret, dūceret, caperet, audīret
+   amārēmus, tenērēmus, ducerēmus, caperēmus, audīrēmus
+   amārētis, tenērētis, ducerētis, caperētis, audīrētis
+   amārent, tenerent, dūcerent, caperent, audīrent
+
+능동태 직설법 완료형
+--------------------
+
 현재 완료
 ~~~~~~~~~
 
@@ -148,46 +192,8 @@
 
 * |직설법 미래 완료/접속법 현재 완료|
 
-능동태 접속법
--------------
-
-접속법 현재
-~~~~~~~~~~~
-
-* ``어간``\+\ ``ā``\+\ ``어미``
-* |어미 장음|
-* |1인칭 단수 m|
-* |a/e|
-* |장음과 장음|
-
-.. csv-table::
-   :widths: auto
-
-   amem, teneam, dūcam, capiam, audiam
-   amēs, teneās, dūcās, capiās, audiās
-   amet, teneat, dūcat, capiat, audiat
-   amēmus, teneāmus, dūcāmus, capiāmus, audiāmus
-   amētis, teneātis, dūcātis, capiātis, audiātis
-   ament, teneant, ducant, capiant, audiant
-
-접속법 과거
-~~~~~~~~~~~
-
-* ``어간``\+\ ``rē``\+\ ``어미``
-* |어미 장음|
-* |1인칭 단수 m|
-* |a/e|
-* |제3변화 연결모음|
-
-.. csv-table::
-   :widths: auto
-
-   amārem, tenērem, dūcerem, caperem, audīrem
-   amārēs, tenērēs, dūcerēs, caperēs, audīrēs
-   amāret, tenēret, dūceret, caperet, audīret
-   amārēmus, tenērēmus, ducerēmus, caperēmus, audīrēmus
-   amārētis, tenērētis, ducerētis, caperētis, audīrētis
-   amārent, tenerent, dūcerent, caperent, audīrent
+능동태 접속법 완료형
+--------------------
 
 접속법 현재 완료
 ~~~~~~~~~~~~~~~~
