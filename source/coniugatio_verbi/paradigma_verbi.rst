@@ -92,7 +92,7 @@
    amābit, tenēbit, "\|", dūcet, capiet, audiet
    amābimus, tenēbimus, "\|", dūcēmus, capiēmus, audiēmus
    amābitis, tenēbitis, "\|", dūcētis, capiētis, audiētis
-   amābunt, tenēbunt, "\|", dūcent, capient, audient
+   amā\ **bunt**, tenē\ **bunt**, "\|", dūcent, capient, audient
 
 능동태 접속법 미완료형
 ----------------------
@@ -143,54 +143,100 @@
 
 * ``어간``\+\ ``어미``
 * |수동태 미완료형|
+* |어미 장음|
 * |3인칭 복수 unt|
 * |제3변화 연결모음|
 
 .. csv-table::
    :widths: auto
 
-   amor
-   amāris(amāre)
-   amātur
-   amāmur
-   amāminī
-   amantur
+   amor, teneor, dūcor, capior, audior
+   amāris(amāre), tenēris(tenēre), duc\ **eris**\(duc\ **ere**\), cap\ **eris**\(cap\ **ere**), audīris(audīre)
+   amātur, tenētur, dūcitur, capitur, audītur
+   amāmur, tenēmur, dūcimur, capimur, audīmur
+   amāminī, tenēminī, dūciminī, capiminī, audīmini
+   amantur, tenentur, dūc\ **untur**, capi\ **untur**, audi\ **untur**
 
 수동태 과거
 ~~~~~~~~~~~
 
 * ``어간``\+\ ``ē``\+\ ``bā``\+\ ``어미``
+* |수동태 미완료형|
+* |어미 장음|
 * |a/e|
 * |장음과 장음|
 
 .. csv-table::
    :widths: auto
 
-   amābar
-   amābāris(amābāre)
-   amābātur
-   amābāmur
-   amābāminī
-   amābantur
+   amābar, tenēbar, dūcēbar, capiēbar, audiēbar
+   amābāris(amābāre), tenēbāris(tenēbāre), dūcēbāris(dūcēbāre), capiēbāris(capiēbāre), audiēbāris(audiēbāre)
+   amābātur, tenēbātur, dūcēbātur, capiēbātur, audiēbātur
+   amābāmur, tenēbāmur, dūcēbāmur, capiēbāmur, audiēbāmur
+   amābāminī, tenēbaminī, dūcēbāminī, capiēbāminī, audiēbāminī
+   amābantur, tenēbantur, dūcēbantur, capiēbantur, audiēbantur
 
 수동태 미래
 ~~~~~~~~~~~
 
 * I, II: ``어간``\+\ ``bi``\+\ ``어미``
 * III, IV: ``어간``\+\ ``ē``\+\ ``어미``
+* |수동태 미완료형|
 * |미래|
+* |어미 장음|
 * |3인칭 복수 unt|
 * |장음과 장음|
 
 .. csv-table::
    :widths: auto
 
-   amābor, tenēbor, "\|"
-   amāberis(amābere), tenēberis(tenēbere), "\|"
-   amābitur, tenēbitur, "\|"
-   amābimur, tenēbimur, "\|"
-   amābiminī, tenēbiminī, "\|"
-   amā\ **buntur**, tenē\ **buntur**, "\|"
+   amābor, tenēbor, "\|", dūcar, capiar, audiēar
+   amā\ **beris**\(amā\ **bere**\), tenē\ **beris**\(tenē\ **bere**\), "\|", dūcēris(dūcēre), capiēris(capiēre), audiēris(audiēre)
+   amābitur, tenēbitur, "\|", dūcētur, capiētur, audiētur
+   amābimur, tenēbimur, "\|", dūcēmur, capiēmur, audiēmur
+   amābiminī, tenēbiminī, "\|", dūcēminī, capiēminī, audiēminī
+   amā\ **buntur**, tenē\ **buntur**, "\|", dūcentur, capientur, audientur
+
+수동태 접속법 미완료형
+----------------------
+
+수동태 접속법 현재
+~~~~~~~~~~~~~~~~~~
+
+* ``어간``\+\ ``ā``\+\ ``어미``
+* |수동태 미완료형|
+* |어미 장음|
+* |a/e|
+* |장음과 장음|
+
+.. csv-table::
+   :widths: auto
+
+   amer, tenear, dūcar, capiar, audiar
+   amēris(amēre), teneāris(teneāre), dūcāris(dūcāre), capiāris(capiāre), audiāris(audiāre)
+   amētur, teneātur, dūcātur, capiātur, audiātur
+   amēmur, teneāmur, dūcāmur, capiāmur, audiāmur
+   amēminī, teneāminī, dūcāminī, capiāminī, audiāminī
+   amentur, teneantur, ducantur, capiantur, audiantur
+
+수동태 접속법 과거
+~~~~~~~~~~~~~~~~~~
+
+* ``어간``\+\ ``rē``\+\ ``어미``
+* |수동태 미완료형|
+* |어미 장음|
+* |a/e|
+* |제3변화 연결모음|
+
+.. csv-table::
+   :widths: auto
+
+   amārer, tenērer, dūcerer, caperer, audīrer
+   amārēris(amārēre), tenērēris(tenērēre), dūcerēs(dūcerēre), caperēris(caperēre), audīrēris(audīrēre)
+   amārētur, tenērētur, dūcerētur, caperētur, audīrētur
+   amārēmur, tenērēmur, ducerēmur, caperēmur, audīrēmur
+   amārēminī, tenērēminī, ducerēminī, caperēminī, audīrēminī
+   amārentur, tenerentur, dūcerentur, caperentur, audīrentur
 
 능동태 직설법 완료형
 --------------------
@@ -294,8 +340,8 @@
 
 * |접속법에는 미래가 없다|
 
-능동태 명령법
--------------
+명령법
+------
 
 명령법 현재
 ~~~~~~~~~~~
@@ -321,12 +367,13 @@
    2p, amātōte, tenētōte, dūcitōte, capitōte, audītōte
    3p, amāntō, tenentō, dūcuntō, capiuntō, audiuntō
 
-수동태
-------
+수동태 명령법 현재
+~~~~~~~~~~~~~~~~~~
 
-.. todo:: 분사를 사용하는 수동태 완료형 하나로 묶을지 생각해 볼 것.
+수동태 명령법 미래
+~~~~~~~~~~~~~~~~~~
 
-부정법
+부정사
 ------
 
 불규칙 동사
