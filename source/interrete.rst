@@ -42,4 +42,5 @@ Wikitionary
 
 인터넷에 개인이 정리한 라틴어 문법이 상당히 많이 있는 편이다. 그러나 아쉽게도 분량이 적은 경우가 많다. 여기에는 몇군데 참고할만한 곳을 메모 차원에서 적어놓도록 하겠다.
 
+* 성염 홈페이지 <http://www.donbosco.pe.kr/CCS/research/7latina.htm>
 * 유대칠, 토마스 철학 학교 <http://blog.daum.net/_blog/ArticleCateList.do?blogid=0567B&CATEGORYID=101778&dispkind=B2202>
