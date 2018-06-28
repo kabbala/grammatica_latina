@@ -1,13 +1,13 @@
 참고문헌
 ========
 
-.. [성염] 성염, :ref:`『古典 라틴어』 <성염의 고전 라틴어>`\(서울: 바오로딸), 1994., 『고급 라틴어(ALTIOR LATINAS)』(파주: 경세원), 2014.
+.. [성염] 성염, :ref:`『古典 라틴어』 <성염의 고전 라틴어>`\, 서울: 바오로딸, 1994., 『고급 라틴어(ALTIOR LATINAS)』, 파주: 경세원, 2014.
 
-[초급 라틴어] 허창덕, 『초급 라틴어: RUDIMIENTA LINGUAE LATINAE』(서울: 가톨릭대학교출판부), 제4판, 2005.
+[초급 라틴어] 허창덕, 『초급 라틴어: RUDIMIENTA LINGUAE LATINAE』, 서울: 가톨릭대학교출판부, 제4판, 2005.
 
-.. [한동일] 한동일, :ref:`『카르페 라틴어』 <카르페 라틴어>`\(서울: 문예림), 수정 증보판, 2012.
+.. [한동일] 한동일, :ref:`『카르페 라틴어』 <카르페 라틴어>`\, 서울: 문예림, 수정 증보판, 2012.
 
-.. [Andrews] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\(Boston: Crocker and Brewster), 18th ed., 1849. <https://archive.org/details/agrammarlatinla04andrgoog>
+.. [Andrews] Ethan Allen Andrews & Soloman Stoddard, :title-reference:`A Grammar of the Latin Language; for the Use of Schools and Colleges.`\, Boston: Crocker and Brewster, 18th ed., 1849. <https://archive.org/details/agrammarlatinla04andrgoog>
 
 [Allen & Greenough] Allen & Greenough, :title-reference:`New Latin Grammar for Schools and Colleges, founded on Comparative Grammar`, 1903. <https://archive.org/details/allengreenoughsn00alleiala>
 
