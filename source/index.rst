@@ -23,6 +23,7 @@
    :caption: 문자와 발음
 
    abecedarium
+   appellatio_litterarum
 
 .. toctree::
    :maxdepth: 2
