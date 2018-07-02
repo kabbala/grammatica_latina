@@ -7,6 +7,7 @@
    coniugatio_verbi
    stem
    ending
+   coniugatio_verbi_dictionarium
    coniugatio_praesentis
    coniugatio_imperativi_praesentis
    coniugatio_imperfecti
