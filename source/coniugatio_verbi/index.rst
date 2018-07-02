@@ -4,9 +4,9 @@
 
 .. toctree::
 
-   coniugatio_verbi
-   stem
-   ending
+   coniugatio_verbi_prooemium
+   coniugatio_verbi_stem
+   coniugatio_verbi_ending
    coniugatio_verbi_dictionarium
    coniugatio_praesentis
    coniugatio_imperativi_praesentis
