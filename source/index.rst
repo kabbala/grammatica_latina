@@ -15,15 +15,15 @@
    :maxdepth: 2
    :caption: 개요
 
-   introductio/divisio
-   introductio/graecus
+   /1-introductio/divisio
+   /1-introductio/graecus
 
 .. toctree::
    :maxdepth: 2
    :caption: 문자와 발음
 
-   abecedarium
-   appellatio_litterarum
+   /2-alphabet/abecedarium
+   /2-alphabet/appellatio_litterarum
 
 .. toctree::
    :maxdepth: 2
