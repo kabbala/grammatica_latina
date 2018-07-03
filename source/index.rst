@@ -29,9 +29,9 @@
    :maxdepth: 2
    :caption: 품사
 
-   pars
-   substantivum
-   verbum
+   /3-pars/pars_introductio
+   /3-pars/substantivum
+   /3-pars/verbum
 
 .. toctree::
    :maxdepth: 2
