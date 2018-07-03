@@ -7,26 +7,26 @@
 ####
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    prooemium
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 개요
 
    /1-introductio/divisio
    /1-introductio/graecus
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 문자와 발음
 
    /2-alphabet/abecedarium
    /2-alphabet/appellatio_litterarum
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 품사
 
    /3-pars/pars_introductio
@@ -43,7 +43,7 @@
    coniugatio_verbi/index
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 참고자료
 
    liber
