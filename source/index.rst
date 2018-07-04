@@ -15,21 +15,21 @@
    :maxdepth: 1
    :caption: 개요
 
-   /1-introductio/divisio
-   /1-introductio/graecus
+   /introductio/divisio
+   /introductio/graecus
 
 .. toctree::
    :maxdepth: 1
    :caption: 문자와 발음
 
-   /2-alphabet/abecedarium
-   /2-alphabet/appellatio_litterarum
+   /alphabet/abecedarium
+   /alphabet/appellatio_litterarum
 
 .. toctree::
    :maxdepth: 1
    :caption: 품사
 
-   /3-pars/pars
+   /pars/pars
 
 .. toctree::
    :maxdepth: 2
