@@ -25,9 +25,16 @@
 
    라틴어 알파벳은 다음의 이름으로 불린다.
 
-      * abecedarium(:sig:`n.`) A, B, C, D를 붙여서 읽은 것
+      * abecedarium(:sig:`n.`) A, B, C, D를 붙여서 읽은 것. 주로 돌에 새긴 알파벳을 말한다.
       * alphabētum(:sig:`n.`) 그리스어 A, B를 붙여서 읽은 것
       * elementa(:sig:`n. pl.`) 중간의 L(el), M(em), N(en)을 붙여서 읽은 것. 주변의 다른 언어에서 유래한 명명법으로 추정한다.
+
+   고대 라틴어는 우경식으로 쓰여졌기 때문에 돌에 새겨진 abecedarium은 아래와 같은 순서인 경우가 많다.
+
+      | AX, BV, CT, DS, ER, FQ, GP, HO, IN, LM
+
+   알파벳 중간의 L, M, N을 따서 elementa라고 부르는 것도 두 줄로 적었을 때 L, M, N이 앞에 오기 때문이다.
+
 
 .. note::
 
