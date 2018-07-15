@@ -19,6 +19,7 @@
 
 .. csv-table:: ego
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "ego, egō", "nōs"
@@ -30,6 +31,7 @@
 
 .. csv-table:: tū
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg.`, :tsig:`pl.`
    :tsig:`nom.`, "tū", "vōs"
@@ -38,10 +40,6 @@
    :tsig:`acc.`, "tē", "vōs"
    :tsig:`abl.`, "tē", "vōbīs"
    :tsig:`voc.`, "tū", "vōs"
-
-.. note::
-
-   현대 영어에서 2인칭 대명사의 단수형과 복수형이 you로 동일하기 때문에, 영어로 표기할 때 단수형 tū는 고어인 thou로, 복수형 vōs는 you 또는 고어인 ye로 표기하기도 한다.
 
 .. note::
 
@@ -59,11 +57,16 @@
       | pauci vestrum
       | multi vestrum
 
+.. note::
+
+   현대 영어에서 2인칭 대명사의 단수형과 복수형이 you로 동일하기 때문에, 영어로 표기할 때 단수형 tū는 고어인 thou로, 복수형 vōs는 you 또는 고어인 ye로 표기하기도 한다.
+
 소유 형용사
 -----------
 
 .. csv-table:: meus, a, um
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "me+us", "me+ī", "me+a", "me+ae", "me+um", "me+a"
@@ -71,12 +74,13 @@
    :tsig:`dat.`, "me+ō", "me+īs", "me+ae", "me+īs", "me+ō", "me+īs"
    :tsig:`acc.`, "me+um", "me+ōs", "me+am", "me+ās", "me+um", "me+ōs"
    :tsig:`abl.`, "me+ō", "me+īs", "me+ā", "me+īs", "me+ō", "me+īs"
-   :tsig:`voc.`, ":em:`mī`", "me+ī", "me+a", "me+ae", "me+um", "me+a"
+   :tsig:`voc.`, **mī**, "me+ī", "me+a", "me+ae", "me+um", "me+a"
 
 형용사 제1·2변화로 규칙변화 하나, 남성 호격 단수만 mī로 불규칙이다.
 
 .. csv-table:: noster, ra, rum
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "noster", "nostr+ī", "nostr+a", "nostr+ae", "nostr+um", "nostr+a"
@@ -84,12 +88,13 @@
    :tsig:`dat.`, "nostr+ō", "nostr+īs", "nostr+ae", "nostr+īs", "nostr+ō", "nostr+īs"
    :tsig:`acc.`, "nostr+um", "nostr+ōs", "nostr+am", "nostr+ās", "nostr+um", "nostr+ōs"
    :tsig:`abl.`, "nostr+ō", "nostr+īs", "nostr+ā", "nostr+īs", "nostr+ō", "nostr+īs"
-   :tsig:`voc.`, ":em:`noster`", "nostr+ī", "nostr+a", "nostr+ae", "nostr+um", "nostr+a"
+   :tsig:`voc.`, **noster**, "nostr+ī", "nostr+a", "nostr+ae", "nostr+um", "nostr+a"
 
 -er로 끝나는 형용사 제1·2변화로 규칙변화 한다.
 
 .. csv-table:: tuus, a, um
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "tu+us", "tu+ī", "tu+a", "tu+ae", "tu+um", "tu+a"
@@ -97,10 +102,11 @@
    :tsig:`dat.`, "tu+ō", "tu+īs", "tu+ae", "tu+īs", "tu+ō", "tu+īs"
    :tsig:`acc.`, "tu+um", "tu+ōs", "tu+am", "tu+ās", "tu+um", "tu+ōs"
    :tsig:`abl.`, "tu+ō", "tu+īs", "tu+ā", "tu+īs", "tu+ō", "tu+īs"
-   :tsig:`voc.`, "tu+\ :em:`e`", "tu+ī", "tu+a", "tu+ae", "tu+um", "tu+a"
+   :tsig:`voc.`, "tu+\ **e**\", "tu+ī", "tu+a", "tu+ae", "tu+um", "tu+a"
 
 .. csv-table:: vester, ra, rum
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "vester", "vestr+ī", "vestr+a", "vestr+ae", "vestr+um", "vestr+a"
@@ -108,7 +114,7 @@
    :tsig:`dat.`, "vestr+ō", "vestr+īs", "vestr+ae", "vestr+īs", "vestr+ō", "vestr+īs"
    :tsig:`acc.`, "vestr+um", "vestr+ōs", "vestr+am", "vestr+ās", "vestr+um", "vestr+ōs"
    :tsig:`abl.`, "vestr+ō", "vestr+īs", "vestr+ā", "vestr+īs", "vestr+ō", "vestr+īs"
-   :tsig:`voc.`, ":em:`vester`", "vestr+ī", "vestr+a", "vestr+ae", "vestr+um", "vestr+a"
+   :tsig:`voc.`, **vester**, "vestr+ī", "vestr+a", "vestr+ae", "vestr+um", "vestr+a"
 
 -er로 끝나는 형용사 제1·2변화로 규칙변화 한다.
 
@@ -121,6 +127,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "", :tsig:`sg. pl.`
    :tsig:`nom.`, ""
@@ -135,6 +142,7 @@
 
 .. csv-table:: suus, a, um
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "su+us", "su+ī", "su+a", "su+ae", "su+um", "su+a"
@@ -149,6 +157,7 @@
 
 .. csv-table:: is, ea, id
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "is", "eī, iī", "ea", "eae", "id", "ea"
@@ -159,6 +168,7 @@
 
 .. csv-table:: hic, haec, hoc
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "hic", "hī", "haec", "hae", "hoc", "haec"
@@ -169,6 +179,7 @@
 
 .. csv-table:: ille, illa, illud
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "ille", "illī", "illa", "illae", "illud", "illa"
@@ -179,6 +190,7 @@
 
 .. csv-table:: iste, ista, istud
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "iste", "istī", "ista", "istae", "istud", "ista"
@@ -194,6 +206,7 @@
 
 .. csv-table:: ipse, ipsa, ipsum
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "ipse", "ipsī", "ista", "ipsae", "istud", "ipsa"
@@ -204,6 +217,7 @@
 
 .. csv-table:: īdem, eadem, idem
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "īdem", "eīdem, īdem", "eadem", "eaedem", "idem", "eadem"
@@ -229,6 +243,7 @@
 
 .. csv-table:: quis, quis, quid
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "quis", "quī", "quis", "quae", "quid", "quae"
@@ -246,6 +261,7 @@
 
 .. csv-table:: quī, quae, quod
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m. sg.`, :tsig:`m. pl.`, :tsig:`f. sg.`, :tsig:`f. pl.`,:tsig:`n. sg.`, :tsig:`n. pl.`
    :tsig:`nom.`, "quī", "quī", "quae", "quae", "quod", "quae"
@@ -294,6 +310,7 @@
 
 .. csv-table::
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
    :tsig:`nom. sg.`, "-us/-er", "-a", "-um"
@@ -325,6 +342,7 @@ uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하�
 
 .. csv-table:: uterque, utraque, utrumque [*]_
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
    :tsig:`nom. sg.`, "uterque", "utraque", "utrumque"
@@ -350,6 +368,7 @@ uter에 후접사 que를 붙인 uterque(둘다 각각, 양쪽 다)는 동일하�
 
 .. csv-table:: alius, alia, aliud
    :header-rows: 1
+   :widths: auto
 
    "",  :tsig:`m.`, :tsig:`f.`, :tsig:`n.`
    :tsig:`nom. sg.`, "ali+us", "ali+a", "ali+\ :em:`ud`"
