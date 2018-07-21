@@ -38,7 +38,9 @@
    declinatio_nominis/index
    declinatio_adiectivi
    declinatio_pronominis
-   coniugatio_verbi/index
+   coniugatio_verbi_prooemium/coniugatio_verbi_prooemium
+   coniugatio_verbi_finitivi/index
+   coniugatio_verbi_infinitivi/index
 
 .. toctree::
    :maxdepth: 1
