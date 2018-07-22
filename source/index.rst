@@ -17,6 +17,7 @@
 
    /introductio/divisio
    /introductio/graecus
+   /introductio/english_and_latin
 
 .. toctree::
    :maxdepth: 1
