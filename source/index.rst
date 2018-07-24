@@ -31,6 +31,7 @@
    :caption: 품사
 
    /pars/pars
+   /pars/casus_nominis
 
 .. toctree::
    :maxdepth: 2
