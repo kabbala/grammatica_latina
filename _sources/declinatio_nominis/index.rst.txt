@@ -6,9 +6,9 @@
   declinatio_nominis
   declinatio_nominis_1
   declinatio_nominis_2
-  declinatio_nominis_3
-  declinatio_nominis_3_1
-  declinatio_nominis_3_2
-  declinatio_nominis_3_3
+  declinatio_nominis_3-1
+  declinatio_nominis_3-2
+  declinatio_nominis_3-3
+  declinatio_nominis_3-4
   declinatio_nominis_4
   declinatio_nominis_5
