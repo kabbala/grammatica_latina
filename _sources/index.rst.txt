@@ -31,6 +31,8 @@
    :caption: 품사
 
    /pars/pars
+   /pars/agreement
+   /pars/sententia
    /pars/casus_nominis
 
 .. toctree::
