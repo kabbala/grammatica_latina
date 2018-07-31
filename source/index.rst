@@ -33,18 +33,41 @@
    /pars/pars
    /pars/agreement
    /pars/sententia
-   /pars/casus_nominis
 
 .. toctree::
    :maxdepth: 2
-   :caption: 변화
+   :caption: 명사
 
-   declinatio_nominis/index
+   /pars/casus_nominis
+   /declinatio_nominis/declinatio_nominis
+   /declinatio_nominis/declinatio_nominis_1
+   /declinatio_nominis/declinatio_nominis_2
+   /declinatio_nominis/declinatio_nominis_3-1
+   /declinatio_nominis/declinatio_nominis_3-2
+   /declinatio_nominis/declinatio_nominis_3-3
+   /declinatio_nominis/declinatio_nominis_3-4
+   /declinatio_nominis/declinatio_nominis_4
+   /declinatio_nominis/declinatio_nominis_5
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 형용사
+
    declinatio_adiectivi
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 대명사
+
    declinatio_pronominis
-   coniugatio_verbi_prooemium/coniugatio_verbi_prooemium
-   coniugatio_verbi_finitivi/index
-   coniugatio_verbi_infinitivi/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 동사
+
+   /coniugatio_verbi_prooemium/coniugatio_verbi_prooemium
+   /coniugatio_verbi_finitivi/index
+   /coniugatio_verbi_infinitivi/index
 
 .. toctree::
    :maxdepth: 2
