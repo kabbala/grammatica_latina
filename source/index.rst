@@ -47,6 +47,12 @@
    coniugatio_verbi_infinitivi/index
 
 .. toctree::
+   :maxdepth: 2
+   :caption: 구문
+
+   clausa
+
+.. toctree::
    :maxdepth: 1
    :caption: 참고자료
 
