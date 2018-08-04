@@ -35,10 +35,10 @@
    /pars/sententia
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 명사
 
-   /pars/casus_nominis
+   /declinatio_nominis/casus_nominis
    /declinatio_nominis/declinatio_nominis
    /declinatio_nominis/declinatio_nominis_1
    /declinatio_nominis/declinatio_nominis_2
@@ -50,19 +50,19 @@
    /declinatio_nominis/declinatio_nominis_5
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 형용사
 
    declinatio_adiectivi
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 대명사
 
    declinatio_pronominis
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 동사
 
    /coniugatio_verbi_prooemium/coniugatio_verbi_prooemium
