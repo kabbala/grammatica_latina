@@ -67,6 +67,7 @@
 
    /coniugatio_verbi_prooemium/coniugatio_verbi_prooemium
    /coniugatio_verbi_finitivi/index
+   /coniugatio_verbi_finitivi/coniunctivus_modus
    /coniugatio_verbi_infinitivi/index
 
 .. toctree::
