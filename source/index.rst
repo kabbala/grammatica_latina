@@ -16,8 +16,7 @@
    :caption: 개요
 
    /introductio/divisio
-   /introductio/graecus
-   /introductio/english_and_latin
+   /introductio/aliae_linguae
 
 .. toctree::
    :maxdepth: 1
