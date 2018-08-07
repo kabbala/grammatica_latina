@@ -54,3 +54,4 @@ Wikitionary
 
 * http://members.aon.at/latein/ (독일어)
 * http://www.lingua-latina.org/ (일본어)
+* http://www.rechus.de/latein/grammatik/allgemein-latgram.htm (독일어)
