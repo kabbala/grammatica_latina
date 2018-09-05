@@ -75,6 +75,7 @@
    :caption: 구문
 
    clausa
+   ut
 
 .. toctree::
    :maxdepth: 1
