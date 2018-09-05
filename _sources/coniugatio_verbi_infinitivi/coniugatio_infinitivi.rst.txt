@@ -10,8 +10,8 @@
 
    "", "능동태", "수동태"
    "현재", "미완료형(현재형) 어간+re", "미완료형(현재형) 어간+rī/ī [*]_"
-   "과거", "완료형(과거형) 어간+isse", "과거분사_esse"
-   "미래", "미래분사_esse", "목적분사_īrī"
+   "과거", "완료형(과거형) 어간+isse", "과거분사␣esse"
+   "미래", "미래분사␣esse", "목적분사␣īrī"
 
 .. [*] 제3변화 동사에서는 ``-ī``\를 사용.
 
@@ -156,7 +156,7 @@ esse를 더해서 만든다. esse는 sum의 수동 현재 부정사로 변화하
 
    "", "I", "II", "III-o", "III-io", "IV"
    "어간모음", "ā", "ē", "∅", "i", "ī"
-   "", "amāt+us/a/um_esse", "tent+us/a/um_esse", "duct+us/a/um_esse", "capt+us/a/um_esse", "audīt+us/a/um_esse"
+   "", "amāt+us/a/um␣esse", "tent+us/a/um␣esse", "duct+us/a/um␣esse", "capt+us/a/um␣esse", "audīt+us/a/um␣esse"
 
 그런데, 부정사가 목적격으로 주로 사용되기 때문에 수동 과거 부정사를 표기할 때, 형용사 제1·2변화의 기본형인 -us, -a, -am 형태의 주격 단수가 아니라, -um, -am, -um 형태의 목적격 단수로 표기하기도 한다.
 
@@ -175,7 +175,7 @@ sum의 현재 부정사로, 변화하지 않으며 띄어쓰기 한다.
 
    "", "I", "II", "III-o", "III-io", "IV"
    "어간모음", "ā", "ē", "∅", "i", "ī"
-   "", "amāt+ūrus/ūra/ūrum_esse", "tent+ūrus/ūra/ūrum_esse", "duct+ūrus/ūra/ūrum_esse", "capt+ūrus/ūra/ūrum_esse", "audīt+ūrus/ūra/ūrum_esse"
+   "", "amāt+ūrus/ūra/ūrum␣esse", "tent+ūrus/ūra/ūrum␣esse", "duct+ūrus/ūra/ūrum␣esse", "capt+ūrus/ūra/ūrum␣esse", "audīt+ūrus/ūra/ūrum␣esse"
 
 분사형 어간에 제1·2변화 형용사 어미를 붙인 것은 능동태 미래 분사와 형태가 동일하다. 즉 미래 분사에 esse를 붙인 형태와 같다.
 
@@ -206,7 +206,7 @@ supinum이라는 말에 활용하지 않는다는 뜻이 있다.
 
    "", "I", "II", "III-o", "III-io", "IV"
    "어간모음", "ā", "ē", "∅", "i", "ī"
-   "", "amāt+um_īrī", "tent+um_īrīe", "duct+um_īrī", "capt+um_īrī", "audīt+um_īrī"
+   "", "amāt+um␣īrī", "tent+um␣īrī", "duct+um␣īrī", "capt+um␣īrī", "audīt+um␣īrī"
 
 불규칙 변화
 ^^^^^^^^^^^
