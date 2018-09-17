@@ -54,9 +54,6 @@
    * QD quaque die 매일
    * SQ subcutāneus 피하(皮下)
 
-학명
-----
-
 속담
 ----
 

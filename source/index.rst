@@ -84,6 +84,7 @@
    liber
    interrete
    viva
+   nomen_binominale
    media
 
 .. toctree::
